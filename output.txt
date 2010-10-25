@@ -1,0 +1,287 @@
+10	http://www.infosci.cornell.edu/index.html	Cornell Information Science	Information Science
+10	http://www.infosci.cornell.edu/ugrad/ugradContact.html	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/courseconflictcharts.html	Cornell Information Science	
+10	http://www.infosci.cornell.edu/ugrad/newsarticles.htm	Cornell Information Science	
+10	http://www.infosci.cornell.edu/ugrad/ISSTRequirements.htm	Cornell Information Science	
+10	http://www.infosci.cornell.edu/ugrad/isst.htm	Cornell Information Science	
+10	http://www.infosci.cornell.edu/ugrad/ISSA.htm	Cornell Information Science	
+10	http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm	Cornell Information Science	
+10	http://www.infosci.cornell.edu/ugrad/ISLinks.htm	Cornell Information Science	
+10	http://www.infosci.cornell.edu/ugrad/ISEmployers.htm	Cornell Information Science	
+10	http://www.infosci.cornell.edu/ugrad/ISCareers.htm	Cornell Information Science	
+10	http://www.infosci.cornell.edu/ugrad/index.html	Cornell Information Science	
+10	http://www.infosci.cornell.edu/ugrad/FAQs.htm	Cornell Information Science	
+10	http://www.infosci.cornell.edu/ugrad/concentrations.html	Cornell Information Science	
+10	http://www.infosci.cornell.edu/ugrad/CALSRequirements.htm	Cornell Information Science	
+10	http://www.infosci.cornell.edu/ugrad/CALS.htm	Cornell Information Science	
+10	http://www.infosci.cornell.edu/ugrad/ArtsRequirements.htm	Cornell Information Science	
+10	http://www.infosci.cornell.edu/ugrad/arts.htm	Cornell Information Science	
+10	http://www.infosci.cornell.edu/research/index.html	Cornell Information Science	IS Research Groups
+10	http://www.infosci.cornell.edu/courses/courses.asp	Cornell Information Science	Back to INFO course list+INFO 2310+INFO 3200+INFO 3660+INFO 4320+INFO 7050+INFO Courses
+10	http://www.infosci.cornell.edu/masters-preliminary/mastersGeneral.html	Cornell Information Science	
+10	http://www.infosci.cornell.edu/masters-preliminary/mastersCourses.html	Cornell Information Science	
+10	http://www.infosci.cornell.edu/masters-preliminary/index.html	Cornell Information Science	MPS degree in Information Science+Master of
+10	http://www.infosci.cornell.edu/jobs/index.html	Cornell Information Science	Job Openings
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%201300	Cornell Information Science	INFO 1300
+10	http://www.infosci.cornell.edu/graduateStudents/index.html	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202040	Cornell Information Science	
+10	http://www.infosci.cornell.edu/grad/FAQgrad.html	Cornell Information Science	FAQs
+10	http://www.infosci.cornell.edu/grad/classes.html	Cornell Information Science	PhD Recommended and+Recommended         and
+10	http://www.infosci.cornell.edu/facultyAndResearch/index.html	Cornell Information Science	Faculty & Researchers+Faculty Research Interests+IS Faculty and Researchers
+10	http://www.infosci.cornell.edu/courses/SP11offeringnotes.html	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/Projectlist.htm	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/nowebsite.htm	Cornell Information Science	INFO 2921+INFO 4144+INFO 4900
+10	http://www.infosci.cornell.edu/courses/Minor_in_Infosci.html	Cornell Information Science	Graduate Minor In
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202140	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202300	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202921	Cornell Information Science	
+10	http://www.infosci.cornell.edu/about/seminarSeries-spring2010.html	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/FA10offeringnotes.html	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/FA09offeringnotes.html	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/Coursesofinterest.htm	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/coursesgrad.asp	Cornell Information Science	INFO         Courses
+10	http://www.infosci.cornell.edu/courses/courses.html	Cornell Information Science	INFO Courses+Info courses
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202950	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203300	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207090	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203450	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206850	Cornell Information Science	CS           6850+INFO 6850
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204307	Cornell Information Science	INFO 4307
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204144	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%20415	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206400	Cornell Information Science	COMM 6400/INFO 6400
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206350	Cornell Information Science	INFO 6350
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206341	Cornell Information Science	INFO 6341/S&TS 6341
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206307	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206302	Cornell Information Science	INFO 6302:
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206300	Cornell Information Science	INFO           6300
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206144	Cornell Information Science	ART H 6144/INFO 6144
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206140	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%205300	Cornell Information Science	
+10	http://www.infosci.cornell.edu/about/index.html	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204300	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204900	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204302	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204470	Cornell Information Science	
+10	http://www.infosci.cornell.edu/about/colloq_videos.html	Cornell Information Science	
+10	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204400	Cornell Information Science	
+10	http://www.infosci.cornell.edu/about/seminarSeries.html	Cornell Information Science	Home+INFO 7090
+9	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204320	Cornell Information Science	
+9	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204450	Cornell Information Science	
+9	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204500	Cornell Information Science	
+9	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204910	Cornell Information Science	
+9	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%205150	Cornell Information Science	INFO 5150+[INFO 5150]
+9	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204290	Cornell Information Science	
+9	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206450	Cornell Information Science	COMM 6450/INFO 6450
+9	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206648	Cornell Information Science	INFO 6648 (LING 6648)
+9	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206500	Cornell Information Science	COMM 6500/INFO 6500
+9	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203660	Cornell Information Science	
+9	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203650	Cornell Information Science	
+9	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203561	Cornell Information Science	
+9	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203490	Cornell Information Science	
+9	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207050	Cornell Information Science	
+9	http://www.infosci.cornell.edu/grad/index.html	Cornell Information Science	Program Overview
+9	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203200	Cornell Information Science	
+9	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%209900	Cornell Information Science	
+9	http://www.infosci.cornell.edu/news/news.html	Cornell Information Science	
+9	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202450	Cornell Information Science	
+9	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202310	Cornell Information Science	
+9	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207900	Cornell Information Science	
+7	http://www.infosci.cornell.edu/courses/INFO490.htm	Cornell Information Science	
+5	http://www.infosci.cornell.edu/ugrad/nowebsite.htm	Cornell Information Science	INFO 2450+INFO 3490+INFO 3561+INFO 3650+INFO 4290+INFO 4450+INFO 4500+INFO 4910+INFO 5150+INFO 6450+INFO 6500+INFO 6648+INFO 7900+INFO 9900
+4	http://www.infosci.cornell.edu/hadoop/index.html	Cornell Web Lab: Hadoop	
+2	http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm	Cornell Information Science	
+2	http://www.infosci.cornell.edu/courses/info4300/2008fa/MapReduceHints.html	CS4300/INFO4300: Information Retrieval	MapReduce hints for CS/Info 4300
+2	http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html	CS4300/INFO4300: Information Retrieval	
+2	http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2009/SIGCHI_Mar09_09.htm	Cornell Information Science	
+2	http://www.infosci.cornell.edu/courses/info4300/2008fa/HadoopHints.html	CS4300/INFO4300: Information Retrieval	Hadoop hints for CS/Info 4300
+0	http://www.infosci.cornell.edu/about/seminarSeries-spring2009.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarSpring04/Apr1.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarSpring04/Apr14.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarSpring04/Apr7.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarSpring04/Feb24.html	Feb24.html	
+0	http://www.infosci.cornell.edu/about/SeminarSpring04/March10.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarSpring04/March31.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13b.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarSpring05/Apr20b.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarSpring05/Apr27.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarSpring05/Feb02.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarSpring05/Feb16.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarSpring05/June13.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarSpring05/June6.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarSpring05/March02.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarSpring05/March30.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarSpring05/March30b.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarSpring05/may4.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SIGCHI.html	Cornell Information Science	http://www.infosci.cornell.edu/about/SIGCHI.html
+0	http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/seminarSeries-fall2009.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/seminarSeries-fall2008.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarFall04/Sept22.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarFall04/Sept08.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarFall04/Oct20.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarFall04/Oct06.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarFall04/Nov17.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/SeminarFall04/Nov03.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/march1.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april7.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april19.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/sept14.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/oct12.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/IS-SIGCHI.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr30_08.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr21_08.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/facilities.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/contact.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP10/Mar17.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP10/Apr09.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP10/Apr07.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP10/Apr05.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP10/Apr02.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP09/Mar25.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP09/Jan28.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP09/Feb25.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP09/Apr29.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP09/Apr15.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP08/May7.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP08/Mar5.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP08/Mar26.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP08/Mar12.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP08/Mar10.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP08/Jan30.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP08/Jan24.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP08/Feb27.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP08/Feb20.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP08/Feb13.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP08/Apr2.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP08/Apr16.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP07/Mar28.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP07/Mar14.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP07/Jan31.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP07/Jan22.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP07/Apr4.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumSP07/Apr18.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%2027.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%2013.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%201.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/courses/info204/2007sp/index.htm	Networks (Econ/Soc/CS/Info 204, David Easley and Jon Kleinberg)	
+0	http://www.infosci.cornell.edu/courses/info204/2008sp/index.htm	Networks (Econ/Soc/Info 204, David Easley and Jon Kleinberg)	
+0	http://www.infosci.cornell.edu/courses/info2040/2009sp/index.htm	Networks (Econ/Soc/CS/Info , David Easley and Jon Kleinberg)	
+0	http://www.infosci.cornell.edu/courses/info2040/2010fa/index.htm	Networks (Econ/Soc/CS/Info , David Easley and Jon Kleinberg)	
+0	http://www.infosci.cornell.edu/courses/info2040/2010sp/index.htm	Networks (Econ/Soc/CS/Info , David Easley and Jon Kleinberg)	
+0	http://www.infosci.cornell.edu/courses/info2950/2008fa/default.htm	Info 2950	
+0	http://www.infosci.cornell.edu/courses/info2950/2010sp/index.html	INFO 2950 Spring 2010	
+0	http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%2010.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%201.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/Courses/info4300/2009fa/about.html	CS4300/INFO4300: Information Retrieval	
+0	http://www.infosci.cornell.edu/Courses/info4300/2009fa/assignments.html	CS4300/INFO4300: Information Retrieval	
+0	http://www.infosci.cornell.edu/Courses/info4300/2009fa/code.html	CS4300/INFO4300: Information Retrieval	
+0	http://www.infosci.cornell.edu/Courses/info4300/2009fa/exams.html	CS4300/INFO4300: Information Retrieval	
+0	http://www.infosci.cornell.edu/Courses/info4300/2009fa/index.html	CS4300/INFO4300: Information Retrieval	
+0	http://www.infosci.cornell.edu/Courses/info4300/2009fa/readings.html	CS4300/INFO4300: Information Retrieval	
+0	http://www.infosci.cornell.edu/Courses/info4300/2009fa/syllabus.html	CS4300/INFO4300: Information Retrieval	Fall '09
+0	http://www.infosci.cornell.edu/Courses/info4300/2009fa/test/URLhints.html	CS430/INFO430: Information Retrieval	
+0	http://www.infosci.cornell.edu/Courses/info4300/2010fa/about.html	CS4300/INFO4300: Information Retrieval	
+0	http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment1.html	CS4300/INFO430: Information Retrieval Assignment 1	
+0	http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment2.html	CS4300/INFO4300: Information Retrieval	
+0	http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment3.html	CS4300/INFO4300: Information Retrieval	
+0	http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignments.html	CS4300/INFO4300: Information Retrieval Assignments	
+0	http://www.infosci.cornell.edu/Courses/info4300/2010fa/code.html	CS4300/INFO4300: Information Retrieval	
+0	http://www.infosci.cornell.edu/Courses/info4300/2010fa/exams.html	CS4300/INFO4300: Information Retrieval	
+0	http://www.infosci.cornell.edu/Courses/info4300/2010fa/index.html	CS4300/INFO4300: Information Retrieval	
+0	http://www.infosci.cornell.edu/Courses/info4300/2010fa/readings.html	CS4300/INFO4300: Information Retrieval	
+0	http://www.infosci.cornell.edu/Courses/info4300/2010fa/sample-exam.html	CS4300/INFO4300: Information Retrieval	
+0	http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2030.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/Courses/info4300/2010fa/testData.html	CS4300/INFO4300: Information Retrieval Test Data	
+0	http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2023.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%202.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2010.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA09/Oct%205.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA09/Oct%2014.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/dl/core-integration.html	NSDL Core Integration at Cornell	
+0	http://www.infosci.cornell.edu/dl/dl-archive.html	Archive of Digital Libraries Research at Cornell	
+0	http://www.infosci.cornell.edu/dl/dl-people.html	Digital Libraries Research at Cornell: People	
+0	http://www.infosci.cornell.edu/dl/epub.html	Innovation in Electronic Publishing	
+0	http://www.infosci.cornell.edu/dl/index.html	Digital Libraries Research at Cornell	
+0	http://www.infosci.cornell.edu/dl/nsdl-cornell.html	The NSDL at Cornell	
+0	http://www.infosci.cornell.edu/about/ColloquiumFA09/Nov%2011.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA08/Sept17.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA08/Sept11.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA08/Oct29.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/graduateStudents/alumni.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA08/Oct15.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/hadoop/cac.html	Cornell Web Lab: Hadoop	
+0	http://www.infosci.cornell.edu/hadoop/config.html	Cornell Web Lab: Hadoop	
+0	http://www.infosci.cornell.edu/hadoop/docs.html	Cornell Web Lab: Hadoop	http://www.infosci.cornell.edu/hadoop/docs.html
+0	http://www.infosci.cornell.edu/about/colloquiumFA08/Oct1.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/hadoop/mac.html	Cornell Web Lab: Hadoop	Preparing a MapReduce job on a Macintosh computer
+0	http://www.infosci.cornell.edu/hadoop/monitor.html	Cornell Web Lab: Hadoop	
+0	http://www.infosci.cornell.edu/hadoop/prog.html	Cornell Web Lab: Hadoop	
+0	http://www.infosci.cornell.edu/hadoop/runjob.html	Cornell Web Lab: Hadoop	
+0	http://www.infosci.cornell.edu/hadoop/windows.html	Cornell Web Lab: Hadoop	Preparing a MapReduce job on a Windows computer
+0	http://www.infosci.cornell.edu/about/colloquiumFA08/Nov19.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA08/Nov12.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/masters-preliminary/mastersAdmissions.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA07/Oct3.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA07/Oct24.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/masters-preliminary/mastersRequirements.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA07/Oct10.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/pathways/index.html	Pathways	
+0	http://www.infosci.cornell.edu/about/colloquiumFA07/Nov7.html	Cornell Information Science	Encountering Traces: Where is the Goffman of the Internet
+0	http://www.infosci.cornell.edu/SIN/cybertools/index.html	Cornell University: Next Generation Cybertools	
+0	http://www.infosci.cornell.edu/SIN/index.html	Cornell University: Research in Social and Information Networks	
+0	http://www.infosci.cornell.edu/about/colloquiumFA07/Nov28.html	Cornell Information Science	Enhancing Face-to-Face Interactions with Multi-User Computing
+0	http://www.infosci.cornell.edu/ugrad/ArtsAdmissions.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/ArtsAffiliationcriteria.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/ArtsAffiliationforms.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/Artsgoodstanding.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/ArtsHonors.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/ArtsMajor.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA07/Aug30.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA06/sept27.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/CALSAdmissions.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/CALSAffiliationcriteria.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/CALSAffiliationforms.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/CALSgoodstanding.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/CALSHonors.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/CALSMajor.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA06/sept13.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA06/Oct25.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA06/Oct11.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/Glasgal.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA06/Nov8.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA06/Nov29.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA06/Dec12.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA05/sept7.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA05/oct5.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA05/oct19.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA05/nov30.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/ISSTAdmissions.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/ISSTAffiliation.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/ISSTAffiliationforms.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/ISSTgoodstanding.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/ISSTHonors.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/ISSTMajor.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquiumFA05/nov2.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/Kerchner.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/Kruse.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquium-spring2006.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquium-fall2006.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/Recker.htm	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/sampleSched_Agg.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/sampleSched_Arts.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/ugrad/sampleSched_Engin.html	Cornell Information Science	
+0	http://www.infosci.cornell.edu/about/colloquium-fall2005.html	Cornell Information Science	
+0	http://weblab.infosci.cornell.edu/contact.html	The Cornell Web Lab	
+0	http://weblab.infosci.cornell.edu/contributors.html	The Cornell Web Lab	
+0	http://weblab.infosci.cornell.edu/documentation.html	The Cornell Web Lab	
+0	http://weblab.infosci.cornell.edu/index.html	The Cornell Web Lab	
+0	http://weblab.infosci.cornell.edu/overview.html	The Cornell Web Lab	
+0	http://weblab.infosci.cornell.edu/policy.html	The Cornell Web Lab	
+0	http://weblab.infosci.cornell.edu/publications.html	The Cornell Web Lab	
+0	http://weblab.infosci.cornell.edu/status.html	The Cornell Web Lab	

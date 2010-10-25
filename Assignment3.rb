@@ -22,9 +22,13 @@ class Assignment3
         # For each link
         links.each do |link|
           # If we keep track of the linked-to page
-          if(@pages.any? {|p| p[:url] == link[:link_url]})
+          linked_to_page = @pages.find {|p| p[:url] == link[:link_url]}
+          if(!linked_to_page.nil?)
             # Add it to this page's collection of links
             page[:links] << link
+            # Also add the anchor text to the linked-to page's
+            # collection of anchor texts
+            linked_to_page[:anchor_text] << link[:anchor_text]
           end
         end
       end
@@ -41,7 +45,8 @@ class Assignment3
       {:page_id => page_id,
        :page_title => get_page_title(url),
        :url => url,
-       :links => []}
+       :links => [],
+       :anchor_text => []}
     end
   end
 
@@ -83,11 +88,11 @@ class Assignment3
   # we create a dense version
   def self.sparse_to_dense(sparse)
     # First create a matrix of all zeros
-    m = Matrix::Int.zeros(sparse.size, sparse.size)
-    # Now let's go through and add a one where needed
+    m = Matrix.zeros(sparse.size, sparse.size)
+    # Now let's go through and add a value where needed
     sparse.each do |row, columns|
       columns.each do |col|
-        m[row - 1, col - 1] = 1
+        m[row - 1, col - 1] = 1.0/columns.size.to_f
       end
     end
     m

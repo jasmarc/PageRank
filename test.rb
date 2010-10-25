@@ -30,16 +30,31 @@ class TestPageRank < Test::Unit::TestCase
       [page[:page_id], links]
     end
     foo = Assignment3.sparse_to_dense foo
+    answer = []
     Assignment3.pagerank(foo).each_row do |row|
-      puts row
+      answer << row[0]
+    end
+    min = answer.min
+    scale = answer.max - answer.min
+    answer.map! { |x| (10*((x.to_f - min)/scale.to_f)).round }
+    PAGE_MATRIX.each do |page|
+      index = page[:page_id] - 1
+      page[:page_rank] = answer[index]
+    end
+    File.open("output.txt", 'w') do |f|
+      PAGE_MATRIX.sort {|a,b| b[:page_rank] <=> a[:page_rank]}.each do |p|
+        anchor = p[:anchor_text].reject {|x| x.empty? }.uniq.sort.map!{|x| x.gsub("\r\n","").strip}.join("+")
+        title = p[:page_title].gsub("\n","").strip
+        f.puts "#{p[:page_rank]}\t#{p[:url]}\t#{title}\t#{anchor}"
+      end
     end
   end
 
   def test_sparse_matrix
-    expected = Matrix::Int[[1, 0, 1, 0],
-                           [1, 0, 0, 0],
-                           [0, 1, 0, 0],
-                           [0, 0, 1, 0]]
+    expected = Matrix[[0.5, 0, 0.5, 0],
+                      [  1, 0,   0, 0],
+                      [  0, 1,   0, 0],
+                      [  0, 0,   1, 0]]
     actual = [[1, [1, 3]], [2, [1]], [3, [2]], [4, [3]]]
     assert_equal expected, Assignment3.sparse_to_dense(actual)
   end
