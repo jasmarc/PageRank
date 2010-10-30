@@ -1,0 +1,17 @@
+  1	http://www.infosci.cornell.edu/index.html
+  2	http://www.infosci.cornell.edu/about/contact.html
+  3	http://www.infosci.cornell.edu/about/facilities.html
+  4	http://www.infosci.cornell.edu/about/index.html
+  5	http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr21_08.html
+  6	http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr30_08.htm
+  7	http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2009/SIGCHI_Mar09_09.htm
+  8	http://www.infosci.cornell.edu/ugrad/Recker.htm
+  9	http://www.infosci.cornell.edu/ugrad/sampleSched_Agg.html
+ 10	http://www.infosci.cornell.edu/ugrad/sampleSched_Arts.html
+ 11	http://www.infosci.cornell.edu/ugrad/sampleSched_Engin.html
+ 12	http://www.infosci.cornell.edu/ugrad/ugradContact.html
+ 13	http://weblab.infosci.cornell.edu/contact.html
+ 14	http://weblab.infosci.cornell.edu/contributors.html
+ 15	http://weblab.infosci.cornell.edu/documentation.html
+ 16	http://weblab.infosci.cornell.edu/index.html
+ 17	http://weblab.infosci.cornell.edu/status.html
