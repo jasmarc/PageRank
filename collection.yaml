@@ -2,12 +2,12 @@
 http://www.infosci.cornell.edu/ugrad/isst.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Information Science, Systems, and Technology \r\n            (Engineering) ": true
+      Information Science, Systems, and Technology (Engineering): true
       ISST Main Menu: true
   id: 263
   links: 
     http://www.infosci.cornell.edu/ugrad/ISSTMajor.htm: !ruby/object:Link 
-      anchor: "General information "
+      anchor: General information
       id: 269
       url: http://www.infosci.cornell.edu/ugrad/ISSTMajor.htm
     http://www.infosci.cornell.edu/ugrad/FAQs.htm: !ruby/object:Link 
@@ -23,7 +23,7 @@ http://www.infosci.cornell.edu/ugrad/isst.htm: !ruby/object:Page
       id: 267
       url: http://www.infosci.cornell.edu/ugrad/ISSTgoodstanding.htm
     http://www.infosci.cornell.edu/ugrad/ISSTHonors.htm: !ruby/object:Link 
-      anchor: "Honors "
+      anchor: Honors
       id: 268
       url: http://www.infosci.cornell.edu/ugrad/ISSTHonors.htm
     http://www.infosci.cornell.edu/ugrad/ISLinks.htm: !ruby/object:Link 
@@ -118,16 +118,14 @@ http://www.infosci.cornell.edu/hadoop/monitor.html: !ruby/object:Page
   id: 223
   links: 
     http://www.infosci.cornell.edu/hadoop/index.html: !ruby/object:Link 
-      anchor: |-
-        Hadoop
-              Home
+      anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
   url: http://www.infosci.cornell.edu/hadoop/monitor.html
 http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Spring 2008 Colloquium ": true
+      Spring 2008 Colloquium: true
   id: 96
   links: 
     http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html: !ruby/object:Link 
@@ -147,7 +145,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm: !ruby/object:
       id: 70
       url: http://www.infosci.cornell.edu/about/colloq_videos.html
     http://www.infosci.cornell.edu/about/colloquium-fall2006.html: !ruby/object:Link 
-      anchor: "Fall 2006 Colloquium "
+      anchor: Fall 2006 Colloquium
       id: 3
       url: http://www.infosci.cornell.edu/about/colloquium-fall2006.html
     http://www.infosci.cornell.edu/about/colloquiumSP08/Apr16.html: !ruby/object:Link 
@@ -167,7 +165,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm: !ruby/object:
       id: 50
       url: http://www.infosci.cornell.edu/about/colloquiumSP08/Feb13.html
     http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html: !ruby/object:Link 
-      anchor: " Spring 2004 Colloquium"
+      anchor: Spring 2004 Colloquium
       id: 93
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html
     http://www.infosci.cornell.edu/about/colloquium-fall2005.html: !ruby/object:Link 
@@ -179,7 +177,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm: !ruby/object:
       id: 4
       url: http://www.infosci.cornell.edu/about/colloquium-spring2006.html
     http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm: !ruby/object:Link 
-      anchor: "Spring 2007 Colloquium "
+      anchor: Spring 2007 Colloquium
       id: 95
       url: http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm
     http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Link 
@@ -191,7 +189,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm: !ruby/object:
       id: 94
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html
     http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm: !ruby/object:Link 
-      anchor: "Fall 2007 Colloquium "
+      anchor: Fall 2007 Colloquium
       id: 90
       url: http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm
     http://www.infosci.cornell.edu/about/SIGCHI.html: !ruby/object:Link 
@@ -318,7 +316,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2009fa/readings.html: !ruby/obje
       id: 182
       url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/assignments.html
     http://www.infosci.cornell.edu/Courses/info4300/2009fa/readings.html: !ruby/object:Link 
-      anchor: Readings
+      anchor: Books and Readings
       id: 186
       url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/readings.html
     http://www.infosci.cornell.edu/Courses/info4300/2009fa/exams.html: !ruby/object:Link 
@@ -436,9 +434,7 @@ http://www.infosci.cornell.edu/hadoop/config.html: !ruby/object:Page
   id: 219
   links: 
     http://www.infosci.cornell.edu/hadoop/index.html: !ruby/object:Link 
-      anchor: |-
-        Hadoop
-              Home
+      anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
   url: http://www.infosci.cornell.edu/hadoop/config.html
@@ -536,11 +532,8 @@ http://www.infosci.cornell.edu/ugrad/ISEmployers.htm: !ruby/object:Page
 http://www.infosci.cornell.edu/ugrad/ArtsAffiliationcriteria.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "\r\n\
-        \t      criteria for admission to the major": true
       criteria for admission to the major: true
-      "criteria \r\n\
-        \t       for admission to the major": true
+      criteria 	 for admission to the major: true
   id: 240
   links: 
     http://www.infosci.cornell.edu/ugrad/ArtsRequirements.htm: !ruby/object:Link 
@@ -595,7 +588,7 @@ http://www.infosci.cornell.edu/ugrad/ArtsAffiliationcriteria.htm: !ruby/object:P
 http://www.infosci.cornell.edu/ugrad/ArtsAdmissions.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Admission to the major ": true
+      Admission to the major: true
   id: 239
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -619,9 +612,7 @@ http://www.infosci.cornell.edu/ugrad/ArtsAdmissions.htm: !ruby/object:Page
       id: 254
       url: http://www.infosci.cornell.edu/ugrad/concentrations.html
     http://www.infosci.cornell.edu/ugrad/ArtsAffiliationcriteria.htm: !ruby/object:Link 
-      anchor: |-
-        criteria 
-        	       for admission to the major
+      anchor: criteria 	 for admission to the major
       id: 240
       url: http://www.infosci.cornell.edu/ugrad/ArtsAffiliationcriteria.htm
     http://www.infosci.cornell.edu/grad/index.html: !ruby/object:Link 
@@ -749,7 +740,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Jan30.html: !ruby/object:Pag
 http://www.infosci.cornell.edu/about/colloquiumFA08/Oct29.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      " MINING THE HOME MOVIE": true
+      MINING THE HOME MOVIE: true
   id: 27
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -882,36 +873,13 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/testData.html: !ruby/obje
       testData.html: true
       Test Data: true
   id: 200
-  links: 
-    http://www.infosci.cornell.edu/Courses/info4300/2010fa/index.html: !ruby/object:Link 
-      anchor: Home
-      id: 196
-      url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/index.html
-    http://www.infosci.cornell.edu/Courses/info4300/2010fa/code.html: !ruby/object:Link 
-      anchor: Academic Integrity
-      id: 194
-      url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/code.html
-    http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignments.html: !ruby/object:Link 
-      anchor: Assignments
-      id: 193
-      url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignments.html
-    http://www.infosci.cornell.edu/Courses/info4300/2010fa/readings.html: !ruby/object:Link 
-      anchor: Readings
-      id: 197
-      url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/readings.html
-    http://www.infosci.cornell.edu/Courses/info4300/2010fa/exams.html: !ruby/object:Link 
-      anchor: Examinations
-      id: 195
-      url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/exams.html
-    http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html: !ruby/object:Link 
-      anchor: Syllabus
-      id: 199
-      url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html
+  links: {}
+
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/testData.html
 http://www.infosci.cornell.edu/about/colloquiumFA05/oct19.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Economic \r\n                Natural Selection": true
+      Economic Natural Selection: true
   id: 7
   links: 
     http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
@@ -1040,7 +1008,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2030.html: !ruby/object
 http://www.infosci.cornell.edu/about/colloquiumFA08/Sept17.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      " PLOW: A Collaborative Task Learning Agent": true
+      "PLOW: A Collaborative Task Learning Agent": true
   id: 29
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -1400,8 +1368,8 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Feb27.html: !ruby/object:Pag
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Feb27.html
 http://www.infosci.cornell.edu/about/colloquiumFA08/Oct15.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
-    hash: 
-      " ": true
+    hash: {}
+
   id: 26
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -1556,7 +1524,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2009fa/exams.html: !ruby/object:
 http://www.infosci.cornell.edu/about/colloquiumSP10/Apr05.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Comint v. Comsec: Does Wiretapping Make Us More Secure? ": true
+      "Comint v. Comsec: Does Wiretapping Make Us More Secure?": true
   id: 66
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -1878,7 +1846,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13b.html: !ruby/object:P
 http://www.infosci.cornell.edu/about/SeminarSpring05/Apr20b.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Why You're \r\n              in the Trenches of the Copyright Wars": true
+      Why You're in the Trenches of the Copyright Wars: true
   id: 108
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -1889,7 +1857,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/Apr20b.html: !ruby/object:P
 http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/march1.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "When \r\n              I move, let\xE2\x80\x99s keep in touch: Mediated communication and relationship \r\n              maintenance": true
+      "When I move, let\xE2\x80\x99s keep in touch: Mediated communication and relationship maintenance": true
   id: 82
   links: 
     http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
@@ -1995,15 +1963,11 @@ http://www.infosci.cornell.edu/about/colloquium-fall2005.html: !ruby/object:Page
       id: 99
       url: http://www.infosci.cornell.edu/about/seminarSeries.html
     http://www.infosci.cornell.edu/about/colloquiumFA05/oct19.html: !ruby/object:Link 
-      anchor: |-
-        Economic 
-                        Natural Selection
+      anchor: Economic Natural Selection
       id: 7
       url: http://www.infosci.cornell.edu/about/colloquiumFA05/oct19.html
     http://www.infosci.cornell.edu/about/colloquiumFA05/sept7.html: !ruby/object:Link 
-      anchor: |-
-        Tracking 
-                      Social Networks Across Time and Space
+      anchor: Tracking Social Networks Across Time and Space
       id: 9
       url: http://www.infosci.cornell.edu/about/colloquiumFA05/sept7.html
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -2011,13 +1975,11 @@ http://www.infosci.cornell.edu/about/colloquium-fall2005.html: !ruby/object:Page
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
     http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html: !ruby/object:Link 
-      anchor: " Spring 2004 Colloquium"
+      anchor: Spring 2004 Colloquium
       id: 93
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html
     http://www.infosci.cornell.edu/about/colloquiumFA05/nov2.html: !ruby/object:Link 
-      anchor: |-
-        Feature-Driven 
-                      Graphics
+      anchor: Feature-Driven Graphics
       id: 5
       url: http://www.infosci.cornell.edu/about/colloquiumFA05/nov2.html
     http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Link 
@@ -2029,9 +1991,7 @@ http://www.infosci.cornell.edu/about/colloquium-fall2005.html: !ruby/object:Page
       id: 94
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html
     http://www.infosci.cornell.edu/about/IS-SIGCHI.html: !ruby/object:Link 
-      anchor: |-
-        IS-SIGCHI 
-                      Series
+      anchor: IS-SIGCHI Series
       id: 77
       url: http://www.infosci.cornell.edu/about/IS-SIGCHI.html
     http://www.infosci.cornell.edu/facultyAndResearch/index.html: !ruby/object:Link 
@@ -2043,9 +2003,7 @@ http://www.infosci.cornell.edu/about/colloquium-fall2005.html: !ruby/object:Page
       id: 215
       url: http://www.infosci.cornell.edu/grad/index.html
     http://www.infosci.cornell.edu/about/colloquiumFA05/nov30.html: !ruby/object:Link 
-      anchor: |-
-        Transformed 
-                      Social Interaction in Virtual Reality
+      anchor: Transformed Social Interaction in Virtual Reality
       id: 6
       url: http://www.infosci.cornell.edu/about/colloquiumFA05/nov30.html
     http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Link 
@@ -2053,10 +2011,7 @@ http://www.infosci.cornell.edu/about/colloquium-fall2005.html: !ruby/object:Page
       id: 71
       url: http://www.infosci.cornell.edu/about/contact.html
     http://www.infosci.cornell.edu/about/colloquiumFA05/oct5.html: !ruby/object:Link 
-      anchor: |-
-        Using 
-                      Visual Information to Coordinate Speech and Action in Collaborative 
-                      Physical Tasks
+      anchor: Using Visual Information to Coordinate Speech and Action in Collaborative Physical Tasks
       id: 8
       url: http://www.infosci.cornell.edu/about/colloquiumFA05/oct5.html
     http://www.infosci.cornell.edu/research/index.html: !ruby/object:Link 
@@ -2354,8 +2309,7 @@ http://weblab.infosci.cornell.edu/contributors.html: !ruby/object:Page
 http://www.infosci.cornell.edu/about/colloquiumFA07/Oct24.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Pictures of Traces of Places, People, and Groups: Recent Work from the Microsoft \r\n\
-        Research Community Technologies Group": true
+      "Pictures of Traces of Places, People, and Groups: Recent Work from the Microsoft Research Community Technologies Group": true
   id: 21
   links: 
     http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
@@ -2486,7 +2440,7 @@ http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Page
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206648: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "INFO 6648 (LING 6648) ": true
+      INFO 6648 (LING 6648): true
   id: 161
   links: 
     http://www.infosci.cornell.edu/ugrad/FAQs.htm: !ruby/object:Link 
@@ -2581,7 +2535,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206648: !ruby/ob
 http://www.infosci.cornell.edu/about/colloquiumFA05/nov2.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Feature-Driven \r\n              Graphics": true
+      Feature-Driven Graphics: true
   id: 5
   links: 
     http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
@@ -2758,7 +2712,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207900: !ruby/ob
 http://www.infosci.cornell.edu/about/SeminarSpring05/Feb16.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Is artist-friendly \r\n              graphics possible?": true
+      Is artist-friendly graphics possible?: true
   id: 111
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -2769,7 +2723,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/Feb16.html: !ruby/object:Pa
 http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%2010.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "The Second Information Science Research Cavalcade ": true
+      The Second Information Science Research Cavalcade: true
   id: 38
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -2808,7 +2762,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%2010.html: !ruby/object:
 http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Jofish's \r\n              talk": true
+      Jofish's talk: true
   id: 106
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -3095,8 +3049,8 @@ http://www.infosci.cornell.edu/about/colloquiumFA09/Oct%2014.html: !ruby/object:
   url: http://www.infosci.cornell.edu/about/colloquiumFA09/Oct%2014.html
 http://www.infosci.cornell.edu/about/colloquiumSP07/Apr18.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
-    hash: 
-      "Participatory Culture: New Media, Games and Deep Learning": true
+    hash: {}
+
   id: 42
   links: 
     http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
@@ -3143,7 +3097,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP07/Apr18.html: !ruby/object:Pag
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206300: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "INFO \r\n          6300": true
+      INFO 6300: true
   id: 153
   links: 
     http://www.infosci.cornell.edu/ugrad/FAQs.htm: !ruby/object:Link 
@@ -3236,7 +3190,7 @@ http://www.infosci.cornell.edu/ugrad/CALSRequirements.htm: !ruby/object:Page
     hash: 
       major requirements: true
       core courses: true
-      " B.S. in Information Science": true
+      B.S. in Information Science: true
       Degree requirements: true
   id: 253
   links: 
@@ -3414,7 +3368,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203450: !ruby/ob
 http://www.infosci.cornell.edu/about/SeminarSpring05/June13.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Automatic \r\n              Metadata Assignment for Internet Resources": true
+      Automatic Metadata Assignment for Internet Resources: true
   id: 112
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -3460,7 +3414,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP10/Apr07.html: !ruby/object:Pag
 http://www.infosci.cornell.edu/about/SeminarSpring05/Apr27.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "The Web Laboratory: \r\n              A petabyte collection of data for research on the content, structure, \r\n              and evolution of the Web": true
+      "The Web Laboratory: A petabyte collection of data for research on the content, structure, and evolution of the Web": true
   id: 109
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -3582,7 +3536,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2009.html: !ruby/object:P
       id: 99
       url: http://www.infosci.cornell.edu/about/seminarSeries.html
     http://www.infosci.cornell.edu/about/seminarSeries-spring2009.html: !ruby/object:Link 
-      anchor: "Spring 2009 Colloquium "
+      anchor: Spring 2009 Colloquium
       id: 97
       url: http://www.infosci.cornell.edu/about/seminarSeries-spring2009.html
     http://www.infosci.cornell.edu/about/colloq_videos.html: !ruby/object:Link 
@@ -3590,7 +3544,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2009.html: !ruby/object:P
       id: 70
       url: http://www.infosci.cornell.edu/about/colloq_videos.html
     http://www.infosci.cornell.edu/about/colloquium-fall2006.html: !ruby/object:Link 
-      anchor: "Fall 2006 Colloquium "
+      anchor: Fall 2006 Colloquium
       id: 3
       url: http://www.infosci.cornell.edu/about/colloquium-fall2006.html
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -3598,7 +3552,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2009.html: !ruby/object:P
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
     http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html: !ruby/object:Link 
-      anchor: " Spring 2004 Colloquium"
+      anchor: Spring 2004 Colloquium
       id: 93
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html
     http://www.infosci.cornell.edu/about/colloquium-fall2005.html: !ruby/object:Link 
@@ -3610,7 +3564,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2009.html: !ruby/object:P
       id: 4
       url: http://www.infosci.cornell.edu/about/colloquium-spring2006.html
     http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm: !ruby/object:Link 
-      anchor: "Spring 2007 Colloquium "
+      anchor: Spring 2007 Colloquium
       id: 95
       url: http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm
     http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Link 
@@ -3618,7 +3572,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2009.html: !ruby/object:P
       id: 72
       url: http://www.infosci.cornell.edu/about/facilities.html
     http://www.infosci.cornell.edu/about/colloquiumFA08/Nov19.html: !ruby/object:Link 
-      anchor: " "
+      anchor: ""
       id: 24
       url: http://www.infosci.cornell.edu/about/colloquiumFA08/Nov19.html
     http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html: !ruby/object:Link 
@@ -3626,11 +3580,11 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2009.html: !ruby/object:P
       id: 94
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html
     http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm: !ruby/object:Link 
-      anchor: "Fall 2007 Colloquium "
+      anchor: Fall 2007 Colloquium
       id: 90
       url: http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm
     http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm: !ruby/object:Link 
-      anchor: "Spring 2008 Colloquium "
+      anchor: Spring 2008 Colloquium
       id: 96
       url: http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm
     http://www.infosci.cornell.edu/about/seminarSeries-fall2008.html: !ruby/object:Link 
@@ -3677,7 +3631,6 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2009.html: !ruby/object:P
 http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      " Fall 2004 Colloquium": true
       Fall 2004 Colloquium: true
   id: 89
   links: 
@@ -3702,7 +3655,7 @@ http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html: !ruby/object:P
       id: 88
       url: http://www.infosci.cornell.edu/about/SeminarFall04/Sept22.html
     http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html: !ruby/object:Link 
-      anchor: " Spring 2004 Colloquium"
+      anchor: Spring 2004 Colloquium
       id: 93
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html
     http://www.infosci.cornell.edu/about/SeminarFall04/Nov03.html: !ruby/object:Link 
@@ -3730,7 +3683,7 @@ http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html: !ruby/object:P
       id: 71
       url: http://www.infosci.cornell.edu/about/contact.html
     http://www.infosci.cornell.edu/about/SeminarFall04/Oct20.html: !ruby/object:Link 
-      anchor: "Reconfiguring Agency at the Human-Computer Interface "
+      anchor: Reconfiguring Agency at the Human-Computer Interface
       id: 86
       url: http://www.infosci.cornell.edu/about/SeminarFall04/Oct20.html
     http://www.infosci.cornell.edu/graduateStudents/index.html: !ruby/object:Link 
@@ -3757,7 +3710,7 @@ http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html: !ruby/object:P
 http://www.infosci.cornell.edu/about/SeminarSpring05/Feb02.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Legal and \r\n              Technical Standards in Digital Rights Management": true
+      Legal and Technical Standards in Digital Rights Management: true
   id: 110
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -3989,7 +3942,7 @@ http://weblab.infosci.cornell.edu/documentation.html: !ruby/object:Page
 http://www.infosci.cornell.edu/ugrad/ISSTHonors.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Honors ": true
+      Honors: true
   id: 268
   links: 
     http://www.infosci.cornell.edu/ugrad/isst.htm: !ruby/object:Link 
@@ -4051,7 +4004,7 @@ http://www.infosci.cornell.edu/about/SeminarFall04/Nov17.html: !ruby/object:Page
 http://www.infosci.cornell.edu/about/colloquiumFA06/sept27.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "\"Hold that Thought! Why I care about automating \r\n             the capture of everyday activities\"": true
+      "\"Hold that Thought! Why I care about automating the capture of everyday activities\"": true
   id: 16
   links: 
     http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
@@ -4149,7 +4102,6 @@ http://www.infosci.cornell.edu/ugrad/ArtsAffiliationforms.htm: !ruby/object:Page
 http://www.infosci.cornell.edu/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      Information   Science Home: true
       Information Science Home: true
       Cornell Information Science: true
       Information Science: true
@@ -4306,8 +4258,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP07/Jan22.html: !ruby/object:Pag
 http://www.infosci.cornell.edu/ugrad/ISSTAffiliation.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "criteria for admission to \r\n\
-        \t            the major": true
+      criteria for admission to 	 the major: true
       criteria for admission to the major: true
   id: 265
   links: 
@@ -4636,7 +4587,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204302: !ruby/ob
 http://www.infosci.cornell.edu/about/SeminarSpring05/may4.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "The Emperor's \r\n              New Clothes: The Challenges of Designing Implicit Interactions": true
+      "The Emperor's New Clothes: The Challenges of Designing Implicit Interactions": true
   id: 117
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -4663,7 +4614,7 @@ http://www.infosci.cornell.edu/ugrad/index.html: !ruby/object:Page
       id: 119
       url: http://www.infosci.cornell.edu/courses/courseconflictcharts.html
     http://www.infosci.cornell.edu/ugrad/isst.htm: !ruby/object:Link 
-      anchor: "Information Science, Systems, and Technology \r\n            (Engineering) "
+      anchor: Information Science, Systems, and Technology (Engineering)
       id: 263
       url: http://www.infosci.cornell.edu/ugrad/isst.htm
     http://www.infosci.cornell.edu/ugrad/ISLinks.htm: !ruby/object:Link 
@@ -4687,7 +4638,7 @@ http://www.infosci.cornell.edu/ugrad/index.html: !ruby/object:Page
       id: 279
       url: http://www.infosci.cornell.edu/ugrad/ugradContact.html
     http://www.infosci.cornell.edu/ugrad/arts.htm: !ruby/object:Link 
-      anchor: "Information Science (Arts & Sciences) "
+      anchor: Information Science (Arts & Sciences)
       id: 238
       url: http://www.infosci.cornell.edu/ugrad/arts.htm
     http://www.infosci.cornell.edu/courses/courses.html: !ruby/object:Link 
@@ -4953,7 +4904,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Apr2.html: !ruby/object:Page
 http://www.infosci.cornell.edu/ugrad/ArtsMajor.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "General information ": true
+      General information: true
   id: 244
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -5280,7 +5231,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/exams.html: !ruby/object:
 http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      " Spring 2004 Colloquium": true
+      Spring 2004 Colloquium: true
   id: 93
   links: 
     http://www.infosci.cornell.edu/about/SeminarSpring04/March31.html: !ruby/object:Link 
@@ -5292,9 +5243,7 @@ http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html: !ruby/object
       id: 99
       url: http://www.infosci.cornell.edu/about/seminarSeries.html
     http://www.infosci.cornell.edu/about/SeminarSpring04/Apr7.html: !ruby/object:Link 
-      anchor: |-
-        Everyday Lies and Everyday Technology: 
-                          Deception, Design,
+      anchor: "Everyday Lies and Everyday Technology: Deception, Design,"
       id: 102
       url: http://www.infosci.cornell.edu/about/SeminarSpring04/Apr7.html
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -5302,19 +5251,15 @@ http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html: !ruby/object
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
     http://www.infosci.cornell.edu/about/SeminarSpring04/Feb24.html: !ruby/object:Link 
-      anchor: |-
-        A new research platform for investigating 
-                          hybrid networks
+      anchor: A new research platform for investigating hybrid networks
       id: 103
       url: http://www.infosci.cornell.edu/about/SeminarSpring04/Feb24.html
     http://www.infosci.cornell.edu/about/SeminarSpring04/Apr1.html: !ruby/object:Link 
-      anchor: |-
-        Exploring Bridges Between Open and 
-                          Vetted Information Domains: INFOMINE, iVia and Data Fountains
+      anchor: "Exploring Bridges Between Open and Vetted Information Domains: INFOMINE, iVia and Data Fountains"
       id: 100
       url: http://www.infosci.cornell.edu/about/SeminarSpring04/Apr1.html
     http://www.infosci.cornell.edu/about/SeminarSpring04/March10.html: !ruby/object:Link 
-      anchor: "Learning to Predict Complex Outputs \r\n                  "
+      anchor: Learning to Predict Complex Outputs
       id: 104
       url: http://www.infosci.cornell.edu/about/SeminarSpring04/March10.html
     http://www.infosci.cornell.edu/about/IS-SIGCHI.html: !ruby/object:Link 
@@ -5396,8 +5341,6 @@ http://www.infosci.cornell.edu/about/colloquiumFA07/Aug30.html: !ruby/object:Pag
 http://www.infosci.cornell.edu/ugrad/ISSTAffiliationforms.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      " \r\n\
-        \t  \t    affiliation forms ": true
       affiliation forms: true
   id: 266
   links: 
@@ -5717,7 +5660,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204307: !ruby/ob
 http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%201.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Untangling Attribution: Understanding the Requirements Needed for Attribution on the Network\t": true
+      "Untangling Attribution: Understanding the Requirements Needed for Attribution on the Network": true
   id: 37
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -5756,7 +5699,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%201.html: !ruby/object:P
 http://www.infosci.cornell.edu/about/SeminarSpring04/March10.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Learning to Predict Complex Outputs \r\n                  ": true
+      Learning to Predict Complex Outputs: true
   id: 104
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -5878,7 +5821,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2009fa/about.html: !ruby/object:
 http://www.infosci.cornell.edu/about/seminarSeries-spring2009.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Spring 2009 Colloquium ": true
+      Spring 2009 Colloquium: true
   id: 97
   links: 
     http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html: !ruby/object:Link 
@@ -5898,7 +5841,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2009.html: !ruby/object
       id: 70
       url: http://www.infosci.cornell.edu/about/colloq_videos.html
     http://www.infosci.cornell.edu/about/colloquium-fall2006.html: !ruby/object:Link 
-      anchor: "Fall 2006 Colloquium "
+      anchor: Fall 2006 Colloquium
       id: 3
       url: http://www.infosci.cornell.edu/about/colloquium-fall2006.html
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -5910,7 +5853,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2009.html: !ruby/object
       id: 62
       url: http://www.infosci.cornell.edu/about/colloquiumSP09/Feb25.html
     http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html: !ruby/object:Link 
-      anchor: " Spring 2004 Colloquium"
+      anchor: Spring 2004 Colloquium
       id: 93
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html
     http://www.infosci.cornell.edu/about/colloquium-fall2005.html: !ruby/object:Link 
@@ -5922,7 +5865,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2009.html: !ruby/object
       id: 4
       url: http://www.infosci.cornell.edu/about/colloquium-spring2006.html
     http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm: !ruby/object:Link 
-      anchor: "Spring 2007 Colloquium "
+      anchor: Spring 2007 Colloquium
       id: 95
       url: http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm
     http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Link 
@@ -5930,7 +5873,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2009.html: !ruby/object
       id: 72
       url: http://www.infosci.cornell.edu/about/facilities.html
     http://www.infosci.cornell.edu/about/colloquiumFA08/Nov19.html: !ruby/object:Link 
-      anchor: " "
+      anchor: ""
       id: 24
       url: http://www.infosci.cornell.edu/about/colloquiumFA08/Nov19.html
     http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html: !ruby/object:Link 
@@ -5938,11 +5881,11 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2009.html: !ruby/object
       id: 94
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html
     http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm: !ruby/object:Link 
-      anchor: "Fall 2007 Colloquium "
+      anchor: Fall 2007 Colloquium
       id: 90
       url: http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm
     http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm: !ruby/object:Link 
-      anchor: "Spring 2008 Colloquium "
+      anchor: Spring 2008 Colloquium
       id: 96
       url: http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm
     http://www.infosci.cornell.edu/about/seminarSeries-fall2008.html: !ruby/object:Link 
@@ -6009,11 +5952,11 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2010.html: !ruby/object
       id: 98
       url: http://www.infosci.cornell.edu/about/seminarSeries-spring2010.html
     http://www.infosci.cornell.edu/about/colloquiumSP10/Mar17.html: !ruby/object:Link 
-      anchor: "Computing Tie Strength "
+      anchor: Computing Tie Strength
       id: 69
       url: http://www.infosci.cornell.edu/about/colloquiumSP10/Mar17.html
     http://www.infosci.cornell.edu/about/seminarSeries-spring2009.html: !ruby/object:Link 
-      anchor: "Spring 2009 Colloquium "
+      anchor: Spring 2009 Colloquium
       id: 97
       url: http://www.infosci.cornell.edu/about/seminarSeries-spring2009.html
     http://www.infosci.cornell.edu/about/colloq_videos.html: !ruby/object:Link 
@@ -6021,7 +5964,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2010.html: !ruby/object
       id: 70
       url: http://www.infosci.cornell.edu/about/colloq_videos.html
     http://www.infosci.cornell.edu/about/colloquium-fall2006.html: !ruby/object:Link 
-      anchor: "Fall 2006 Colloquium "
+      anchor: Fall 2006 Colloquium
       id: 3
       url: http://www.infosci.cornell.edu/about/colloquium-fall2006.html
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -6033,7 +5976,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2010.html: !ruby/object
       id: 65
       url: http://www.infosci.cornell.edu/about/colloquiumSP10/Apr02.html
     http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html: !ruby/object:Link 
-      anchor: " Spring 2004 Colloquium"
+      anchor: Spring 2004 Colloquium
       id: 93
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html
     http://www.infosci.cornell.edu/about/colloquium-fall2005.html: !ruby/object:Link 
@@ -6045,7 +5988,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2010.html: !ruby/object
       id: 4
       url: http://www.infosci.cornell.edu/about/colloquium-spring2006.html
     http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm: !ruby/object:Link 
-      anchor: "Spring 2007 Colloquium "
+      anchor: Spring 2007 Colloquium
       id: 95
       url: http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm
     http://www.infosci.cornell.edu/about/seminarSeries-fall2009.html: !ruby/object:Link 
@@ -6057,7 +6000,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2010.html: !ruby/object
       id: 72
       url: http://www.infosci.cornell.edu/about/facilities.html
     http://www.infosci.cornell.edu/about/colloquiumFA08/Nov19.html: !ruby/object:Link 
-      anchor: " "
+      anchor: ""
       id: 24
       url: http://www.infosci.cornell.edu/about/colloquiumFA08/Nov19.html
     http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html: !ruby/object:Link 
@@ -6065,11 +6008,11 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2010.html: !ruby/object
       id: 94
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html
     http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm: !ruby/object:Link 
-      anchor: "Fall 2007 Colloquium "
+      anchor: Fall 2007 Colloquium
       id: 90
       url: http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm
     http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm: !ruby/object:Link 
-      anchor: "Spring 2008 Colloquium "
+      anchor: Spring 2008 Colloquium
       id: 96
       url: http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm
     http://www.infosci.cornell.edu/about/seminarSeries-fall2008.html: !ruby/object:Link 
@@ -6093,7 +6036,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2010.html: !ruby/object
       id: 71
       url: http://www.infosci.cornell.edu/about/contact.html
     http://www.infosci.cornell.edu/about/colloquiumSP10/Apr05.html: !ruby/object:Link 
-      anchor: "Comint v. Comsec: Does Wiretapping Make Us More Secure? "
+      anchor: "Comint v. Comsec: Does Wiretapping Make Us More Secure?"
       id: 66
       url: http://www.infosci.cornell.edu/about/colloquiumSP10/Apr05.html
     http://www.infosci.cornell.edu/graduateStudents/index.html: !ruby/object:Link 
@@ -6302,7 +6245,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%2013.html: !ruby/object:
 http://www.infosci.cornell.edu/about/SeminarSpring04/Apr7.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Everyday Lies and Everyday Technology: \r\n                  Deception, Design,": true
+      "Everyday Lies and Everyday Technology: Deception, Design,": true
   id: 102
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -6411,7 +6354,7 @@ http://www.infosci.cornell.edu/ugrad/arts.htm: !ruby/object:Page
   anchors: !ruby/object:Set 
     hash: 
       Arts & Sciences Main Menu: true
-      "Information Science (Arts & Sciences) ": true
+      Information Science (Arts & Sciences): true
   id: 238
   links: 
     http://www.infosci.cornell.edu/ugrad/FAQs.htm: !ruby/object:Link 
@@ -6447,11 +6390,11 @@ http://www.infosci.cornell.edu/ugrad/arts.htm: !ruby/object:Page
       id: 279
       url: http://www.infosci.cornell.edu/ugrad/ugradContact.html
     http://www.infosci.cornell.edu/ugrad/ArtsHonors.htm: !ruby/object:Link 
-      anchor: "Honors "
+      anchor: Honors
       id: 243
       url: http://www.infosci.cornell.edu/ugrad/ArtsHonors.htm
     http://www.infosci.cornell.edu/ugrad/ArtsMajor.htm: !ruby/object:Link 
-      anchor: "General information "
+      anchor: General information
       id: 244
       url: http://www.infosci.cornell.edu/ugrad/ArtsMajor.htm
     http://www.infosci.cornell.edu/ugrad/ISSA.htm: !ruby/object:Link 
@@ -6475,7 +6418,7 @@ http://www.infosci.cornell.edu/ugrad/arts.htm: !ruby/object:Page
       id: 215
       url: http://www.infosci.cornell.edu/grad/index.html
     http://www.infosci.cornell.edu/ugrad/ArtsAdmissions.htm: !ruby/object:Link 
-      anchor: "Admission to the major "
+      anchor: Admission to the major
       id: 239
       url: http://www.infosci.cornell.edu/ugrad/ArtsAdmissions.htm
     http://www.infosci.cornell.edu/ugrad/ISCareers.htm: !ruby/object:Link 
@@ -6518,7 +6461,7 @@ http://www.infosci.cornell.edu/ugrad/arts.htm: !ruby/object:Page
 http://www.infosci.cornell.edu/about/SeminarSpring04/Apr1.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Exploring Bridges Between Open and \r\n                  Vetted Information Domains: INFOMINE, iVia and Data Fountains": true
+      "Exploring Bridges Between Open and Vetted Information Domains: INFOMINE, iVia and Data Fountains": true
   id: 100
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -6730,7 +6673,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204470: !ruby/ob
 http://www.infosci.cornell.edu/about/colloquiumFA05/oct5.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Using \r\n              Visual Information to Coordinate Speech and Action in Collaborative \r\n              Physical Tasks": true
+      Using Visual Information to Coordinate Speech and Action in Collaborative Physical Tasks: true
   id: 8
   links: 
     http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
@@ -6777,7 +6720,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA05/oct5.html: !ruby/object:Page
 http://www.infosci.cornell.edu/about/SeminarSpring05/March02.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "The Design \r\n              of a Japanese Law Translation System": true
+      The Design of a Japanese Law Translation System: true
   id: 114
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -6930,7 +6873,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202921: !ruby/ob
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206850: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "CS \r\n          6850": true
+      CS 6850: true
       INFO 6850: true
   id: 162
   links: 
@@ -7325,7 +7268,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203300: !ruby/ob
 http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april19.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Designing \r\n              and evaluating new mobile media experiences": true
+      Designing and evaluating new mobile media experiences: true
   id: 80
   links: 
     http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
@@ -7882,7 +7825,7 @@ http://www.infosci.cornell.edu/ugrad/FAQs.htm: !ruby/object:Page
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
     http://www.infosci.cornell.edu/ugrad/CALSRequirements.htm: !ruby/object:Link 
-      anchor: " B.S. in Information Science"
+      anchor: B.S. in Information Science
       id: 253
       url: http://www.infosci.cornell.edu/ugrad/CALSRequirements.htm
     http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm: !ruby/object:Link 
@@ -7941,7 +7884,7 @@ http://www.infosci.cornell.edu/jobs/index.html: !ruby/object:Page
 http://www.infosci.cornell.edu/courses/coursesgrad.asp: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "INFO \r\n        Courses": true
+      INFO Courses: true
   id: 168
   links: 
     http://www.infosci.cornell.edu/grad/FAQgrad.html: !ruby/object:Link 
@@ -7961,9 +7904,7 @@ http://www.infosci.cornell.edu/courses/coursesgrad.asp: !ruby/object:Page
       id: 215
       url: http://www.infosci.cornell.edu/grad/index.html
     http://www.infosci.cornell.edu/courses/coursesgrad.asp: !ruby/object:Link 
-      anchor: |-
-        INFO 
-                Courses
+      anchor: INFO Courses
       id: 168
       url: http://www.infosci.cornell.edu/courses/coursesgrad.asp
     http://www.infosci.cornell.edu/research/index.html: !ruby/object:Link 
@@ -7979,7 +7920,7 @@ http://www.infosci.cornell.edu/courses/coursesgrad.asp: !ruby/object:Page
       id: 1
       url: http://www.infosci.cornell.edu/index.html
     http://www.infosci.cornell.edu/grad/classes.html: !ruby/object:Link 
-      anchor: "Recommended \r\n        and "
+      anchor: Recommended and
       id: 213
       url: http://www.infosci.cornell.edu/grad/classes.html
   url: http://www.infosci.cornell.edu/courses/coursesgrad.asp
@@ -8053,7 +7994,7 @@ http://www.infosci.cornell.edu/masters-preliminary/mastersAdmissions.html: !ruby
 http://www.infosci.cornell.edu/about/SeminarSpring05/March30.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Gilly's \r\n              talk": true
+      Gilly's talk: true
   id: 115
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -8250,7 +8191,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignments.html: !ruby/o
 http://www.infosci.cornell.edu/hadoop/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Hadoop\n      Home": true
+      Hadoop Home: true
   id: 221
   links: 
     http://www.infosci.cornell.edu/courses/info4300/2008fa/HadoopHints.html: !ruby/object:Link 
@@ -8297,7 +8238,7 @@ http://www.infosci.cornell.edu/hadoop/index.html: !ruby/object:Page
 http://www.infosci.cornell.edu/about/colloquiumFA05/sept7.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Tracking \r\n              Social Networks Across Time and Space": true
+      Tracking Social Networks Across Time and Space: true
   id: 9
   links: 
     http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
@@ -8532,8 +8473,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202040: !ruby/ob
 http://www.infosci.cornell.edu/about/colloquiumFA08/Nov19.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      " ": true
-      " Internet Addressing: The Next Great Battleground for Internet Governance": true
+      "Internet Addressing: The Next Great Battleground for Internet Governance": true
   id: 24
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -8729,7 +8669,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206400: !ruby/ob
 http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/sept14.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Desire, \r\n              DSP, and the Unfinished Process of Performing No-Thing": true
+      Desire, DSP, and the Unfinished Process of Performing No-Thing: true
   id: 79
   links: 
     http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
@@ -8781,9 +8721,7 @@ http://www.infosci.cornell.edu/hadoop/docs.html: !ruby/object:Page
   id: 220
   links: 
     http://www.infosci.cornell.edu/hadoop/index.html: !ruby/object:Link 
-      anchor: |-
-        Hadoop
-              Home
+      anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
   url: http://www.infosci.cornell.edu/hadoop/docs.html
@@ -9010,7 +8948,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html: !ruby/obje
 http://www.infosci.cornell.edu/about/SeminarSpring04/Feb24.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "A new research platform for investigating \r\n                  hybrid networks": true
+      A new research platform for investigating hybrid networks: true
   id: 103
   links: {}
 
@@ -9164,7 +9102,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204400: !ruby/ob
 http://www.infosci.cornell.edu/about/SeminarSpring05/June6.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Managing \r\n              E-loyalty through Design": true
+      Managing E-loyalty through Design: true
   id: 113
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -9371,9 +9309,7 @@ http://www.infosci.cornell.edu/hadoop/prog.html: !ruby/object:Page
   id: 224
   links: 
     http://www.infosci.cornell.edu/hadoop/index.html: !ruby/object:Link 
-      anchor: |-
-        Hadoop
-              Home
+      anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
   url: http://www.infosci.cornell.edu/hadoop/prog.html
@@ -9702,12 +9638,11 @@ http://www.infosci.cornell.edu/courses/info204/2007sp/index.htm: !ruby/object:Pa
     hash: 
       schedule of office hours: true
       outline of topics: true
-      outline: true
       list of handouts: true
   id: 172
   links: 
     http://www.infosci.cornell.edu/courses/info204/2007sp/index.htm: !ruby/object:Link 
-      anchor: outline
+      anchor: schedule of office hours
       id: 172
       url: http://www.infosci.cornell.edu/courses/info204/2007sp/index.htm
   url: http://www.infosci.cornell.edu/courses/info204/2007sp/index.htm
@@ -9718,14 +9653,11 @@ http://www.infosci.cornell.edu/ugrad/ISSTAdmissions.htm: !ruby/object:Page
   id: 264
   links: 
     http://www.infosci.cornell.edu/ugrad/ISSTAffiliation.htm: !ruby/object:Link 
-      anchor: |-
-        criteria for admission to 
-        	            the major
+      anchor: criteria for admission to 	 the major
       id: 265
       url: http://www.infosci.cornell.edu/ugrad/ISSTAffiliation.htm
     http://www.infosci.cornell.edu/ugrad/ISSTAffiliationforms.htm: !ruby/object:Link 
-      anchor: " \r\n\
-        \t  \t    affiliation forms "
+      anchor: affiliation forms
       id: 266
       url: http://www.infosci.cornell.edu/ugrad/ISSTAffiliationforms.htm
     http://www.infosci.cornell.edu/ugrad/isst.htm: !ruby/object:Link 
@@ -9797,16 +9729,12 @@ http://www.infosci.cornell.edu/ugrad/concentrations.html: !ruby/object:Page
       anchor: Independent Research
       id: 201
       url: http://www.infosci.cornell.edu/courses/INFO490.htm
-    http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%201300: !ruby/object:Link 
-      anchor: INFO 1300
-      id: 121
-      url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%201300
     http://www.infosci.cornell.edu/ugrad/ugradContact.html: !ruby/object:Link 
       anchor: Contact Information
       id: 279
       url: http://www.infosci.cornell.edu/ugrad/ugradContact.html
     http://www.infosci.cornell.edu/courses/courses.html: !ruby/object:Link 
-      anchor: INFO 3460
+      anchor: INFO Courses
       id: 167
       url: http://www.infosci.cornell.edu/courses/courses.html
     http://www.infosci.cornell.edu/ugrad/ISSA.htm: !ruby/object:Link 
@@ -9869,8 +9797,8 @@ http://www.infosci.cornell.edu/ugrad/concentrations.html: !ruby/object:Page
 http://www.infosci.cornell.edu/research/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "research \r\n          groups": true
       Cornell Information Science: true
+      research groups: true
       IS Research Groups: true
       research: true
   id: 235
@@ -9880,7 +9808,7 @@ http://www.infosci.cornell.edu/research/index.html: !ruby/object:Page
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
     http://www.infosci.cornell.edu/dl/index.html: !ruby/object:Link 
-      anchor: "Digital Libraries & Web Information "
+      anchor: Digital Libraries & Web Information
       id: 210
       url: http://www.infosci.cornell.edu/dl/index.html
     http://www.infosci.cornell.edu/grad/index.html: !ruby/object:Link 
@@ -9967,9 +9895,7 @@ http://www.infosci.cornell.edu/grad/index.html: !ruby/object:Page
       id: 202
       url: http://www.infosci.cornell.edu/courses/Minor_in_Infosci.html
     http://www.infosci.cornell.edu/grad/classes.html: !ruby/object:Link 
-      anchor: |-
-        See list of Required & Recommended 
-                  courses.
+      anchor: See list of Required & Recommended courses.
       id: 213
       url: http://www.infosci.cornell.edu/grad/classes.html
   url: http://www.infosci.cornell.edu/grad/index.html
@@ -9977,8 +9903,7 @@ http://www.infosci.cornell.edu/dl/epub.html: !ruby/object:Page
   anchors: !ruby/object:Set 
     hash: 
       Electronic publishing: true
-      "Electronic \r\n\
-        Publishing": true
+      Electronic Publishing: true
   id: 209
   links: 
     http://www.infosci.cornell.edu/index.html: !ruby/object:Link 
@@ -9993,13 +9918,11 @@ http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html: !ruby/object
   id: 94
   links: 
     http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html: !ruby/object:Link 
-      anchor: " Fall 2004 Colloquium"
+      anchor: Fall 2004 Colloquium
       id: 89
       url: http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html
     http://www.infosci.cornell.edu/about/SeminarSpring05/Apr20b.html: !ruby/object:Link 
-      anchor: |-
-        Why You're 
-                      in the Trenches of the Copyright Wars
+      anchor: Why You're in the Trenches of the Copyright Wars
       id: 108
       url: http://www.infosci.cornell.edu/about/SeminarSpring05/Apr20b.html
     http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
@@ -10007,16 +9930,11 @@ http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html: !ruby/object
       id: 99
       url: http://www.infosci.cornell.edu/about/seminarSeries.html
     http://www.infosci.cornell.edu/about/SeminarSpring05/Apr27.html: !ruby/object:Link 
-      anchor: |-
-        The Web Laboratory: 
-                      A petabyte collection of data for research on the content, structure, 
-                      and evolution of the Web
+      anchor: "The Web Laboratory: A petabyte collection of data for research on the content, structure, and evolution of the Web"
       id: 109
       url: http://www.infosci.cornell.edu/about/SeminarSpring05/Apr27.html
     http://www.infosci.cornell.edu/about/SeminarSpring05/June6.html: !ruby/object:Link 
-      anchor: |-
-        Managing 
-                      E-loyalty through Design
+      anchor: Managing E-loyalty through Design
       id: 113
       url: http://www.infosci.cornell.edu/about/SeminarSpring05/June6.html
     http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13b.html: !ruby/object:Link 
@@ -10028,25 +9946,19 @@ http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html: !ruby/object
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
     http://www.infosci.cornell.edu/about/SeminarSpring05/Feb16.html: !ruby/object:Link 
-      anchor: |-
-        Is artist-friendly 
-                      graphics possible?
+      anchor: Is artist-friendly graphics possible?
       id: 111
       url: http://www.infosci.cornell.edu/about/SeminarSpring05/Feb16.html
     http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html: !ruby/object:Link 
-      anchor: " Spring 2004 Colloquium"
+      anchor: Spring 2004 Colloquium
       id: 93
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html
     http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13.html: !ruby/object:Link 
-      anchor: |-
-        Jofish's 
-                      talk
+      anchor: Jofish's talk
       id: 106
       url: http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13.html
     http://www.infosci.cornell.edu/about/SeminarSpring05/Feb02.html: !ruby/object:Link 
-      anchor: |-
-        Legal and 
-                      Technical Standards in Digital Rights Management
+      anchor: Legal and Technical Standards in Digital Rights Management
       id: 110
       url: http://www.infosci.cornell.edu/about/SeminarSpring05/Feb02.html
     http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Link 
@@ -10054,9 +9966,7 @@ http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html: !ruby/object
       id: 72
       url: http://www.infosci.cornell.edu/about/facilities.html
     http://www.infosci.cornell.edu/about/SeminarSpring05/March02.html: !ruby/object:Link 
-      anchor: |-
-        The Design 
-                      of a Japanese Law Translation System
+      anchor: The Design of a Japanese Law Translation System
       id: 114
       url: http://www.infosci.cornell.edu/about/SeminarSpring05/March02.html
     http://www.infosci.cornell.edu/about/IS-SIGCHI.html: !ruby/object:Link 
@@ -10068,15 +9978,11 @@ http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html: !ruby/object
       id: 215
       url: http://www.infosci.cornell.edu/grad/index.html
     http://www.infosci.cornell.edu/about/SeminarSpring05/June13.html: !ruby/object:Link 
-      anchor: |-
-        Automatic 
-                      Metadata Assignment for Internet Resources
+      anchor: Automatic Metadata Assignment for Internet Resources
       id: 112
       url: http://www.infosci.cornell.edu/about/SeminarSpring05/June13.html
     http://www.infosci.cornell.edu/about/SeminarSpring05/may4.html: !ruby/object:Link 
-      anchor: |-
-        The Emperor's 
-                      New Clothes: The Challenges of Designing Implicit Interactions
+      anchor: "The Emperor's New Clothes: The Challenges of Designing Implicit Interactions"
       id: 117
       url: http://www.infosci.cornell.edu/about/SeminarSpring05/may4.html
     http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Link 
@@ -10084,9 +9990,7 @@ http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html: !ruby/object
       id: 71
       url: http://www.infosci.cornell.edu/about/contact.html
     http://www.infosci.cornell.edu/about/SeminarSpring05/March30.html: !ruby/object:Link 
-      anchor: |-
-        Gilly's 
-                      talk
+      anchor: Gilly's talk
       id: 115
       url: http://www.infosci.cornell.edu/about/SeminarSpring05/March30.html
     http://www.infosci.cornell.edu/graduateStudents/index.html: !ruby/object:Link 
@@ -10145,7 +10049,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/readings.html: !ruby/obje
       id: 200
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/testData.html
     http://www.infosci.cornell.edu/Courses/info4300/2010fa/readings.html: !ruby/object:Link 
-      anchor: Readings
+      anchor: Books and Readings
       id: 197
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/readings.html
     http://www.infosci.cornell.edu/Courses/info4300/2010fa/exams.html: !ruby/object:Link 
@@ -10173,8 +10077,8 @@ http://www.infosci.cornell.edu/courses/info204/2008sp/index.htm: !ruby/object:Pa
 http://www.infosci.cornell.edu/ugrad/ISSA.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
+      IS/ISST Student Association: true
       Information Science: true
-      "IS/ISST Student Association ": true
   id: 262
   links: 
     http://www.infosci.cornell.edu/ugrad/FAQs.htm: !ruby/object:Link 
@@ -10431,7 +10335,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2008.html: !ruby/object:P
       id: 70
       url: http://www.infosci.cornell.edu/about/colloq_videos.html
     http://www.infosci.cornell.edu/about/colloquium-fall2006.html: !ruby/object:Link 
-      anchor: "Fall 2006 Colloquium "
+      anchor: Fall 2006 Colloquium
       id: 3
       url: http://www.infosci.cornell.edu/about/colloquium-fall2006.html
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -10439,11 +10343,11 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2008.html: !ruby/object:P
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
     http://www.infosci.cornell.edu/about/colloquiumFA08/Oct29.html: !ruby/object:Link 
-      anchor: " MINING THE HOME MOVIE"
+      anchor: MINING THE HOME MOVIE
       id: 27
       url: http://www.infosci.cornell.edu/about/colloquiumFA08/Oct29.html
     http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html: !ruby/object:Link 
-      anchor: " Spring 2004 Colloquium"
+      anchor: Spring 2004 Colloquium
       id: 93
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html
     http://www.infosci.cornell.edu/about/colloquium-fall2005.html: !ruby/object:Link 
@@ -10455,15 +10359,15 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2008.html: !ruby/object:P
       id: 4
       url: http://www.infosci.cornell.edu/about/colloquium-spring2006.html
     http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm: !ruby/object:Link 
-      anchor: "Spring 2007 Colloquium "
+      anchor: Spring 2007 Colloquium
       id: 95
       url: http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm
     http://www.infosci.cornell.edu/about/colloquiumFA08/Nov19.html: !ruby/object:Link 
-      anchor: " Internet Addressing: The Next Great Battleground for Internet Governance"
+      anchor: "Internet Addressing: The Next Great Battleground for Internet Governance"
       id: 24
       url: http://www.infosci.cornell.edu/about/colloquiumFA08/Nov19.html
     http://www.infosci.cornell.edu/about/colloquiumFA08/Oct15.html: !ruby/object:Link 
-      anchor: " "
+      anchor: ""
       id: 26
       url: http://www.infosci.cornell.edu/about/colloquiumFA08/Oct15.html
     http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Link 
@@ -10475,19 +10379,19 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2008.html: !ruby/object:P
       id: 94
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html
     http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm: !ruby/object:Link 
-      anchor: "Fall 2007 Colloquium "
+      anchor: Fall 2007 Colloquium
       id: 90
       url: http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm
     http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm: !ruby/object:Link 
-      anchor: "Spring 2008 Colloquium "
+      anchor: Spring 2008 Colloquium
       id: 96
       url: http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm
     http://www.infosci.cornell.edu/about/colloquiumFA08/Oct1.html: !ruby/object:Link 
-      anchor: " Useful Void: The Virtue of Forgetting in the Digital Age"
+      anchor: "Useful Void: The Virtue of Forgetting in the Digital Age"
       id: 25
       url: http://www.infosci.cornell.edu/about/colloquiumFA08/Oct1.html
     http://www.infosci.cornell.edu/about/colloquiumFA08/Sept17.html: !ruby/object:Link 
-      anchor: " PLOW: A Collaborative Task Learning Agent"
+      anchor: "PLOW: A Collaborative Task Learning Agent"
       id: 29
       url: http://www.infosci.cornell.edu/about/colloquiumFA08/Sept17.html
     http://www.infosci.cornell.edu/about/SIGCHI.html: !ruby/object:Link 
@@ -10503,7 +10407,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2008.html: !ruby/object:P
       id: 71
       url: http://www.infosci.cornell.edu/about/contact.html
     http://www.infosci.cornell.edu/about/colloquiumFA08/Nov12.html: !ruby/object:Link 
-      anchor: " Manipulation Resistance and Information Loss for Recommender Systems"
+      anchor: Manipulation Resistance and Information Loss for Recommender Systems
       id: 23
       url: http://www.infosci.cornell.edu/about/colloquiumFA08/Nov12.html
     http://www.infosci.cornell.edu/about/colloquiumFA08/Sept11.html: !ruby/object:Link 
@@ -10715,7 +10619,7 @@ http://www.infosci.cornell.edu/ugrad/Artsgoodstanding.htm: !ruby/object:Page
 http://www.infosci.cornell.edu/about/colloquium-fall2006.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Fall 2006 Colloquium ": true
+      Fall 2006 Colloquium: true
   id: 3
   links: 
     http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html: !ruby/object:Link 
@@ -10743,7 +10647,7 @@ http://www.infosci.cornell.edu/about/colloquium-fall2006.html: !ruby/object:Page
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
     http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html: !ruby/object:Link 
-      anchor: " Spring 2004 Colloquium"
+      anchor: Spring 2004 Colloquium
       id: 93
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html
     http://www.infosci.cornell.edu/about/colloquium-fall2005.html: !ruby/object:Link 
@@ -10759,9 +10663,7 @@ http://www.infosci.cornell.edu/about/colloquium-fall2006.html: !ruby/object:Page
       id: 12
       url: http://www.infosci.cornell.edu/about/colloquiumFA06/Nov8.html
     http://www.infosci.cornell.edu/about/colloquiumFA06/sept27.html: !ruby/object:Link 
-      anchor: |-
-        "Hold that Thought! Why I care about automating 
-                     the capture of everyday activities"
+      anchor: "\"Hold that Thought! Why I care about automating the capture of everyday activities\""
       id: 16
       url: http://www.infosci.cornell.edu/about/colloquiumFA06/sept27.html
     http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Link 
@@ -11024,17 +10926,14 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI.html: !ruby/object:Page
   anchors: !ruby/object:Set 
     hash: 
       IS-SIGCHI Series: true
-      "IS-SIGCHI \r\n              Series": true
   id: 77
   links: 
     http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/march1.html: !ruby/object:Link 
-      anchor: "When \r\n              I move, let\xE2\x80\x99s keep in touch: Mediated communication and relationship \r\n              maintenance"
+      anchor: "When I move, let\xE2\x80\x99s keep in touch: Mediated communication and relationship maintenance"
       id: 82
       url: http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/march1.html
     http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/sept14.html: !ruby/object:Link 
-      anchor: |-
-        Desire, 
-                      DSP, and the Unfinished Process of Performing No-Thing
+      anchor: Desire, DSP, and the Unfinished Process of Performing No-Thing
       id: 79
       url: http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/sept14.html
     http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
@@ -11046,9 +10945,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI.html: !ruby/object:Page
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
     http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april19.html: !ruby/object:Link 
-      anchor: |-
-        Designing 
-                      and evaluating new mobile media experiences
+      anchor: Designing and evaluating new mobile media experiences
       id: 80
       url: http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april19.html
     http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Link 
@@ -11068,9 +10965,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI.html: !ruby/object:Page
       id: 215
       url: http://www.infosci.cornell.edu/grad/index.html
     http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/oct12.html: !ruby/object:Link 
-      anchor: |-
-        How 
-                      Homes Resist
+      anchor: How Homes Resist
       id: 78
       url: http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/oct12.html
     http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Link 
@@ -11078,9 +10973,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI.html: !ruby/object:Page
       id: 71
       url: http://www.infosci.cornell.edu/about/contact.html
     http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april7.html: !ruby/object:Link 
-      anchor: |-
-        Are 
-                      You Game?
+      anchor: Are You Game?
       id: 81
       url: http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april7.html
     http://www.infosci.cornell.edu/research/index.html: !ruby/object:Link 
@@ -11099,7 +10992,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI.html: !ruby/object:Page
 http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%201.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Personal Connections in the Digital Age ": true
+      Personal Connections in the Digital Age: true
   id: 39
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -11301,7 +11194,7 @@ http://www.infosci.cornell.edu/courses/Minor_in_Infosci.html: !ruby/object:Page
 http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/oct12.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "How \r\n              Homes Resist": true
+      How Homes Resist: true
   id: 78
   links: 
     http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
@@ -11452,9 +11345,9 @@ http://www.infosci.cornell.edu/news/news.html: !ruby/object:Page
       Fall 2007: true
       Spring 2007: true
       Fall 2008: true
+      Spring 2008: true
       Fall 2009: true
       Spring 2009: true
-      " Spring 2008": true
       Spring 2010: true
       More News: true
       Fall 2002: true
@@ -11584,11 +11477,10 @@ http://www.infosci.cornell.edu/about/colloquiumFA06/Nov8.html: !ruby/object:Page
 http://www.infosci.cornell.edu/grad/classes.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "See list of Required & Recommended \r\n          courses.": true
-      "Recommended \r\n        and ": true
-      "PhD Recommended and ": true
-      "Recommended and ": true
       required or recommended course: true
+      See list of Required & Recommended courses.: true
+      PhD Recommended and: true
+      Recommended and: true
   id: 213
   links: 
     http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206500: !ruby/object:Link 
@@ -11628,7 +11520,7 @@ http://www.infosci.cornell.edu/grad/classes.html: !ruby/object:Page
       id: 167
       url: http://www.infosci.cornell.edu/courses/courses.html
     http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206648: !ruby/object:Link 
-      anchor: "INFO 6648 (LING 6648) "
+      anchor: INFO 6648 (LING 6648)
       id: 161
       url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206648
     http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206341: !ruby/object:Link 
@@ -11648,15 +11540,11 @@ http://www.infosci.cornell.edu/grad/classes.html: !ruby/object:Page
       id: 71
       url: http://www.infosci.cornell.edu/about/contact.html
     http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206850: !ruby/object:Link 
-      anchor: |-
-        CS 
-                  6850
+      anchor: CS 6850
       id: 162
       url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206850
     http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206300: !ruby/object:Link 
-      anchor: |-
-        INFO 
-                  6300
+      anchor: INFO 6300
       id: 153
       url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206300
     http://www.infosci.cornell.edu/graduateStudents/index.html: !ruby/object:Link 
@@ -11853,9 +11741,7 @@ http://www.infosci.cornell.edu/about/index.html: !ruby/object:Page
       id: 217
       url: http://www.infosci.cornell.edu/graduateStudents/index.html
     http://www.infosci.cornell.edu/research/index.html: !ruby/object:Link 
-      anchor: |-
-        research 
-                  groups
+      anchor: research groups
       id: 235
       url: http://www.infosci.cornell.edu/research/index.html
     http://www.infosci.cornell.edu/masters-preliminary/index.html: !ruby/object:Link 
@@ -11874,7 +11760,7 @@ http://www.infosci.cornell.edu/about/index.html: !ruby/object:Page
 http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Fall 2007 Colloquium ": true
+      Fall 2007 Colloquium: true
   id: 90
   links: 
     http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html: !ruby/object:Link 
@@ -11882,9 +11768,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm: !ruby/object:Pa
       id: 89
       url: http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html
     http://www.infosci.cornell.edu/about/colloquiumFA07/Oct24.html: !ruby/object:Link 
-      anchor: |-
-        Pictures of Traces of Places, People, and Groups: Recent Work from the Microsoft 
-        Research Community Technologies Group
+      anchor: "Pictures of Traces of Places, People, and Groups: Recent Work from the Microsoft Research Community Technologies Group"
       id: 21
       url: http://www.infosci.cornell.edu/about/colloquiumFA07/Oct24.html
     http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
@@ -11900,7 +11784,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm: !ruby/object:Pa
       id: 70
       url: http://www.infosci.cornell.edu/about/colloq_videos.html
     http://www.infosci.cornell.edu/about/colloquium-fall2006.html: !ruby/object:Link 
-      anchor: "Fall 2006 Colloquium "
+      anchor: Fall 2006 Colloquium
       id: 3
       url: http://www.infosci.cornell.edu/about/colloquium-fall2006.html
     http://www.infosci.cornell.edu/about/colloquiumFA07/Oct3.html: !ruby/object:Link 
@@ -11912,7 +11796,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm: !ruby/object:Pa
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
     http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html: !ruby/object:Link 
-      anchor: " Spring 2004 Colloquium"
+      anchor: Spring 2004 Colloquium
       id: 93
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html
     http://www.infosci.cornell.edu/about/colloquium-fall2005.html: !ruby/object:Link 
@@ -11924,7 +11808,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm: !ruby/object:Pa
       id: 4
       url: http://www.infosci.cornell.edu/about/colloquium-spring2006.html
     http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm: !ruby/object:Link 
-      anchor: "Spring 2007 Colloquium "
+      anchor: Spring 2007 Colloquium
       id: 95
       url: http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm
     http://www.infosci.cornell.edu/about/colloquiumFA07/Aug30.html: !ruby/object:Link 
@@ -11940,7 +11824,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm: !ruby/object:Pa
       id: 94
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html
     http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm: !ruby/object:Link 
-      anchor: "Fall 2007 Colloquium "
+      anchor: Fall 2007 Colloquium
       id: 90
       url: http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm
     http://www.infosci.cornell.edu/about/colloquiumFA07/Nov28.html: !ruby/object:Link 
@@ -12022,53 +11906,25 @@ http://www.infosci.cornell.edu/about/colloquiumSP09/Feb25.html: !ruby/object:Pag
 http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Spring 2007 Colloquium ": true
+      Spring 2007 Colloquium: true
   id: 95
   links: 
-    http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html: !ruby/object:Link 
-      anchor: Fall 2004 Colloquium
-      id: 89
-      url: http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html
     http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
       anchor: IS Colloquium
       id: 99
       url: http://www.infosci.cornell.edu/about/seminarSeries.html
-    http://www.infosci.cornell.edu/about/colloquiumSP07/Apr18.html: !ruby/object:Link 
-      anchor: "Participatory Culture: New Media, Games and Deep Learning"
-      id: 42
-      url: http://www.infosci.cornell.edu/about/colloquiumSP07/Apr18.html
     http://www.infosci.cornell.edu/about/colloquiumSP07/Mar14.html: !ruby/object:Link 
       anchor: The Culture of Information
       id: 46
       url: http://www.infosci.cornell.edu/about/colloquiumSP07/Mar14.html
-    http://www.infosci.cornell.edu/about/colloquium-fall2006.html: !ruby/object:Link 
-      anchor: "Fall 2006 Colloquium "
-      id: 3
-      url: http://www.infosci.cornell.edu/about/colloquium-fall2006.html
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
       anchor: Overview
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
-    http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html: !ruby/object:Link 
-      anchor: " Spring 2004 Colloquium"
-      id: 93
-      url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html
-    http://www.infosci.cornell.edu/about/colloquium-fall2005.html: !ruby/object:Link 
-      anchor: Fall 2005 Colloquium
-      id: 2
-      url: http://www.infosci.cornell.edu/about/colloquium-fall2005.html
-    http://www.infosci.cornell.edu/about/colloquium-spring2006.html: !ruby/object:Link 
-      anchor: Spring 2006 Colloquium
-      id: 4
-      url: http://www.infosci.cornell.edu/about/colloquium-spring2006.html
     http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Link 
       anchor: Facilities
       id: 72
       url: http://www.infosci.cornell.edu/about/facilities.html
-    http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html: !ruby/object:Link 
-      anchor: Spring 2005 Colloquium
-      id: 94
-      url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html
     http://www.infosci.cornell.edu/about/colloquiumSP07/Mar28.html: !ruby/object:Link 
       anchor: "From Disasters to WoW: Enabling Communities with Cyberinfrastructure"
       id: 47
@@ -12077,10 +11933,6 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm: !ruby/object:
       anchor: SIGCHI Series
       id: 118
       url: http://www.infosci.cornell.edu/about/SIGCHI.html
-    http://www.infosci.cornell.edu/about/colloquiumSP07/Apr4.html: !ruby/object:Link 
-      anchor: "We are All Public Now: Surveillance, Technology, and the Sanctity of the Classroom"
-      id: 43
-      url: http://www.infosci.cornell.edu/about/colloquiumSP07/Apr4.html
     http://www.infosci.cornell.edu/about/colloquiumSP07/Jan22.html: !ruby/object:Link 
       anchor: A Time to Plant and a Time to Reap
       id: 44
@@ -12286,7 +12138,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%209900: !ruby/ob
 http://www.infosci.cornell.edu/about/SeminarFall04/Oct20.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Reconfiguring Agency at the Human-Computer Interface ": true
+      Reconfiguring Agency at the Human-Computer Interface: true
   id: 86
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -12344,14 +12196,13 @@ http://www.infosci.cornell.edu/about/colloquiumSP07/Mar28.html: !ruby/object:Pag
 http://www.infosci.cornell.edu/courses/info2040/2010sp/index.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      above: true
       CMS site: true
       schedule of office hours: true
       outline of topics: true
   id: 176
   links: 
     http://www.infosci.cornell.edu/courses/info2040/2010sp/index.htm: !ruby/object:Link 
-      anchor: above
+      anchor: CMS site
       id: 176
       url: http://www.infosci.cornell.edu/courses/info2040/2010sp/index.htm
   url: http://www.infosci.cornell.edu/courses/info2040/2010sp/index.htm
@@ -12496,7 +12347,7 @@ http://www.infosci.cornell.edu/ugrad/ugradContact.html: !ruby/object:Page
 http://www.infosci.cornell.edu/about/colloquiumSP10/Mar17.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Computing Tie Strength ": true
+      Computing Tie Strength: true
   id: 69
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -12567,7 +12418,6 @@ http://www.infosci.cornell.edu/Courses/info4300/2009fa/code.html: !ruby/object:P
   anchors: !ruby/object:Set 
     hash: 
       Academic Integrity: true
-      "Academic \n        Integrity": true
   id: 183
   links: 
     http://www.infosci.cornell.edu/Courses/info4300/2009fa/code.html: !ruby/object:Link 
@@ -12638,9 +12488,7 @@ http://www.infosci.cornell.edu/hadoop/windows.html: !ruby/object:Page
   id: 226
   links: 
     http://www.infosci.cornell.edu/hadoop/index.html: !ruby/object:Link 
-      anchor: |-
-        Hadoop
-              Home
+      anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
   url: http://www.infosci.cornell.edu/hadoop/windows.html
@@ -12666,8 +12514,8 @@ http://www.infosci.cornell.edu/courses/info4300/2008fa/MapReduceHints.html: !rub
   url: http://www.infosci.cornell.edu/courses/info4300/2008fa/MapReduceHints.html
 http://www.infosci.cornell.edu/about/colloquiumSP07/Apr4.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
-    hash: 
-      "We are All Public Now: Surveillance, Technology, and the Sanctity of the Classroom": true
+    hash: {}
+
   id: 43
   links: 
     http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
@@ -12719,9 +12567,7 @@ http://www.infosci.cornell.edu/hadoop/mac.html: !ruby/object:Page
   id: 222
   links: 
     http://www.infosci.cornell.edu/hadoop/index.html: !ruby/object:Link 
-      anchor: |-
-        Hadoop
-              Home
+      anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
   url: http://www.infosci.cornell.edu/hadoop/mac.html
@@ -12761,7 +12607,7 @@ http://www.infosci.cornell.edu/ugrad/nowebsite.htm: !ruby/object:Page
       id: 279
       url: http://www.infosci.cornell.edu/ugrad/ugradContact.html
     http://www.infosci.cornell.edu/ugrad/ISSA.htm: !ruby/object:Link 
-      anchor: "IS/ISST Student Association "
+      anchor: IS/ISST Student Association
       id: 262
       url: http://www.infosci.cornell.edu/ugrad/ISSA.htm
     http://www.infosci.cornell.edu/ugrad/concentrations.html: !ruby/object:Link 
@@ -12808,7 +12654,7 @@ http://www.infosci.cornell.edu/ugrad/nowebsite.htm: !ruby/object:Page
 http://www.infosci.cornell.edu/ugrad/ISSTMajor.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "General information ": true
+      General information: true
   id: 269
   links: 
     http://www.infosci.cornell.edu/ugrad/isst.htm: !ruby/object:Link 
@@ -12998,9 +12844,8 @@ http://www.infosci.cornell.edu/dl/nsdl-cornell.html: !ruby/object:Page
   anchors: !ruby/object:Set 
     hash: 
       The NSDL at Cornell: true
-      "NSDL-funded\r\n         projects at Cornell": true
       NSDL at Cornell: true
-      The             NSDL at Cornell: true
+      NSDL-funded projects at Cornell: true
   id: 211
   links: 
     http://www.infosci.cornell.edu/dl/core-integration.html: !ruby/object:Link 
@@ -13012,7 +12857,7 @@ http://www.infosci.cornell.edu/dl/nsdl-cornell.html: !ruby/object:Page
       id: 210
       url: http://www.infosci.cornell.edu/dl/index.html
     http://www.infosci.cornell.edu/index.html: !ruby/object:Link 
-      anchor: Information   Science Home
+      anchor: Information Science Home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
   url: http://www.infosci.cornell.edu/dl/nsdl-cornell.html
@@ -13020,10 +12865,8 @@ http://www.infosci.cornell.edu/dl/core-integration.html: !ruby/object:Page
   anchors: !ruby/object:Set 
     hash: 
       Core Integration: true
-      "NSDL at Cornell: \r        Core Integration": true
-      "NSDL \r\n\
-        Core Integration": true
-      "Core\r\n         Integration": true
+      "NSDL at Cornell: Core Integration": true
+      NSDL Core Integration: true
   id: 206
   links: 
     http://www.infosci.cornell.edu/dl/index.html: !ruby/object:Link 
@@ -13031,7 +12874,7 @@ http://www.infosci.cornell.edu/dl/core-integration.html: !ruby/object:Page
       id: 210
       url: http://www.infosci.cornell.edu/dl/index.html
     http://www.infosci.cornell.edu/index.html: !ruby/object:Link 
-      anchor: Information   Science Home
+      anchor: Information Science Home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
     http://www.infosci.cornell.edu/dl/nsdl-cornell.html: !ruby/object:Link 
@@ -13276,16 +13119,14 @@ http://www.infosci.cornell.edu/hadoop/cac.html: !ruby/object:Page
   id: 218
   links: 
     http://www.infosci.cornell.edu/hadoop/index.html: !ruby/object:Link 
-      anchor: |-
-        Hadoop
-              Home
+      anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
   url: http://www.infosci.cornell.edu/hadoop/cac.html
 http://www.infosci.cornell.edu/about/colloquiumFA08/Oct1.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      " Useful Void: The Virtue of Forgetting in the Digital Age": true
+      "Useful Void: The Virtue of Forgetting in the Digital Age": true
   id: 25
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -13516,7 +13357,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA06/Oct25.html: !ruby/object:Pag
 http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april7.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Are \r\n              You Game?": true
+      Are You Game?: true
   id: 81
   links: 
     http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
@@ -13707,7 +13548,7 @@ http://www.infosci.cornell.edu/grad/FAQgrad.html: !ruby/object:Page
       id: 202
       url: http://www.infosci.cornell.edu/courses/Minor_in_Infosci.html
     http://www.infosci.cornell.edu/grad/classes.html: !ruby/object:Link 
-      anchor: "Recommended and "
+      anchor: Recommended and
       id: 213
       url: http://www.infosci.cornell.edu/grad/classes.html
   url: http://www.infosci.cornell.edu/grad/FAQgrad.html
@@ -13753,9 +13594,8 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment2.html: !ruby/o
 http://www.infosci.cornell.edu/dl/dl-archive.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Archive \r\n\
-        of Digital Libraries Research": true
-      "Archive of digital library research at\r\n           Cornell ": true
+      Archive of digital library research at Cornell: true
+      Archive of Digital Libraries Research: true
   id: 207
   links: 
     http://www.infosci.cornell.edu/dl/index.html: !ruby/object:Link 
@@ -13781,10 +13621,8 @@ http://www.infosci.cornell.edu/about/SeminarSpring04/Apr14.html: !ruby/object:Pa
 http://www.infosci.cornell.edu/dl/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Digital \r\n\
-        Libraries Home": true
-      "Digital Libraries & Web Information ": true
       Digital Libraries Home: true
+      Digital Libraries & Web Information: true
   id: 210
   links: 
     http://www.infosci.cornell.edu/dl/dl-people.html: !ruby/object:Link 
@@ -13792,13 +13630,11 @@ http://www.infosci.cornell.edu/dl/index.html: !ruby/object:Page
       id: 208
       url: http://www.infosci.cornell.edu/dl/dl-people.html
     http://www.infosci.cornell.edu/dl/dl-archive.html: !ruby/object:Link 
-      anchor: "Archive of digital library research at\r\n           Cornell "
+      anchor: Archive of digital library research at Cornell
       id: 207
       url: http://www.infosci.cornell.edu/dl/dl-archive.html
     http://www.infosci.cornell.edu/dl/core-integration.html: !ruby/object:Link 
-      anchor: |-
-        Core
-                 Integration
+      anchor: Core Integration
       id: 206
       url: http://www.infosci.cornell.edu/dl/core-integration.html
     http://www.infosci.cornell.edu/dl/epub.html: !ruby/object:Link 
@@ -13814,9 +13650,7 @@ http://www.infosci.cornell.edu/dl/index.html: !ruby/object:Page
       id: 1
       url: http://www.infosci.cornell.edu/index.html
     http://www.infosci.cornell.edu/dl/nsdl-cornell.html: !ruby/object:Link 
-      anchor: |-
-        NSDL-funded
-                 projects at Cornell
+      anchor: NSDL-funded projects at Cornell
       id: 211
       url: http://www.infosci.cornell.edu/dl/nsdl-cornell.html
   url: http://www.infosci.cornell.edu/dl/index.html
@@ -14115,7 +13949,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Jan24.html: !ruby/object:Pag
 http://www.infosci.cornell.edu/about/colloquiumFA05/nov30.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Transformed \r\n              Social Interaction in Virtual Reality": true
+      Transformed Social Interaction in Virtual Reality: true
   id: 6
   links: 
     http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
@@ -14435,7 +14269,7 @@ http://www.infosci.cornell.edu/about/colloquium-spring2006.html: !ruby/object:Pa
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
     http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html: !ruby/object:Link 
-      anchor: " Spring 2004 Colloquium"
+      anchor: Spring 2004 Colloquium
       id: 93
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html
     http://www.infosci.cornell.edu/about/colloquium-fall2005.html: !ruby/object:Link 
@@ -14451,9 +14285,7 @@ http://www.infosci.cornell.edu/about/colloquium-spring2006.html: !ruby/object:Pa
       id: 94
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html
     http://www.infosci.cornell.edu/about/IS-SIGCHI.html: !ruby/object:Link 
-      anchor: |-
-        IS-SIGCHI 
-                      Series
+      anchor: IS-SIGCHI Series
       id: 77
       url: http://www.infosci.cornell.edu/about/IS-SIGCHI.html
     http://www.infosci.cornell.edu/facultyAndResearch/index.html: !ruby/object:Link 
@@ -14678,16 +14510,14 @@ http://www.infosci.cornell.edu/hadoop/runjob.html: !ruby/object:Page
   id: 225
   links: 
     http://www.infosci.cornell.edu/hadoop/index.html: !ruby/object:Link 
-      anchor: |-
-        Hadoop
-              Home
+      anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
   url: http://www.infosci.cornell.edu/hadoop/runjob.html
 http://www.infosci.cornell.edu/about/colloquiumFA08/Nov12.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      " Manipulation Resistance and Information Loss for Recommender Systems": true
+      Manipulation Resistance and Information Loss for Recommender Systems: true
   id: 23
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -14832,11 +14662,11 @@ http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Page
       id: 98
       url: http://www.infosci.cornell.edu/about/seminarSeries-spring2010.html
     http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%2010.html: !ruby/object:Link 
-      anchor: "The Second Information Science Research Cavalcade "
+      anchor: The Second Information Science Research Cavalcade
       id: 38
       url: http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%2010.html
     http://www.infosci.cornell.edu/about/seminarSeries-spring2009.html: !ruby/object:Link 
-      anchor: "Spring 2009 Colloquium "
+      anchor: Spring 2009 Colloquium
       id: 97
       url: http://www.infosci.cornell.edu/about/seminarSeries-spring2009.html
     http://www.infosci.cornell.edu/about/colloq_videos.html: !ruby/object:Link 
@@ -14844,7 +14674,7 @@ http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Page
       id: 70
       url: http://www.infosci.cornell.edu/about/colloq_videos.html
     http://www.infosci.cornell.edu/about/colloquium-fall2006.html: !ruby/object:Link 
-      anchor: "Fall 2006 Colloquium "
+      anchor: Fall 2006 Colloquium
       id: 3
       url: http://www.infosci.cornell.edu/about/colloquium-fall2006.html
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -14856,7 +14686,7 @@ http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Page
       id: 41
       url: http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%2027.html
     http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html: !ruby/object:Link 
-      anchor: " Spring 2004 Colloquium"
+      anchor: Spring 2004 Colloquium
       id: 93
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html
     http://www.infosci.cornell.edu/about/colloquium-fall2005.html: !ruby/object:Link 
@@ -14868,7 +14698,7 @@ http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Page
       id: 4
       url: http://www.infosci.cornell.edu/about/colloquium-spring2006.html
     http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm: !ruby/object:Link 
-      anchor: "Spring 2007 Colloquium "
+      anchor: Spring 2007 Colloquium
       id: 95
       url: http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm
     http://www.infosci.cornell.edu/about/seminarSeries-fall2009.html: !ruby/object:Link 
@@ -14880,7 +14710,7 @@ http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Page
       id: 72
       url: http://www.infosci.cornell.edu/about/facilities.html
     http://www.infosci.cornell.edu/about/colloquiumFA08/Nov19.html: !ruby/object:Link 
-      anchor: " "
+      anchor: ""
       id: 24
       url: http://www.infosci.cornell.edu/about/colloquiumFA08/Nov19.html
     http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html: !ruby/object:Link 
@@ -14888,11 +14718,11 @@ http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Page
       id: 94
       url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html
     http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm: !ruby/object:Link 
-      anchor: "Fall 2007 Colloquium "
+      anchor: Fall 2007 Colloquium
       id: 90
       url: http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm
     http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm: !ruby/object:Link 
-      anchor: "Spring 2008 Colloquium "
+      anchor: Spring 2008 Colloquium
       id: 96
       url: http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm
     http://www.infosci.cornell.edu/about/seminarSeries-fall2008.html: !ruby/object:Link 
@@ -14900,11 +14730,11 @@ http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Page
       id: 91
       url: http://www.infosci.cornell.edu/about/seminarSeries-fall2008.html
     http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%201.html: !ruby/object:Link 
-      anchor: "Untangling Attribution: Understanding the Requirements Needed for Attribution on the Network\t"
+      anchor: "Untangling Attribution: Understanding the Requirements Needed for Attribution on the Network"
       id: 37
       url: http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%201.html
     http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%201.html: !ruby/object:Link 
-      anchor: "Personal Connections in the Digital Age "
+      anchor: Personal Connections in the Digital Age
       id: 39
       url: http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%201.html
     http://www.infosci.cornell.edu/grad/index.html: !ruby/object:Link 
@@ -14995,7 +14825,6 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/code.html: !ruby/object:P
   anchors: !ruby/object:Set 
     hash: 
       Academic Integrity: true
-      "Academic \n        Integrity": true
   id: 194
   links: 
     http://www.infosci.cornell.edu/Courses/info4300/2010fa/index.html: !ruby/object:Link 
@@ -15120,7 +14949,7 @@ http://www.infosci.cornell.edu/ugrad/Recker.htm: !ruby/object:Page
 http://www.infosci.cornell.edu/ugrad/ArtsHonors.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      "Honors ": true
+      Honors: true
   id: 243
   links: 
     http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
@@ -15171,7 +15000,6 @@ http://www.infosci.cornell.edu/ugrad/ArtsHonors.htm: !ruby/object:Page
 http://www.infosci.cornell.edu/courses/info2040/2010fa/index.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
     hash: 
-      above: true
       CMS site: true
       schedule of office hours: true
       outline of topics: true
@@ -15179,7 +15007,7 @@ http://www.infosci.cornell.edu/courses/info2040/2010fa/index.htm: !ruby/object:P
   id: 175
   links: 
     http://www.infosci.cornell.edu/courses/info2040/2010fa/index.htm: !ruby/object:Link 
-      anchor: above
+      anchor: CMS site
       id: 175
       url: http://www.infosci.cornell.edu/courses/info2040/2010fa/index.htm
   url: http://www.infosci.cornell.edu/courses/info2040/2010fa/index.htm

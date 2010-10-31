@@ -57,7 +57,7 @@ private
         anchor = link.children.first.attributes['alt'].to_s
       end
     end
-    anchor
+    anchor.gsub(/[\n\r]/, "").squeeze(" ").strip
   end
 
   def get_page_title(doc)
@@ -72,6 +72,6 @@ private
     else
       @page_title = proper_title
     end
-    @page_title = @page_title.gsub("\n", "").squeeze(" ")
+    @page_title = @page_title.gsub(/[\n\r]/, "").squeeze(" ").strip
   end
 end
