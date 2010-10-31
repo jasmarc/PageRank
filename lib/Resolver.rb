@@ -1,4 +1,4 @@
-require "Logger"
+require "logger"
 require "open-uri"
 
 class Resolver

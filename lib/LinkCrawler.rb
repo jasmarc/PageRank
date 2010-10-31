@@ -1,7 +1,7 @@
 require "rubygems"
 require "open-uri"
 require "nokogiri"
-require "Logger"
+require "logger"
 require "Resolver"
 
 BROKEN_LINKS = ["http://sigchi.infosci.cornell.edu/index.html"]

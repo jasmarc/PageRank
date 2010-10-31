@@ -1,4 +1,5 @@
 require "Page"
+require "LinkCrawler"
 require "yaml"
 
 class PageCollection

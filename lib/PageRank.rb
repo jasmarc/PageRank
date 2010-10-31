@@ -1,5 +1,5 @@
 require "rubygems"
-require "Logger"
+require "logger"
 require "gsl"
 include GSL
 

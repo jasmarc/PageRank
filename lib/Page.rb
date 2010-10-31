@@ -1,6 +1,4 @@
 require "set"
-require "LinkCrawler"
-require "Resolver"
 require "Link"
 
 class Page
