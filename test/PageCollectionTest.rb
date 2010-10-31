@@ -26,4 +26,12 @@ class TestPageCollection < Test::Unit::TestCase
     end
     pp link_matrix
   end
+  
+  def test_titles
+    collection = PageCollection.new("test3-smaller.txt")
+    collection.crawl
+    collection.pages.values.each do |page|
+      puts "[#{page.title}]"
+    end
+  end
 end

@@ -30,7 +30,6 @@ class LinkCrawler
       end
     rescue Exception => ex
       @@log.error "url = #{@url} #{ex.message}"
-      puts "url = #{@url} #{ex.message}"
     end
   end
 
@@ -72,6 +71,9 @@ private
     else
       @page_title = proper_title
     end
-    @page_title = @page_title.gsub(/[\n\r]/, "").squeeze(" ").strip
+    if !@page_title.nil?
+      @page_title = @page_title.gsub(/[\n\r]/, "").squeeze(" ").strip
+    end
+    return @page_title
   end
 end

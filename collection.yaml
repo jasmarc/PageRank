@@ -110,6 +110,7 @@ http://www.infosci.cornell.edu/ugrad/isst.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science, Systems, and Technology
   url: http://www.infosci.cornell.edu/ugrad/isst.htm
 http://www.infosci.cornell.edu/hadoop/monitor.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -121,6 +122,7 @@ http://www.infosci.cornell.edu/hadoop/monitor.html: !ruby/object:Page
       anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
+  title: "Cornell Web Lab: Hadoop"
   url: http://www.infosci.cornell.edu/hadoop/monitor.html
 http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -256,6 +258,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm: !ruby/object:
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Cornell Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm
 http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2010.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -291,6 +294,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2010.html: !ruby/object
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2010.html
 http://www.infosci.cornell.edu/Courses/info4300/2009fa/readings.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -331,6 +335,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2009fa/readings.html: !ruby/obje
       anchor: Syllabus
       id: 187
       url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/syllabus.html
+  title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/readings.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204450: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -426,6 +431,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204450: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204450
 http://www.infosci.cornell.edu/hadoop/config.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -437,6 +443,7 @@ http://www.infosci.cornell.edu/hadoop/config.html: !ruby/object:Page
       anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
+  title: "Cornell Web Lab: Hadoop"
   url: http://www.infosci.cornell.edu/hadoop/config.html
 http://www.infosci.cornell.edu/ugrad/ISEmployers.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -528,6 +535,7 @@ http://www.infosci.cornell.edu/ugrad/ISEmployers.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Potential Employers
   url: http://www.infosci.cornell.edu/ugrad/ISEmployers.htm
 http://www.infosci.cornell.edu/ugrad/ArtsAffiliationcriteria.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -584,6 +592,7 @@ http://www.infosci.cornell.edu/ugrad/ArtsAffiliationcriteria.htm: !ruby/object:P
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: Criteria for Admission
   url: http://www.infosci.cornell.edu/ugrad/ArtsAffiliationcriteria.htm
 http://www.infosci.cornell.edu/ugrad/ArtsAdmissions.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -643,6 +652,7 @@ http://www.infosci.cornell.edu/ugrad/ArtsAdmissions.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: Admission to the Major
   url: http://www.infosci.cornell.edu/ugrad/ArtsAdmissions.htm
 http://www.infosci.cornell.edu/SIN/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -654,6 +664,7 @@ http://www.infosci.cornell.edu/SIN/index.html: !ruby/object:Page
       anchor: Next Generation Cybertools
       id: 236
       url: http://www.infosci.cornell.edu/SIN/cybertools/index.html
+  title: "Cornell University: Research in Social and Information Networks"
   url: http://www.infosci.cornell.edu/SIN/index.html
 http://www.infosci.cornell.edu/about/colloquiumFA06/sept13.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -701,6 +712,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA06/sept13.html: !ruby/object:Pa
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA06/sept13.html
 http://www.infosci.cornell.edu/about/colloquiumSP08/Jan30.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -736,6 +748,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Jan30.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Jan30.html
 http://www.infosci.cornell.edu/about/colloquiumFA08/Oct29.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -771,6 +784,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA08/Oct29.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA08/Oct29.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204290: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -866,6 +880,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204290: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204290
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/testData.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -875,6 +890,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/testData.html: !ruby/obje
   id: 200
   links: {}
 
+  title: "CS4300/INFO4300: Information Retrieval Test Data"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/testData.html
 http://www.infosci.cornell.edu/about/colloquiumFA05/oct19.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -922,6 +938,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA05/oct19.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA05/oct19.html
 http://www.infosci.cornell.edu/about/colloquiumSP07/Mar14.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -969,6 +986,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP07/Mar14.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP07/Mar14.html
 http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2030.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -1004,6 +1022,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2030.html: !ruby/object
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2030.html
 http://www.infosci.cornell.edu/about/colloquiumFA08/Sept17.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -1039,6 +1058,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA08/Sept17.html: !ruby/object:Pa
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA08/Sept17.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%201300: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -1130,6 +1150,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%201300: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%201300
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203200: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -1221,6 +1242,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203200: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203200
 http://www.infosci.cornell.edu/pathways/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -1235,6 +1257,7 @@ http://www.infosci.cornell.edu/pathways/index.html: !ruby/object:Page
       anchor: publications
       id: 234
       url: http://www.infosci.cornell.edu/pathways/index.html
+  title: Pathways
   url: http://www.infosci.cornell.edu/pathways/index.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204910: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -1330,6 +1353,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204910: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204910
 http://www.infosci.cornell.edu/about/colloquiumSP08/Feb27.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -1365,6 +1389,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Feb27.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Feb27.html
 http://www.infosci.cornell.edu/about/colloquiumFA08/Oct15.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -1400,6 +1425,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA08/Oct15.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA08/Oct15.html
 http://www.infosci.cornell.edu/graduateStudents/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -1449,6 +1475,7 @@ http://www.infosci.cornell.edu/graduateStudents/index.html: !ruby/object:Page
       anchor: graduate students
       id: 217
       url: http://www.infosci.cornell.edu/graduateStudents/index.html
+  title: Graduate Students
   url: http://www.infosci.cornell.edu/graduateStudents/index.html
 http://www.infosci.cornell.edu/about/colloquiumFA08/Sept11.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -1484,6 +1511,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA08/Sept11.html: !ruby/object:Pa
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA08/Sept11.html
 http://www.infosci.cornell.edu/Courses/info4300/2009fa/exams.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -1520,6 +1548,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2009fa/exams.html: !ruby/object:
       anchor: Syllabus
       id: 187
       url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/syllabus.html
+  title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/exams.html
 http://www.infosci.cornell.edu/about/colloquiumSP10/Apr05.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -1555,6 +1584,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP10/Apr05.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP10/Apr05.html
 http://www.infosci.cornell.edu/ugrad/sampleSched_Arts.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -1606,6 +1636,7 @@ http://www.infosci.cornell.edu/ugrad/sampleSched_Arts.html: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: Sample Schedule
   url: http://www.infosci.cornell.edu/ugrad/sampleSched_Arts.html
 http://www.infosci.cornell.edu/ugrad/ISLinks.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -1697,6 +1728,7 @@ http://www.infosci.cornell.edu/ugrad/ISLinks.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Professional Associations
   url: http://www.infosci.cornell.edu/ugrad/ISLinks.htm
 http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%2027.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -1736,6 +1768,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%2027.html: !ruby/object:
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%2027.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207090: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -1831,6 +1864,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207090: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207090
 http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13b.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -1842,6 +1876,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13b.html: !ruby/object:P
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13b.html
 http://www.infosci.cornell.edu/about/SeminarSpring05/Apr20b.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -1853,6 +1888,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/Apr20b.html: !ruby/object:P
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/Apr20b.html
 http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/march1.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -1900,6 +1936,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/march1.html: !ruby/object:Pa
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Cornell IS-SIGCHI Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/march1.html
 http://www.infosci.cornell.edu/about/colloquiumFA06/Nov29.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -1947,6 +1984,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA06/Nov29.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA06/Nov29.html
 http://www.infosci.cornell.edu/about/colloquium-fall2005.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -2026,6 +2064,7 @@ http://www.infosci.cornell.edu/about/colloquium-fall2005.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Cornell Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquium-fall2005.html
 http://weblab.infosci.cornell.edu/contact.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -2065,6 +2104,7 @@ http://weblab.infosci.cornell.edu/contact.html: !ruby/object:Page
       anchor: Overview
       id: 284
       url: http://weblab.infosci.cornell.edu/overview.html
+  title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/contact.html
 http://www.infosci.cornell.edu/ugrad/ISCareers.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -2157,6 +2197,7 @@ http://www.infosci.cornell.edu/ugrad/ISCareers.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Careers
   url: http://www.infosci.cornell.edu/ugrad/ISCareers.htm
 http://www.infosci.cornell.edu/about/colloquiumSP08/Feb13.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -2192,6 +2233,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Feb13.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Feb13.html
 http://www.infosci.cornell.edu/about/colloquiumSP10/Apr02.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -2227,6 +2269,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP10/Apr02.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP10/Apr02.html
 http://weblab.infosci.cornell.edu/publications.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -2266,6 +2309,7 @@ http://weblab.infosci.cornell.edu/publications.html: !ruby/object:Page
       anchor: Overview
       id: 284
       url: http://weblab.infosci.cornell.edu/overview.html
+  title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/publications.html
 http://weblab.infosci.cornell.edu/contributors.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -2305,6 +2349,7 @@ http://weblab.infosci.cornell.edu/contributors.html: !ruby/object:Page
       anchor: Overview
       id: 284
       url: http://weblab.infosci.cornell.edu/overview.html
+  title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/contributors.html
 http://www.infosci.cornell.edu/about/colloquiumFA07/Oct24.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -2352,6 +2397,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA07/Oct24.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA07/Oct24.html
 http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%202.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -2387,6 +2433,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%202.html: !ruby/object:
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%202.html
 http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -2436,6 +2483,7 @@ http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Contact Us
   url: http://www.infosci.cornell.edu/about/contact.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206648: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -2531,6 +2579,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206648: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206648
 http://www.infosci.cornell.edu/about/colloquiumFA05/nov2.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -2578,6 +2627,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA05/nov2.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA05/nov2.html
 http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr21_08.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -2613,6 +2663,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr21_08.html: !
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: SIGCHI Invited Lecturer Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr21_08.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207900: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -2708,6 +2759,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207900: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207900
 http://www.infosci.cornell.edu/about/SeminarSpring05/Feb16.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -2719,6 +2771,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/Feb16.html: !ruby/object:Pa
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/Feb16.html
 http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%2010.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -2758,6 +2811,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%2010.html: !ruby/object:
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%2010.html
 http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -2769,6 +2823,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13.html: !ruby/object:Pa
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13.html
 http://www.infosci.cornell.edu/ugrad/ArtsRequirements.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -2838,6 +2893,7 @@ http://www.infosci.cornell.edu/ugrad/ArtsRequirements.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: Major Requirements
   url: http://www.infosci.cornell.edu/ugrad/ArtsRequirements.htm
 http://www.infosci.cornell.edu/about/colloquiumSP10/Apr09.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -2873,6 +2929,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP10/Apr09.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP10/Apr09.html
 http://www.infosci.cornell.edu/courses/Coursesofinterest.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -2964,6 +3021,7 @@ http://www.infosci.cornell.edu/courses/Coursesofinterest.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Courses of Interest
   url: http://www.infosci.cornell.edu/courses/Coursesofinterest.htm
 http://www.infosci.cornell.edu/about/colloquiumFA07/Oct10.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -3011,6 +3069,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA07/Oct10.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA07/Oct10.html
 http://www.infosci.cornell.edu/about/colloquiumFA09/Oct%2014.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -3046,6 +3105,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA09/Oct%2014.html: !ruby/object:
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA09/Oct%2014.html
 http://www.infosci.cornell.edu/about/colloquiumSP07/Apr18.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -3093,6 +3153,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP07/Apr18.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP07/Apr18.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206300: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -3184,6 +3245,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206300: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206300
 http://www.infosci.cornell.edu/ugrad/CALSRequirements.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -3246,6 +3308,7 @@ http://www.infosci.cornell.edu/ugrad/CALSRequirements.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: Major Requirements
   url: http://www.infosci.cornell.edu/ugrad/CALSRequirements.htm
 http://www.infosci.cornell.edu/masters-preliminary/mastersRequirements.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -3273,6 +3336,7 @@ http://www.infosci.cornell.edu/masters-preliminary/mastersRequirements.html: !ru
       anchor: Home
       id: 228
       url: http://www.infosci.cornell.edu/masters-preliminary/index.html
+  title: Cornell Information Science
   url: http://www.infosci.cornell.edu/masters-preliminary/mastersRequirements.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203450: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -3364,6 +3428,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203450: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203450
 http://www.infosci.cornell.edu/about/SeminarSpring05/June13.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -3375,6 +3440,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/June13.html: !ruby/object:P
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/June13.html
 http://www.infosci.cornell.edu/about/colloquiumSP10/Apr07.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -3410,6 +3476,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP10/Apr07.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP10/Apr07.html
 http://www.infosci.cornell.edu/about/SeminarSpring05/Apr27.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -3421,6 +3488,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/Apr27.html: !ruby/object:Pa
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/Apr27.html
 http://www.infosci.cornell.edu/courses/info2950/2010sp/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -3429,6 +3497,7 @@ http://www.infosci.cornell.edu/courses/info2950/2010sp/index.html: !ruby/object:
   id: 178
   links: {}
 
+  title: INFO 2950 Spring 2010
   url: http://www.infosci.cornell.edu/courses/info2950/2010sp/index.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206140: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -3520,6 +3589,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206140: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206140
 http://www.infosci.cornell.edu/about/seminarSeries-fall2009.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -3627,6 +3697,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2009.html: !ruby/object:P
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Cornell Information Science Colloquium - INFO 7090
   url: http://www.infosci.cornell.edu/about/seminarSeries-fall2009.html
 http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -3706,6 +3777,7 @@ http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html: !ruby/object:P
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Cornell Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html
 http://www.infosci.cornell.edu/about/SeminarSpring05/Feb02.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -3717,6 +3789,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/Feb02.html: !ruby/object:Pa
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/Feb02.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206302: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -3808,6 +3881,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206302: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206302
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204300: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -3899,6 +3973,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204300: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204300
 http://weblab.infosci.cornell.edu/documentation.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -3938,6 +4013,7 @@ http://weblab.infosci.cornell.edu/documentation.html: !ruby/object:Page
       anchor: Overview
       id: 284
       url: http://weblab.infosci.cornell.edu/overview.html
+  title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/documentation.html
 http://www.infosci.cornell.edu/ugrad/ISSTHonors.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -3989,6 +4065,7 @@ http://www.infosci.cornell.edu/ugrad/ISSTHonors.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: Honors Requirements
   url: http://www.infosci.cornell.edu/ugrad/ISSTHonors.htm
 http://www.infosci.cornell.edu/about/SeminarFall04/Nov17.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -4000,6 +4077,7 @@ http://www.infosci.cornell.edu/about/SeminarFall04/Nov17.html: !ruby/object:Page
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarFall04/Nov17.html
 http://www.infosci.cornell.edu/about/colloquiumFA06/sept27.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -4047,6 +4125,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA06/sept27.html: !ruby/object:Pa
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA06/sept27.html
 http://www.infosci.cornell.edu/ugrad/ArtsAffiliationforms.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -4098,6 +4177,7 @@ http://www.infosci.cornell.edu/ugrad/ArtsAffiliationforms.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: Major Declaration Forms
   url: http://www.infosci.cornell.edu/ugrad/ArtsAffiliationforms.htm
 http://www.infosci.cornell.edu/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -4160,6 +4240,7 @@ http://www.infosci.cornell.edu/index.html: !ruby/object:Page
       anchor: Job Openings
       id: 227
       url: http://www.infosci.cornell.edu/jobs/index.html
+  title: Cornell Information Science
   url: http://www.infosci.cornell.edu/index.html
 http://www.infosci.cornell.edu/about/colloquiumFA07/Oct3.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -4207,6 +4288,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA07/Oct3.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA07/Oct3.html
 http://www.infosci.cornell.edu/about/colloquiumSP07/Jan22.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -4254,6 +4336,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP07/Jan22.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP07/Jan22.html
 http://www.infosci.cornell.edu/ugrad/ISSTAffiliation.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -4306,6 +4389,7 @@ http://www.infosci.cornell.edu/ugrad/ISSTAffiliation.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: Criteria for Admission
   url: http://www.infosci.cornell.edu/ugrad/ISSTAffiliation.htm
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203561: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -4401,6 +4485,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203561: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203561
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206144: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -4492,6 +4577,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206144: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206144
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204302: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -4583,6 +4669,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204302: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204302
 http://www.infosci.cornell.edu/about/SeminarSpring05/may4.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -4594,6 +4681,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/may4.html: !ruby/object:Pag
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/may4.html
 http://www.infosci.cornell.edu/ugrad/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -4697,6 +4785,7 @@ http://www.infosci.cornell.edu/ugrad/index.html: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Undergraduate Majors
   url: http://www.infosci.cornell.edu/ugrad/index.html
 http://www.infosci.cornell.edu/ugrad/CALSAdmissions.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -4752,6 +4841,7 @@ http://www.infosci.cornell.edu/ugrad/CALSAdmissions.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: Admission to the Major
   url: http://www.infosci.cornell.edu/ugrad/CALSAdmissions.htm
 http://www.infosci.cornell.edu/about/SeminarFall04/Nov03.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -4763,6 +4853,7 @@ http://www.infosci.cornell.edu/about/SeminarFall04/Nov03.html: !ruby/object:Page
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarFall04/Nov03.html
 http://www.infosci.cornell.edu/about/SeminarSpring04/March31.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -4774,6 +4865,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring04/March31.html: !ruby/object:
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring04/March31.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%205300: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -4865,6 +4957,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%205300: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%205300
 http://www.infosci.cornell.edu/about/colloquiumSP08/Apr2.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -4900,6 +4993,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Apr2.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Apr2.html
 http://www.infosci.cornell.edu/ugrad/ArtsMajor.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -4951,6 +5045,7 @@ http://www.infosci.cornell.edu/ugrad/ArtsMajor.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: The Information Science Major
   url: http://www.infosci.cornell.edu/ugrad/ArtsMajor.htm
 http://www.infosci.cornell.edu/about/SeminarFall04/Oct06.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -4962,6 +5057,7 @@ http://www.infosci.cornell.edu/about/SeminarFall04/Oct06.html: !ruby/object:Page
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarFall04/Oct06.html
 http://www.infosci.cornell.edu/about/colloquiumSP09/Apr29.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -4997,6 +5093,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP09/Apr29.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP09/Apr29.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206307: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -5088,6 +5185,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206307: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206307
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204144: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -5183,6 +5281,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204144: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204144
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/exams.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -5227,6 +5326,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/exams.html: !ruby/object:
       anchor: Syllabus
       id: 199
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html
+  title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/exams.html
 http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -5290,6 +5390,7 @@ http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html: !ruby/object
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Cornell Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html
 http://www.infosci.cornell.edu/about/colloquiumFA07/Aug30.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -5337,6 +5438,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA07/Aug30.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA07/Aug30.html
 http://www.infosci.cornell.edu/ugrad/ISSTAffiliationforms.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -5388,6 +5490,7 @@ http://www.infosci.cornell.edu/ugrad/ISSTAffiliationforms.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: Affiliation Forms
   url: http://www.infosci.cornell.edu/ugrad/ISSTAffiliationforms.htm
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207050: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -5479,6 +5582,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207050: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207050
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment1.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -5518,6 +5622,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment1.html: !ruby/o
       anchor: Syllabus
       id: 199
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html
+  title: "CS4300/INFO430: Information Retrieval Assignment 1"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment1.html
 http://www.infosci.cornell.edu/about/colloquiumFA07/Nov28.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -5565,6 +5670,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA07/Nov28.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA07/Nov28.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204307: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -5656,6 +5762,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204307: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204307
 http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%201.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -5695,6 +5802,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%201.html: !ruby/object:P
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%201.html
 http://www.infosci.cornell.edu/about/SeminarSpring04/March10.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -5706,6 +5814,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring04/March10.html: !ruby/object:
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring04/March10.html
 http://www.infosci.cornell.edu/about/colloquiumSP09/Apr15.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -5741,6 +5850,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP09/Apr15.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP09/Apr15.html
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/about.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -5752,6 +5862,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/about.html: !ruby/object:
       anchor: Home
       id: 196
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/index.html
+  title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/about.html
 http://www.infosci.cornell.edu/about/SeminarFall04/Sept22.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -5763,6 +5874,7 @@ http://www.infosci.cornell.edu/about/SeminarFall04/Sept22.html: !ruby/object:Pag
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarFall04/Sept22.html
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/sample-exam.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -5771,6 +5883,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/sample-exam.html: !ruby/o
   id: 198
   links: {}
 
+  title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/sample-exam.html
 http://www.infosci.cornell.edu/Courses/info4300/2009fa/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -5806,6 +5919,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2009fa/index.html: !ruby/object:
       anchor: Syllabus
       id: 187
       url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/syllabus.html
+  title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/index.html
 http://www.infosci.cornell.edu/Courses/info4300/2009fa/about.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -5817,6 +5931,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2009fa/about.html: !ruby/object:
       anchor: Home
       id: 185
       url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/index.html
+  title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/about.html
 http://www.infosci.cornell.edu/about/seminarSeries-spring2009.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -5936,6 +6051,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2009.html: !ruby/object
       anchor: Improving the Trust User Experience
       id: 61
       url: http://www.infosci.cornell.edu/about/colloquiumSP09/Apr29.html
+  title: Cornell Information Science Colloquium - INFO 7090
   url: http://www.infosci.cornell.edu/about/seminarSeries-spring2009.html
 http://www.infosci.cornell.edu/about/seminarSeries-spring2010.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -6059,6 +6175,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2010.html: !ruby/object
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Cornell Information Science Colloquium - INFO 7090
   url: http://www.infosci.cornell.edu/about/seminarSeries-spring2010.html
 http://www.infosci.cornell.edu/ugrad/newsarticles.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -6151,6 +6268,7 @@ http://www.infosci.cornell.edu/ugrad/newsarticles.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: IS and ISST News Articles
   url: http://www.infosci.cornell.edu/ugrad/newsarticles.htm
 http://www.infosci.cornell.edu/ugrad/CALSAffiliationcriteria.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -6202,6 +6320,7 @@ http://www.infosci.cornell.edu/ugrad/CALSAffiliationcriteria.htm: !ruby/object:P
       anchor: core courses
       id: 253
       url: http://www.infosci.cornell.edu/ugrad/CALSRequirements.htm
+  title: Criteria for Admission
   url: http://www.infosci.cornell.edu/ugrad/CALSAffiliationcriteria.htm
 http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%2013.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -6241,6 +6360,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%2013.html: !ruby/object:
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%2013.html
 http://www.infosci.cornell.edu/about/SeminarSpring04/Apr7.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -6252,6 +6372,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring04/Apr7.html: !ruby/object:Pag
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring04/Apr7.html
 http://www.infosci.cornell.edu/courses/courses.asp: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -6349,6 +6470,7 @@ http://www.infosci.cornell.edu/courses/courses.asp: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp
 http://www.infosci.cornell.edu/ugrad/arts.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -6457,6 +6579,7 @@ http://www.infosci.cornell.edu/ugrad/arts.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science
   url: http://www.infosci.cornell.edu/ugrad/arts.htm
 http://www.infosci.cornell.edu/about/SeminarSpring04/Apr1.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -6472,6 +6595,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring04/Apr1.html: !ruby/object:Pag
       anchor: contact
       id: 71
       url: http://www.infosci.cornell.edu/about/contact.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring04/Apr1.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204900: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -6567,6 +6691,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204900: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204900
 http://www.infosci.cornell.edu/Courses/info4300/2009fa/test/URLhints.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -6578,6 +6703,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2009fa/test/URLhints.html: !ruby
       anchor: Home
       id: 185
       url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/index.html
+  title: "CS430/INFO430: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/test/URLhints.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204470: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -6669,6 +6795,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204470: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204470
 http://www.infosci.cornell.edu/about/colloquiumFA05/oct5.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -6716,6 +6843,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA05/oct5.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA05/oct5.html
 http://www.infosci.cornell.edu/about/SeminarSpring05/March02.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -6727,6 +6855,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/March02.html: !ruby/object:
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/March02.html
 http://www.infosci.cornell.edu/ugrad/Kruse.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -6774,6 +6903,7 @@ http://www.infosci.cornell.edu/ugrad/Kruse.htm: !ruby/object:Page
       anchor: IS Professionals Homepage
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: IS Professionals
   url: http://www.infosci.cornell.edu/ugrad/Kruse.htm
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202921: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -6869,6 +6999,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202921: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202921
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206850: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -6961,6 +7092,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206850: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206850
 http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2023.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -6996,6 +7128,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2023.html: !ruby/object
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2023.html
 http://www.infosci.cornell.edu/about/colloquiumSP08/Mar12.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -7031,6 +7164,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Mar12.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Mar12.html
 http://www.infosci.cornell.edu/ugrad/ISSTgoodstanding.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -7082,6 +7216,7 @@ http://www.infosci.cornell.edu/ugrad/ISSTgoodstanding.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: Criteria for Good Standing
   url: http://www.infosci.cornell.edu/ugrad/ISSTgoodstanding.htm
 http://www.infosci.cornell.edu/courses/FA10offeringnotes.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -7173,6 +7308,7 @@ http://www.infosci.cornell.edu/courses/FA10offeringnotes.html: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Course Offering Notes
   url: http://www.infosci.cornell.edu/courses/FA10offeringnotes.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203300: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -7264,6 +7400,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203300: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203300
 http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april19.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -7311,6 +7448,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april19.html: !ruby/object:P
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Cornell IS-SIGCHI Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april19.html
 http://www.infosci.cornell.edu/courses/info4300/2008fa/HadoopHints.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -7335,6 +7473,7 @@ http://www.infosci.cornell.edu/courses/info4300/2008fa/HadoopHints.html: !ruby/o
       anchor: http://www.infosci.cornell.edu/hadoop/docs.html
       id: 220
       url: http://www.infosci.cornell.edu/hadoop/docs.html
+  title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/courses/info4300/2008fa/HadoopHints.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202950: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -7426,6 +7565,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202950: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202950
 http://www.infosci.cornell.edu/about/colloquiumSP08/Mar26.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -7461,6 +7601,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Mar26.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Mar26.html
 http://www.infosci.cornell.edu/courses/courses.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -7602,6 +7743,7 @@ http://www.infosci.cornell.edu/courses/courses.html: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.html
 http://weblab.infosci.cornell.edu/status.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -7642,6 +7784,7 @@ http://weblab.infosci.cornell.edu/status.html: !ruby/object:Page
       anchor: Overview
       id: 284
       url: http://weblab.infosci.cornell.edu/overview.html
+  title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/status.html
 http://www.infosci.cornell.edu/courses/SP11offeringnotes.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -7733,6 +7876,7 @@ http://www.infosci.cornell.edu/courses/SP11offeringnotes.html: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Course Offering Notes
   url: http://www.infosci.cornell.edu/courses/SP11offeringnotes.html
 http://www.infosci.cornell.edu/ugrad/FAQs.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -7832,6 +7976,7 @@ http://www.infosci.cornell.edu/ugrad/FAQs.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Frequently Asked Questions
   url: http://www.infosci.cornell.edu/ugrad/FAQs.htm
 http://www.infosci.cornell.edu/jobs/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -7880,6 +8025,7 @@ http://www.infosci.cornell.edu/jobs/index.html: !ruby/object:Page
       anchor: Cornell Information Science
       id: 227
       url: http://www.infosci.cornell.edu/jobs/index.html
+  title: Open Positions
   url: http://www.infosci.cornell.edu/jobs/index.html
 http://www.infosci.cornell.edu/courses/coursesgrad.asp: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -7923,6 +8069,7 @@ http://www.infosci.cornell.edu/courses/coursesgrad.asp: !ruby/object:Page
       anchor: Recommended and
       id: 213
       url: http://www.infosci.cornell.edu/grad/classes.html
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/coursesgrad.asp
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment3.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -7962,6 +8109,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment3.html: !ruby/o
       anchor: Syllabus
       id: 199
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html
+  title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment3.html
 http://www.infosci.cornell.edu/masters-preliminary/mastersAdmissions.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -7990,6 +8138,7 @@ http://www.infosci.cornell.edu/masters-preliminary/mastersAdmissions.html: !ruby
       anchor: Home
       id: 228
       url: http://www.infosci.cornell.edu/masters-preliminary/index.html
+  title: Cornell Information Science
   url: http://www.infosci.cornell.edu/masters-preliminary/mastersAdmissions.html
 http://www.infosci.cornell.edu/about/SeminarSpring05/March30.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8001,6 +8150,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/March30.html: !ruby/object:
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/March30.html
 http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8052,6 +8202,7 @@ http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Facilities
   url: http://www.infosci.cornell.edu/about/facilities.html
 http://weblab.infosci.cornell.edu/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8091,6 +8242,7 @@ http://weblab.infosci.cornell.edu/index.html: !ruby/object:Page
       anchor: Overview
       id: 284
       url: http://weblab.infosci.cornell.edu/overview.html
+  title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/index.html
 http://www.infosci.cornell.edu/masters-preliminary/mastersCourses.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8135,6 +8287,7 @@ http://www.infosci.cornell.edu/masters-preliminary/mastersCourses.html: !ruby/ob
       anchor: offering notes
       id: 171
       url: http://www.infosci.cornell.edu/courses/FA10offeringnotes.html
+  title: Cornell Information Science
   url: http://www.infosci.cornell.edu/masters-preliminary/mastersCourses.html
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignments.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8187,6 +8340,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignments.html: !ruby/o
       anchor: assignment3.html
       id: 192
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment3.html
+  title: "CS4300/INFO4300: Information Retrieval Assignments"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignments.html
 http://www.infosci.cornell.edu/hadoop/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8234,6 +8388,7 @@ http://www.infosci.cornell.edu/hadoop/index.html: !ruby/object:Page
       anchor: Project forms
       id: 218
       url: http://www.infosci.cornell.edu/hadoop/cac.html
+  title: "Cornell Web Lab: Hadoop"
   url: http://www.infosci.cornell.edu/hadoop/index.html
 http://www.infosci.cornell.edu/about/colloquiumFA05/sept7.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8281,6 +8436,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA05/sept7.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA05/sept7.html
 http://www.infosci.cornell.edu/about/colloq_videos.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8296,6 +8452,7 @@ http://www.infosci.cornell.edu/about/colloq_videos.html: !ruby/object:Page
       anchor: Cornell Information Science
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Cornell Information Science
   url: http://www.infosci.cornell.edu/about/colloq_videos.html
 http://www.infosci.cornell.edu/ugrad/CALSHonors.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8343,6 +8500,7 @@ http://www.infosci.cornell.edu/ugrad/CALSHonors.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: Honors Requirements
   url: http://www.infosci.cornell.edu/ugrad/CALSHonors.htm
 http://www.infosci.cornell.edu/about/colloquiumSP09/Jan28.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8378,6 +8536,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP09/Jan28.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP09/Jan28.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202040: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8469,6 +8628,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202040: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202040
 http://www.infosci.cornell.edu/about/colloquiumFA08/Nov19.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8504,6 +8664,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA08/Nov19.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA08/Nov19.html
 http://www.infosci.cornell.edu/about/colloquiumSP08/Feb20.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8539,6 +8700,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Feb20.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Feb20.html
 http://www.infosci.cornell.edu/about/colloquiumSP08/Mar10.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8574,6 +8736,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Mar10.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Mar10.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206400: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8665,6 +8828,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206400: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206400
 http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/sept14.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8712,6 +8876,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/sept14.html: !ruby/object:Pa
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Cornell IS-SIGCHI Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/sept14.html
 http://www.infosci.cornell.edu/hadoop/docs.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8724,6 +8889,7 @@ http://www.infosci.cornell.edu/hadoop/docs.html: !ruby/object:Page
       anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
+  title: "Cornell Web Lab: Hadoop"
   url: http://www.infosci.cornell.edu/hadoop/docs.html
 http://www.infosci.cornell.edu/ugrad/CALSAffiliationforms.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8771,6 +8937,7 @@ http://www.infosci.cornell.edu/ugrad/CALSAffiliationforms.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: Major Declaration Forms
   url: http://www.infosci.cornell.edu/ugrad/CALSAffiliationforms.htm
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202310: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8862,6 +9029,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202310: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202310
 http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2009/SIGCHI_Mar09_09.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8901,6 +9069,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2009/SIGCHI_Mar09_09.htm: !r
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: SIGCHI Invited Lecturer Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2009/SIGCHI_Mar09_09.htm
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8944,6 +9113,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html: !ruby/obje
       anchor: Syllabus
       id: 199
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html
+  title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html
 http://www.infosci.cornell.edu/about/SeminarSpring04/Feb24.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8952,6 +9122,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring04/Feb24.html: !ruby/object:Pa
   id: 103
   links: {}
 
+  title: Feb24.html
   url: http://www.infosci.cornell.edu/about/SeminarSpring04/Feb24.html
 http://www.infosci.cornell.edu/courses/info2950/2008fa/default.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -8960,6 +9131,7 @@ http://www.infosci.cornell.edu/courses/info2950/2008fa/default.htm: !ruby/object
   id: 177
   links: {}
 
+  title: Info 2950
   url: http://www.infosci.cornell.edu/courses/info2950/2008fa/default.htm
 http://www.infosci.cornell.edu/ugrad/Kerchner.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -9007,6 +9179,7 @@ http://www.infosci.cornell.edu/ugrad/Kerchner.htm: !ruby/object:Page
       anchor: IS Professionals Homepage
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: IS Professionals
   url: http://www.infosci.cornell.edu/ugrad/Kerchner.htm
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204400: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -9098,6 +9271,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204400: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204400
 http://www.infosci.cornell.edu/about/SeminarSpring05/June6.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -9109,6 +9283,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/June6.html: !ruby/object:Pa
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/June6.html
 http://www.infosci.cornell.edu/courses/INFO490.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -9210,6 +9385,7 @@ http://www.infosci.cornell.edu/courses/INFO490.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Independent Research
   url: http://www.infosci.cornell.edu/courses/INFO490.htm
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204320: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -9301,6 +9477,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204320: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204320
 http://www.infosci.cornell.edu/hadoop/prog.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -9312,6 +9489,7 @@ http://www.infosci.cornell.edu/hadoop/prog.html: !ruby/object:Page
       anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
+  title: "Cornell Web Lab: Hadoop"
   url: http://www.infosci.cornell.edu/hadoop/prog.html
 http://www.infosci.cornell.edu/about/colloquiumFA06/Dec12.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -9359,6 +9537,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA06/Dec12.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA06/Dec12.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206350: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -9450,6 +9629,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206350: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206350
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%20415: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -9541,6 +9721,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%20415: !ruby/obj
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%20415
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203660: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -9632,6 +9813,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203660: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203660
 http://www.infosci.cornell.edu/courses/info204/2007sp/index.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -9645,6 +9827,7 @@ http://www.infosci.cornell.edu/courses/info204/2007sp/index.htm: !ruby/object:Pa
       anchor: schedule of office hours
       id: 172
       url: http://www.infosci.cornell.edu/courses/info204/2007sp/index.htm
+  title: Networks (Econ/Soc/CS/Info 204, David Easley and Jon Kleinberg)
   url: http://www.infosci.cornell.edu/courses/info204/2007sp/index.htm
 http://www.infosci.cornell.edu/ugrad/ISSTAdmissions.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -9704,6 +9887,7 @@ http://www.infosci.cornell.edu/ugrad/ISSTAdmissions.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: Admission to the Major
   url: http://www.infosci.cornell.edu/ugrad/ISSTAdmissions.htm
 http://www.infosci.cornell.edu/ugrad/concentrations.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -9793,6 +9977,7 @@ http://www.infosci.cornell.edu/ugrad/concentrations.html: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Concentration / Minor in Information Science
   url: http://www.infosci.cornell.edu/ugrad/concentrations.html
 http://www.infosci.cornell.edu/research/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -9839,6 +10024,7 @@ http://www.infosci.cornell.edu/research/index.html: !ruby/object:Page
       anchor: research
       id: 235
       url: http://www.infosci.cornell.edu/research/index.html
+  title: Research
   url: http://www.infosci.cornell.edu/research/index.html
 http://www.infosci.cornell.edu/grad/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -9898,6 +10084,7 @@ http://www.infosci.cornell.edu/grad/index.html: !ruby/object:Page
       anchor: See list of Required & Recommended courses.
       id: 213
       url: http://www.infosci.cornell.edu/grad/classes.html
+  title: PhD Program Overview
   url: http://www.infosci.cornell.edu/grad/index.html
 http://www.infosci.cornell.edu/dl/epub.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -9910,6 +10097,7 @@ http://www.infosci.cornell.edu/dl/epub.html: !ruby/object:Page
       anchor: Information Science Home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Innovation in Electronic Publishing
   url: http://www.infosci.cornell.edu/dl/epub.html
 http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -10017,6 +10205,7 @@ http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html: !ruby/object
       anchor: Sadat's talk
       id: 116
       url: http://www.infosci.cornell.edu/about/SeminarSpring05/March30b.html
+  title: Cornell Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/readings.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -10060,6 +10249,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/readings.html: !ruby/obje
       anchor: Syllabus
       id: 199
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html
+  title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/readings.html
 http://www.infosci.cornell.edu/courses/info204/2008sp/index.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -10073,6 +10263,7 @@ http://www.infosci.cornell.edu/courses/info204/2008sp/index.htm: !ruby/object:Pa
       anchor: schedule of office hours
       id: 173
       url: http://www.infosci.cornell.edu/courses/info204/2008sp/index.htm
+  title: Networks (Econ/Soc/Info 204, David Easley and Jon Kleinberg)
   url: http://www.infosci.cornell.edu/courses/info204/2008sp/index.htm
 http://www.infosci.cornell.edu/ugrad/ISSA.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -10165,6 +10356,7 @@ http://www.infosci.cornell.edu/ugrad/ISSA.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Student Association (ISSA)
   url: http://www.infosci.cornell.edu/ugrad/ISSA.htm
 http://www.infosci.cornell.edu/masters-preliminary/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -10224,6 +10416,7 @@ http://www.infosci.cornell.edu/masters-preliminary/index.html: !ruby/object:Page
       anchor: Home
       id: 228
       url: http://www.infosci.cornell.edu/masters-preliminary/index.html
+  title: Master of Professional Studies
   url: http://www.infosci.cornell.edu/masters-preliminary/index.html
 http://www.infosci.cornell.edu/courses/FA09offeringnotes.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -10315,6 +10508,7 @@ http://www.infosci.cornell.edu/courses/FA09offeringnotes.html: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Course Offering Notes
   url: http://www.infosci.cornell.edu/courses/FA09offeringnotes.html
 http://www.infosci.cornell.edu/about/seminarSeries-fall2008.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -10434,6 +10628,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2008.html: !ruby/object:P
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Cornell Information Science Colloquium - INFO 7090
   url: http://www.infosci.cornell.edu/about/seminarSeries-fall2008.html
 http://www.infosci.cornell.edu/about/colloquiumSP08/May7.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -10469,6 +10664,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/May7.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/May7.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202450: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -10564,6 +10760,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202450: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202450
 http://www.infosci.cornell.edu/ugrad/Artsgoodstanding.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -10615,6 +10812,7 @@ http://www.infosci.cornell.edu/ugrad/Artsgoodstanding.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: Criteria for Good Standing
   url: http://www.infosci.cornell.edu/ugrad/Artsgoodstanding.htm
 http://www.infosci.cornell.edu/about/colloquium-fall2006.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -10710,6 +10908,7 @@ http://www.infosci.cornell.edu/about/colloquium-fall2006.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Cornell Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquium-fall2006.html
 http://www.infosci.cornell.edu/about/colloquiumFA07/Nov7.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -10757,6 +10956,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA07/Nov7.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA07/Nov7.html
 http://www.infosci.cornell.edu/ugrad/CALSgoodstanding.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -10804,6 +11004,7 @@ http://www.infosci.cornell.edu/ugrad/CALSgoodstanding.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: Criteria for Good Standing
   url: http://www.infosci.cornell.edu/ugrad/CALSgoodstanding.htm
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -10843,6 +11044,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/index.html: !ruby/object:
       anchor: Syllabus
       id: 199
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html
+  title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/index.html
 http://www.infosci.cornell.edu/about/colloquiumSP09/Mar25.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -10878,6 +11080,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP09/Mar25.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP09/Mar25.html
 http://www.infosci.cornell.edu/graduateStudents/alumni.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -10921,6 +11124,7 @@ http://www.infosci.cornell.edu/graduateStudents/alumni.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Alumni
   url: http://www.infosci.cornell.edu/graduateStudents/alumni.html
 http://www.infosci.cornell.edu/about/IS-SIGCHI.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -10988,6 +11192,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Cornell IS-SIGCHI Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI.html
 http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%201.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -11027,6 +11232,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%201.html: !ruby/object:P
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%201.html
 http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -11135,6 +11341,7 @@ http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: IS Professionals
   url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
 http://www.infosci.cornell.edu/courses/Minor_in_Infosci.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -11190,6 +11397,7 @@ http://www.infosci.cornell.edu/courses/Minor_in_Infosci.html: !ruby/object:Page
       anchor: required or recommended course
       id: 213
       url: http://www.infosci.cornell.edu/grad/classes.html
+  title: Graduate Minor in Information Science
   url: http://www.infosci.cornell.edu/courses/Minor_in_Infosci.html
 http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/oct12.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -11237,6 +11445,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/oct12.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Cornell IS-SIGCHI Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/oct12.html
 http://www.infosci.cornell.edu/facultyAndResearch/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -11285,6 +11494,7 @@ http://www.infosci.cornell.edu/facultyAndResearch/index.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: "Faculty & Researchers (IS field members)\xC2\xA0"
   url: http://www.infosci.cornell.edu/facultyAndResearch/index.html
 http://www.infosci.cornell.edu/ugrad/CALSMajor.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -11332,6 +11542,7 @@ http://www.infosci.cornell.edu/ugrad/CALSMajor.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: The Information Science Major
   url: http://www.infosci.cornell.edu/ugrad/CALSMajor.htm
 http://www.infosci.cornell.edu/news/news.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -11390,6 +11601,7 @@ http://www.infosci.cornell.edu/news/news.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: More News & Events
   url: http://www.infosci.cornell.edu/news/news.html
 http://www.infosci.cornell.edu/Courses/info4300/2009fa/assignments.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -11426,6 +11638,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2009fa/assignments.html: !ruby/o
       anchor: Syllabus
       id: 187
       url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/syllabus.html
+  title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/assignments.html
 http://www.infosci.cornell.edu/about/colloquiumFA06/Nov8.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -11473,6 +11686,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA06/Nov8.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA06/Nov8.html
 http://www.infosci.cornell.edu/grad/classes.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -11575,6 +11789,7 @@ http://www.infosci.cornell.edu/grad/classes.html: !ruby/object:Page
       anchor: Graduate Minor In
       id: 202
       url: http://www.infosci.cornell.edu/courses/Minor_in_Infosci.html
+  title: Required and Recommended Classes PhD
   url: http://www.infosci.cornell.edu/grad/classes.html
 http://www.infosci.cornell.edu/courses/courseconflictcharts.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -11666,6 +11881,7 @@ http://www.infosci.cornell.edu/courses/courseconflictcharts.html: !ruby/object:P
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Course Conflict Charts
   url: http://www.infosci.cornell.edu/courses/courseconflictcharts.html
 http://weblab.infosci.cornell.edu/overview.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -11705,6 +11921,7 @@ http://weblab.infosci.cornell.edu/overview.html: !ruby/object:Page
       anchor: Overview
       id: 284
       url: http://weblab.infosci.cornell.edu/overview.html
+  title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/overview.html
 http://www.infosci.cornell.edu/about/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -11756,6 +11973,7 @@ http://www.infosci.cornell.edu/about/index.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Department Overview
   url: http://www.infosci.cornell.edu/about/index.html
 http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -11867,6 +12085,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm: !ruby/object:Pa
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Cornell Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm
 http://www.infosci.cornell.edu/about/colloquiumSP09/Feb25.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -11902,6 +12121,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP09/Feb25.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP09/Feb25.html
 http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -11969,6 +12189,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm: !ruby/object:
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Cornell Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm
 http://www.infosci.cornell.edu/about/ColloquiumFA09/Nov%2011.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12004,6 +12225,7 @@ http://www.infosci.cornell.edu/about/ColloquiumFA09/Nov%2011.html: !ruby/object:
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/ColloquiumFA09/Nov%2011.html
 http://www.infosci.cornell.edu/about/colloquiumSP08/Mar5.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12039,6 +12261,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Mar5.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Mar5.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%209900: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12134,6 +12357,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%209900: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%209900
 http://www.infosci.cornell.edu/about/SeminarFall04/Oct20.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12145,6 +12369,7 @@ http://www.infosci.cornell.edu/about/SeminarFall04/Oct20.html: !ruby/object:Page
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarFall04/Oct20.html
 http://www.infosci.cornell.edu/about/colloquiumSP07/Mar28.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12192,6 +12417,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP07/Mar28.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP07/Mar28.html
 http://www.infosci.cornell.edu/courses/info2040/2010sp/index.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12205,6 +12431,7 @@ http://www.infosci.cornell.edu/courses/info2040/2010sp/index.htm: !ruby/object:P
       anchor: CMS site
       id: 176
       url: http://www.infosci.cornell.edu/courses/info2040/2010sp/index.htm
+  title: Networks (Econ/Soc/CS/Info , David Easley and Jon Kleinberg)
   url: http://www.infosci.cornell.edu/courses/info2040/2010sp/index.htm
 http://www.infosci.cornell.edu/about/colloquiumSP07/Jan31.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12252,6 +12479,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP07/Jan31.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP07/Jan31.html
 http://www.infosci.cornell.edu/ugrad/ugradContact.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12343,6 +12571,7 @@ http://www.infosci.cornell.edu/ugrad/ugradContact.html: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Undergraduate Contact Information
   url: http://www.infosci.cornell.edu/ugrad/ugradContact.html
 http://www.infosci.cornell.edu/about/colloquiumSP10/Mar17.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12378,6 +12607,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP10/Mar17.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP10/Mar17.html
 http://www.infosci.cornell.edu/about/colloquiumFA09/Oct%205.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12413,6 +12643,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA09/Oct%205.html: !ruby/object:P
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA09/Oct%205.html
 http://www.infosci.cornell.edu/Courses/info4300/2009fa/code.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12448,6 +12679,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2009fa/code.html: !ruby/object:P
       anchor: Syllabus
       id: 187
       url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/syllabus.html
+  title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/code.html
 http://www.infosci.cornell.edu/masters-preliminary/mastersGeneral.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12479,6 +12711,7 @@ http://www.infosci.cornell.edu/masters-preliminary/mastersGeneral.html: !ruby/ob
       anchor: Information Science
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Cornell Information Science
   url: http://www.infosci.cornell.edu/masters-preliminary/mastersGeneral.html
 http://www.infosci.cornell.edu/hadoop/windows.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12491,6 +12724,7 @@ http://www.infosci.cornell.edu/hadoop/windows.html: !ruby/object:Page
       anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
+  title: "Cornell Web Lab: Hadoop"
   url: http://www.infosci.cornell.edu/hadoop/windows.html
 http://www.infosci.cornell.edu/courses/info4300/2008fa/MapReduceHints.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12511,6 +12745,7 @@ http://www.infosci.cornell.edu/courses/info4300/2008fa/MapReduceHints.html: !rub
       anchor: Preparing a MapReduce job on a Macintosh computer
       id: 222
       url: http://www.infosci.cornell.edu/hadoop/mac.html
+  title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/courses/info4300/2008fa/MapReduceHints.html
 http://www.infosci.cornell.edu/about/colloquiumSP07/Apr4.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12558,6 +12793,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP07/Apr4.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP07/Apr4.html
 http://www.infosci.cornell.edu/hadoop/mac.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12570,6 +12806,7 @@ http://www.infosci.cornell.edu/hadoop/mac.html: !ruby/object:Page
       anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
+  title: "Cornell Web Lab: Hadoop"
   url: http://www.infosci.cornell.edu/hadoop/mac.html
 http://www.infosci.cornell.edu/ugrad/nowebsite.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12650,6 +12887,7 @@ http://www.infosci.cornell.edu/ugrad/nowebsite.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: No course website
   url: http://www.infosci.cornell.edu/ugrad/nowebsite.htm
 http://www.infosci.cornell.edu/ugrad/ISSTMajor.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12701,6 +12939,7 @@ http://www.infosci.cornell.edu/ugrad/ISSTMajor.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: Information Science, Systems, and Technology
   url: http://www.infosci.cornell.edu/ugrad/ISSTMajor.htm
 http://www.infosci.cornell.edu/ugrad/CALS.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12804,6 +13043,7 @@ http://www.infosci.cornell.edu/ugrad/CALS.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science
   url: http://www.infosci.cornell.edu/ugrad/CALS.htm
 http://www.infosci.cornell.edu/about/colloquiumSP08/Apr16.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12839,6 +13079,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Apr16.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Apr16.html
 http://www.infosci.cornell.edu/dl/nsdl-cornell.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12860,6 +13101,7 @@ http://www.infosci.cornell.edu/dl/nsdl-cornell.html: !ruby/object:Page
       anchor: Information Science Home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: The NSDL at Cornell
   url: http://www.infosci.cornell.edu/dl/nsdl-cornell.html
 http://www.infosci.cornell.edu/dl/core-integration.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12881,6 +13123,7 @@ http://www.infosci.cornell.edu/dl/core-integration.html: !ruby/object:Page
       anchor: The NSDL at Cornell
       id: 211
       url: http://www.infosci.cornell.edu/dl/nsdl-cornell.html
+  title: NSDL Core Integration at Cornell
   url: http://www.infosci.cornell.edu/dl/core-integration.html
 http://www.infosci.cornell.edu/about/SIGCHI.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12929,6 +13172,7 @@ http://www.infosci.cornell.edu/about/SIGCHI.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Cornell SIGCHI Series
   url: http://www.infosci.cornell.edu/about/SIGCHI.html
 http://www.infosci.cornell.edu/ugrad/Glasgal.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12976,6 +13220,7 @@ http://www.infosci.cornell.edu/ugrad/Glasgal.htm: !ruby/object:Page
       anchor: IS Professionals Homepage
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: IS Professionals
   url: http://www.infosci.cornell.edu/ugrad/Glasgal.htm
 http://www.infosci.cornell.edu/SIN/cybertools/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -12984,6 +13229,7 @@ http://www.infosci.cornell.edu/SIN/cybertools/index.html: !ruby/object:Page
   id: 236
   links: {}
 
+  title: "Cornell University: Next Generation Cybertools"
   url: http://www.infosci.cornell.edu/SIN/cybertools/index.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202300: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13075,6 +13321,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202300: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202300
 http://www.infosci.cornell.edu/Courses/info4300/2009fa/syllabus.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13111,6 +13358,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2009fa/syllabus.html: !ruby/obje
       anchor: Syllabus
       id: 187
       url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/syllabus.html
+  title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/syllabus.html
 http://www.infosci.cornell.edu/hadoop/cac.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13122,6 +13370,7 @@ http://www.infosci.cornell.edu/hadoop/cac.html: !ruby/object:Page
       anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
+  title: "Cornell Web Lab: Hadoop"
   url: http://www.infosci.cornell.edu/hadoop/cac.html
 http://www.infosci.cornell.edu/about/colloquiumFA08/Oct1.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13157,6 +13406,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA08/Oct1.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA08/Oct1.html
 http://www.infosci.cornell.edu/ugrad/sampleSched_Agg.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13204,6 +13454,7 @@ http://www.infosci.cornell.edu/ugrad/sampleSched_Agg.html: !ruby/object:Page
       anchor: major requirements
       id: 253
       url: http://www.infosci.cornell.edu/ugrad/CALSRequirements.htm
+  title: Sample Schedule
   url: http://www.infosci.cornell.edu/ugrad/sampleSched_Agg.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202140: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13295,6 +13546,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202140: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202140
 http://www.infosci.cornell.edu/about/SeminarFall04/Sept08.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13306,6 +13558,7 @@ http://www.infosci.cornell.edu/about/SeminarFall04/Sept08.html: !ruby/object:Pag
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarFall04/Sept08.html
 http://www.infosci.cornell.edu/about/colloquiumFA06/Oct25.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13353,6 +13606,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA06/Oct25.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA06/Oct25.html
 http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april7.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13400,6 +13654,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april7.html: !ruby/object:Pa
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Cornell IS-SIGCHI Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april7.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206500: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13495,6 +13750,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206500: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206500
 http://www.infosci.cornell.edu/grad/FAQgrad.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13551,6 +13807,7 @@ http://www.infosci.cornell.edu/grad/FAQgrad.html: !ruby/object:Page
       anchor: Recommended and
       id: 213
       url: http://www.infosci.cornell.edu/grad/classes.html
+  title: Frequently Asked Questions
   url: http://www.infosci.cornell.edu/grad/FAQgrad.html
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment2.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13590,6 +13847,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment2.html: !ruby/o
       anchor: Syllabus
       id: 199
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html
+  title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment2.html
 http://www.infosci.cornell.edu/dl/dl-archive.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13606,6 +13864,7 @@ http://www.infosci.cornell.edu/dl/dl-archive.html: !ruby/object:Page
       anchor: Information Science Home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Archive of Digital Libraries Research at Cornell
   url: http://www.infosci.cornell.edu/dl/dl-archive.html
 http://www.infosci.cornell.edu/about/SeminarSpring04/Apr14.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13617,6 +13876,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring04/Apr14.html: !ruby/object:Pa
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring04/Apr14.html
 http://www.infosci.cornell.edu/dl/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13653,6 +13913,7 @@ http://www.infosci.cornell.edu/dl/index.html: !ruby/object:Page
       anchor: NSDL-funded projects at Cornell
       id: 211
       url: http://www.infosci.cornell.edu/dl/nsdl-cornell.html
+  title: Digital Libraries Research at Cornell
   url: http://www.infosci.cornell.edu/dl/index.html
 http://www.infosci.cornell.edu/courses/info2040/2009sp/index.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13666,6 +13927,7 @@ http://www.infosci.cornell.edu/courses/info2040/2009sp/index.htm: !ruby/object:P
       anchor: schedule of office hours
       id: 174
       url: http://www.infosci.cornell.edu/courses/info2040/2009sp/index.htm
+  title: Networks (Econ/Soc/CS/Info , David Easley and Jon Kleinberg)
   url: http://www.infosci.cornell.edu/courses/info2040/2009sp/index.htm
 http://www.infosci.cornell.edu/courses/nowebsite.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13711,6 +13973,7 @@ http://www.infosci.cornell.edu/courses/nowebsite.htm: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: No course website
   url: http://www.infosci.cornell.edu/courses/nowebsite.htm
 http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr30_08.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13746,6 +14009,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr30_08.htm: !r
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: SIGCHI Invited Lecturer Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr30_08.htm
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203650: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13841,6 +14105,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203650: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203650
 http://www.infosci.cornell.edu/ugrad/ISSTRequirements.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13910,6 +14175,7 @@ http://www.infosci.cornell.edu/ugrad/ISSTRequirements.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: Major Requirements
   url: http://www.infosci.cornell.edu/ugrad/ISSTRequirements.htm
 http://www.infosci.cornell.edu/about/colloquiumSP08/Jan24.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13945,6 +14211,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Jan24.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Jan24.html
 http://www.infosci.cornell.edu/about/colloquiumFA05/nov30.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -13992,6 +14259,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA05/nov30.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA05/nov30.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206341: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -14083,6 +14351,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206341: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206341
 http://www.infosci.cornell.edu/about/colloquiumFA06/Oct11.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -14130,6 +14399,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA06/Oct11.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA06/Oct11.html
 http://www.infosci.cornell.edu/courses/Projectlist.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -14223,6 +14493,7 @@ http://www.infosci.cornell.edu/courses/Projectlist.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Independent Research
   url: http://www.infosci.cornell.edu/courses/Projectlist.htm
 http://www.infosci.cornell.edu/about/SeminarSpring05/March30b.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -14234,6 +14505,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/March30b.html: !ruby/object
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/March30b.html
 http://www.infosci.cornell.edu/dl/dl-people.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -14249,6 +14521,7 @@ http://www.infosci.cornell.edu/dl/dl-people.html: !ruby/object:Page
       anchor: Information Science Home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: "Digital Libraries Research at Cornell: People"
   url: http://www.infosci.cornell.edu/dl/dl-people.html
 http://www.infosci.cornell.edu/about/colloquium-spring2006.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -14312,6 +14585,7 @@ http://www.infosci.cornell.edu/about/colloquium-spring2006.html: !ruby/object:Pa
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Cornell Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquium-spring2006.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204500: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -14407,6 +14681,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204500: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204500
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203490: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -14502,6 +14777,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203490: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203490
 http://www.infosci.cornell.edu/hadoop/runjob.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -14513,6 +14789,7 @@ http://www.infosci.cornell.edu/hadoop/runjob.html: !ruby/object:Page
       anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
+  title: "Cornell Web Lab: Hadoop"
   url: http://www.infosci.cornell.edu/hadoop/runjob.html
 http://www.infosci.cornell.edu/about/colloquiumFA08/Nov12.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -14548,6 +14825,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA08/Nov12.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA08/Nov12.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206450: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -14643,6 +14921,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206450: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206450
 http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -14769,6 +15048,7 @@ http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Page
       anchor: The First-Ever Information Science Research Cavalcade
       id: 40
       url: http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%2013.html
+  title: Cornell Information Science Colloquium - INFO 7090
   url: http://www.infosci.cornell.edu/about/seminarSeries.html
 http://www.infosci.cornell.edu/ugrad/sampleSched_Engin.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -14820,6 +15100,7 @@ http://www.infosci.cornell.edu/ugrad/sampleSched_Engin.html: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: Sample Schedule
   url: http://www.infosci.cornell.edu/ugrad/sampleSched_Engin.html
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/code.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -14859,6 +15140,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/code.html: !ruby/object:P
       anchor: Syllabus
       id: 199
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html
+  title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/code.html
 http://weblab.infosci.cornell.edu/policy.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -14898,6 +15180,7 @@ http://weblab.infosci.cornell.edu/policy.html: !ruby/object:Page
       anchor: Overview
       id: 284
       url: http://weblab.infosci.cornell.edu/overview.html
+  title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/policy.html
 http://www.infosci.cornell.edu/ugrad/Recker.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -14945,6 +15228,7 @@ http://www.infosci.cornell.edu/ugrad/Recker.htm: !ruby/object:Page
       anchor: IS Professionals Homepage
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: IS Professionals
   url: http://www.infosci.cornell.edu/ugrad/Recker.htm
 http://www.infosci.cornell.edu/ugrad/ArtsHonors.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -14996,6 +15280,7 @@ http://www.infosci.cornell.edu/ugrad/ArtsHonors.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  title: Honors Requirements
   url: http://www.infosci.cornell.edu/ugrad/ArtsHonors.htm
 http://www.infosci.cornell.edu/courses/info2040/2010fa/index.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -15010,6 +15295,7 @@ http://www.infosci.cornell.edu/courses/info2040/2010fa/index.htm: !ruby/object:P
       anchor: CMS site
       id: 175
       url: http://www.infosci.cornell.edu/courses/info2040/2010fa/index.htm
+  title: Networks (Econ/Soc/CS/Info , David Easley and Jon Kleinberg)
   url: http://www.infosci.cornell.edu/courses/info2040/2010fa/index.htm
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%205150: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -15106,4 +15392,5 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%205150: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%205150
