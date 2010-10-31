@@ -1,8 +1,11 @@
 require "rubygems"
+require "Logger"
 require "gsl"
 include GSL
 
 class PageRank
+  @@log = Logger.new(File.dirname(__FILE__) + "/../logs/pagerank.log")
+
   def self.sparse_to_dense(sparse, alpha=0.14)
     n = sparse.size
     m = Matrix.ones(sparse.size, sparse.size)*(alpha/n.to_f)
@@ -22,6 +25,7 @@ class PageRank
   end
   
   def self.pagerank(prob_mat)
+    @@log.debug("starting pagerank ...")
     n = prob_mat.size1
     r = Vector.alloc(n)
     diff = Vector.alloc(n)
@@ -29,11 +33,12 @@ class PageRank
     r[0] = 1
     while(diff.max > 1.0/(n*100)) do
     #500.times do
-      puts r
+      @@log.debug("#{r}")
       r_prime = r*prob_mat
       diff = r - r_prime
       r = r_prime
     end
+    @@log.debug("finished pagerank!")
     r
   end
 end

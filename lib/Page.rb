@@ -4,7 +4,7 @@ require "Resolver"
 require "Link"
 
 class Page
-  attr_accessor :id, :url, :title, :links, :anchors
+  attr_accessor :id, :url, :title, :links, :anchors, :rank
   def initialize(id, url)
     @id, @url = id, url
     @links = Hash.new

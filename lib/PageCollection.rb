@@ -1,4 +1,5 @@
 require "Page"
+require "yaml"
 
 class PageCollection
   attr_accessor :pages
@@ -17,6 +18,14 @@ class PageCollection
   
   def [] url
     @pages[url]
+  end
+  
+  def save(file)
+    File.open(file, "w") {|file| file.puts(@pages.to_yaml) }
+  end
+  
+  def load(file)
+    File.open(file, "r") { |file| @pages = YAML.load(file) }
   end
   
   def crawl

@@ -1,0 +1,430 @@
+--- 
+http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Page 
+  anchors: !ruby/object:Set 
+    hash: 
+      Colloquium: true
+      IS Colloquium: true
+  id: 18
+  links: 
+    http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
+      anchor: Overview
+      id: 4
+      url: http://www.infosci.cornell.edu/about/index.html
+    http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Link 
+      anchor: Facilities
+      id: 3
+      url: http://www.infosci.cornell.edu/about/facilities.html
+    http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Link 
+      anchor: Contact
+      id: 2
+      url: http://www.infosci.cornell.edu/about/contact.html
+    http://www.infosci.cornell.edu/index.html: !ruby/object:Link 
+      anchor: home
+      id: 1
+      url: http://www.infosci.cornell.edu/index.html
+  url: http://www.infosci.cornell.edu/about/seminarSeries.html
+http://www.infosci.cornell.edu/ugrad/Recker.htm: !ruby/object:Page 
+  anchors: !ruby/object:Set 
+    hash: {}
+
+  id: 8
+  links: 
+    http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
+      anchor: about us
+      id: 4
+      url: http://www.infosci.cornell.edu/about/index.html
+    http://www.infosci.cornell.edu/ugrad/ugradContact.html: !ruby/object:Link 
+      anchor: Contact Information
+      id: 12
+      url: http://www.infosci.cornell.edu/ugrad/ugradContact.html
+    http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Link 
+      anchor: contact
+      id: 2
+      url: http://www.infosci.cornell.edu/about/contact.html
+  url: http://www.infosci.cornell.edu/ugrad/Recker.htm
+http://www.infosci.cornell.edu/ugrad/sampleSched_Engin.html: !ruby/object:Page 
+  anchors: !ruby/object:Set 
+    hash: {}
+
+  id: 11
+  links: 
+    http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
+      anchor: about us
+      id: 4
+      url: http://www.infosci.cornell.edu/about/index.html
+    http://www.infosci.cornell.edu/ugrad/ugradContact.html: !ruby/object:Link 
+      anchor: Contact Information
+      id: 12
+      url: http://www.infosci.cornell.edu/ugrad/ugradContact.html
+    http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Link 
+      anchor: contact
+      id: 2
+      url: http://www.infosci.cornell.edu/about/contact.html
+  url: http://www.infosci.cornell.edu/ugrad/sampleSched_Engin.html
+http://www.infosci.cornell.edu/ugrad/sampleSched_Arts.html: !ruby/object:Page 
+  anchors: !ruby/object:Set 
+    hash: {}
+
+  id: 10
+  links: 
+    http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
+      anchor: about us
+      id: 4
+      url: http://www.infosci.cornell.edu/about/index.html
+    http://www.infosci.cornell.edu/ugrad/ugradContact.html: !ruby/object:Link 
+      anchor: Contact Information
+      id: 12
+      url: http://www.infosci.cornell.edu/ugrad/ugradContact.html
+    http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Link 
+      anchor: contact
+      id: 2
+      url: http://www.infosci.cornell.edu/about/contact.html
+  url: http://www.infosci.cornell.edu/ugrad/sampleSched_Arts.html
+http://weblab.infosci.cornell.edu/contact.html: !ruby/object:Page 
+  anchors: !ruby/object:Set 
+    hash: 
+      Contact: true
+  id: 13
+  links: 
+    http://weblab.infosci.cornell.edu/contact.html: !ruby/object:Link 
+      anchor: Contact
+      id: 13
+      url: http://weblab.infosci.cornell.edu/contact.html
+    http://weblab.infosci.cornell.edu/status.html: !ruby/object:Link 
+      anchor: status
+      id: 17
+      url: http://weblab.infosci.cornell.edu/status.html
+    http://weblab.infosci.cornell.edu/index.html: !ruby/object:Link 
+      anchor: Home
+      id: 16
+      url: http://weblab.infosci.cornell.edu/index.html
+    http://weblab.infosci.cornell.edu/contributors.html: !ruby/object:Link 
+      anchor: Contributors
+      id: 14
+      url: http://weblab.infosci.cornell.edu/contributors.html
+    http://weblab.infosci.cornell.edu/documentation.html: !ruby/object:Link 
+      anchor: Tools and documentation
+      id: 15
+      url: http://weblab.infosci.cornell.edu/documentation.html
+  url: http://weblab.infosci.cornell.edu/contact.html
+http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr30_08.htm: !ruby/object:Page 
+  anchors: !ruby/object:Set 
+    hash: {}
+
+  id: 6
+  links: 
+    http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
+      anchor: about us
+      id: 4
+      url: http://www.infosci.cornell.edu/about/index.html
+    http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Link 
+      anchor: contact
+      id: 2
+      url: http://www.infosci.cornell.edu/about/contact.html
+    http://www.infosci.cornell.edu/index.html: !ruby/object:Link 
+      anchor: home
+      id: 1
+      url: http://www.infosci.cornell.edu/index.html
+  url: http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr30_08.htm
+http://www.infosci.cornell.edu/about/index.html: !ruby/object:Page 
+  anchors: !ruby/object:Set 
+    hash: 
+      Cornell Information Science: true
+      Overview: true
+      about us: true
+      Department Overview: true
+  id: 4
+  links: 
+    http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
+      anchor: IS Colloquium
+      id: 18
+      url: http://www.infosci.cornell.edu/about/seminarSeries.html
+    http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
+      anchor: Overview
+      id: 4
+      url: http://www.infosci.cornell.edu/about/index.html
+    http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Link 
+      anchor: Facilities
+      id: 3
+      url: http://www.infosci.cornell.edu/about/facilities.html
+    http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Link 
+      anchor: Contact
+      id: 2
+      url: http://www.infosci.cornell.edu/about/contact.html
+    http://www.infosci.cornell.edu/index.html: !ruby/object:Link 
+      anchor: home
+      id: 1
+      url: http://www.infosci.cornell.edu/index.html
+  url: http://www.infosci.cornell.edu/about/index.html
+http://weblab.infosci.cornell.edu/status.html: !ruby/object:Page 
+  anchors: !ruby/object:Set 
+    hash: 
+      Status: true
+      status: true
+  id: 17
+  links: 
+    http://weblab.infosci.cornell.edu/contact.html: !ruby/object:Link 
+      anchor: Contact
+      id: 13
+      url: http://weblab.infosci.cornell.edu/contact.html
+    http://weblab.infosci.cornell.edu/status.html: !ruby/object:Link 
+      anchor: Status
+      id: 17
+      url: http://weblab.infosci.cornell.edu/status.html
+    http://weblab.infosci.cornell.edu/index.html: !ruby/object:Link 
+      anchor: Home
+      id: 16
+      url: http://weblab.infosci.cornell.edu/index.html
+    http://weblab.infosci.cornell.edu/contributors.html: !ruby/object:Link 
+      anchor: Contributors
+      id: 14
+      url: http://weblab.infosci.cornell.edu/contributors.html
+    http://weblab.infosci.cornell.edu/documentation.html: !ruby/object:Link 
+      anchor: Tools and documentation
+      id: 15
+      url: http://weblab.infosci.cornell.edu/documentation.html
+  url: http://weblab.infosci.cornell.edu/status.html
+http://weblab.infosci.cornell.edu/index.html: !ruby/object:Page 
+  anchors: !ruby/object:Set 
+    hash: 
+      Home: true
+  id: 16
+  links: 
+    http://weblab.infosci.cornell.edu/contact.html: !ruby/object:Link 
+      anchor: Contact
+      id: 13
+      url: http://weblab.infosci.cornell.edu/contact.html
+    http://weblab.infosci.cornell.edu/status.html: !ruby/object:Link 
+      anchor: Status
+      id: 17
+      url: http://weblab.infosci.cornell.edu/status.html
+    http://weblab.infosci.cornell.edu/index.html: !ruby/object:Link 
+      anchor: Home
+      id: 16
+      url: http://weblab.infosci.cornell.edu/index.html
+    http://weblab.infosci.cornell.edu/contributors.html: !ruby/object:Link 
+      anchor: Contributors
+      id: 14
+      url: http://weblab.infosci.cornell.edu/contributors.html
+    http://weblab.infosci.cornell.edu/documentation.html: !ruby/object:Link 
+      anchor: Tools and documentation
+      id: 15
+      url: http://weblab.infosci.cornell.edu/documentation.html
+  url: http://weblab.infosci.cornell.edu/index.html
+http://www.infosci.cornell.edu/ugrad/sampleSched_Agg.html: !ruby/object:Page 
+  anchors: !ruby/object:Set 
+    hash: {}
+
+  id: 9
+  links: 
+    http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
+      anchor: about us
+      id: 4
+      url: http://www.infosci.cornell.edu/about/index.html
+    http://www.infosci.cornell.edu/ugrad/ugradContact.html: !ruby/object:Link 
+      anchor: Contact Information
+      id: 12
+      url: http://www.infosci.cornell.edu/ugrad/ugradContact.html
+    http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Link 
+      anchor: contact
+      id: 2
+      url: http://www.infosci.cornell.edu/about/contact.html
+  url: http://www.infosci.cornell.edu/ugrad/sampleSched_Agg.html
+http://www.infosci.cornell.edu/ugrad/ugradContact.html: !ruby/object:Page 
+  anchors: !ruby/object:Set 
+    hash: 
+      Contact Information: true
+  id: 12
+  links: 
+    http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
+      anchor: about us
+      id: 4
+      url: http://www.infosci.cornell.edu/about/index.html
+    http://www.infosci.cornell.edu/ugrad/ugradContact.html: !ruby/object:Link 
+      anchor: Contact Information
+      id: 12
+      url: http://www.infosci.cornell.edu/ugrad/ugradContact.html
+    http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Link 
+      anchor: contact
+      id: 2
+      url: http://www.infosci.cornell.edu/about/contact.html
+    http://www.infosci.cornell.edu/index.html: !ruby/object:Link 
+      anchor: home
+      id: 1
+      url: http://www.infosci.cornell.edu/index.html
+  url: http://www.infosci.cornell.edu/ugrad/ugradContact.html
+http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Page 
+  anchors: !ruby/object:Set 
+    hash: 
+      Facilities: true
+  id: 3
+  links: 
+    http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
+      anchor: IS Colloquium
+      id: 18
+      url: http://www.infosci.cornell.edu/about/seminarSeries.html
+    http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
+      anchor: Overview
+      id: 4
+      url: http://www.infosci.cornell.edu/about/index.html
+    http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Link 
+      anchor: Facilities
+      id: 3
+      url: http://www.infosci.cornell.edu/about/facilities.html
+    http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Link 
+      anchor: Contact
+      id: 2
+      url: http://www.infosci.cornell.edu/about/contact.html
+    http://www.infosci.cornell.edu/index.html: !ruby/object:Link 
+      anchor: home
+      id: 1
+      url: http://www.infosci.cornell.edu/index.html
+  url: http://www.infosci.cornell.edu/about/facilities.html
+http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2009/SIGCHI_Mar09_09.htm: !ruby/object:Page 
+  anchors: !ruby/object:Set 
+    hash: {}
+
+  id: 7
+  links: 
+    http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
+      anchor: about us
+      id: 4
+      url: http://www.infosci.cornell.edu/about/index.html
+    http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Link 
+      anchor: contact
+      id: 2
+      url: http://www.infosci.cornell.edu/about/contact.html
+    http://www.infosci.cornell.edu/index.html: !ruby/object:Link 
+      anchor: home
+      id: 1
+      url: http://www.infosci.cornell.edu/index.html
+  url: http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2009/SIGCHI_Mar09_09.htm
+http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr21_08.html: !ruby/object:Page 
+  anchors: !ruby/object:Set 
+    hash: {}
+
+  id: 5
+  links: 
+    http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
+      anchor: about us
+      id: 4
+      url: http://www.infosci.cornell.edu/about/index.html
+    http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Link 
+      anchor: contact
+      id: 2
+      url: http://www.infosci.cornell.edu/about/contact.html
+    http://www.infosci.cornell.edu/index.html: !ruby/object:Link 
+      anchor: home
+      id: 1
+      url: http://www.infosci.cornell.edu/index.html
+  url: http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr21_08.html
+http://weblab.infosci.cornell.edu/documentation.html: !ruby/object:Page 
+  anchors: !ruby/object:Set 
+    hash: 
+      Tools and documentation: true
+  id: 15
+  links: 
+    http://weblab.infosci.cornell.edu/contact.html: !ruby/object:Link 
+      anchor: Contact
+      id: 13
+      url: http://weblab.infosci.cornell.edu/contact.html
+    http://weblab.infosci.cornell.edu/status.html: !ruby/object:Link 
+      anchor: Status
+      id: 17
+      url: http://weblab.infosci.cornell.edu/status.html
+    http://weblab.infosci.cornell.edu/index.html: !ruby/object:Link 
+      anchor: Home
+      id: 16
+      url: http://weblab.infosci.cornell.edu/index.html
+    http://weblab.infosci.cornell.edu/contributors.html: !ruby/object:Link 
+      anchor: Contributors
+      id: 14
+      url: http://weblab.infosci.cornell.edu/contributors.html
+    http://weblab.infosci.cornell.edu/documentation.html: !ruby/object:Link 
+      anchor: Tools and documentation
+      id: 15
+      url: http://weblab.infosci.cornell.edu/documentation.html
+  url: http://weblab.infosci.cornell.edu/documentation.html
+http://weblab.infosci.cornell.edu/contributors.html: !ruby/object:Page 
+  anchors: !ruby/object:Set 
+    hash: 
+      Contributors: true
+  id: 14
+  links: 
+    http://weblab.infosci.cornell.edu/contact.html: !ruby/object:Link 
+      anchor: Contact
+      id: 13
+      url: http://weblab.infosci.cornell.edu/contact.html
+    http://weblab.infosci.cornell.edu/status.html: !ruby/object:Link 
+      anchor: Status
+      id: 17
+      url: http://weblab.infosci.cornell.edu/status.html
+    http://weblab.infosci.cornell.edu/index.html: !ruby/object:Link 
+      anchor: Home
+      id: 16
+      url: http://weblab.infosci.cornell.edu/index.html
+    http://weblab.infosci.cornell.edu/contributors.html: !ruby/object:Link 
+      anchor: Contributors
+      id: 14
+      url: http://weblab.infosci.cornell.edu/contributors.html
+    http://weblab.infosci.cornell.edu/documentation.html: !ruby/object:Link 
+      anchor: Tools and documentation
+      id: 15
+      url: http://weblab.infosci.cornell.edu/documentation.html
+  url: http://weblab.infosci.cornell.edu/contributors.html
+http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Page 
+  anchors: !ruby/object:Set 
+    hash: 
+      Contact: true
+      contact: true
+  id: 2
+  links: 
+    http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
+      anchor: IS Colloquium
+      id: 18
+      url: http://www.infosci.cornell.edu/about/seminarSeries.html
+    http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
+      anchor: Overview
+      id: 4
+      url: http://www.infosci.cornell.edu/about/index.html
+    http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Link 
+      anchor: Facilities
+      id: 3
+      url: http://www.infosci.cornell.edu/about/facilities.html
+    http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Link 
+      anchor: Contact
+      id: 2
+      url: http://www.infosci.cornell.edu/about/contact.html
+    http://www.infosci.cornell.edu/index.html: !ruby/object:Link 
+      anchor: home
+      id: 1
+      url: http://www.infosci.cornell.edu/index.html
+  url: http://www.infosci.cornell.edu/about/contact.html
+http://www.infosci.cornell.edu/index.html: !ruby/object:Page 
+  anchors: !ruby/object:Set 
+    hash: 
+      Cornell Information Science: true
+      home: true
+  id: 1
+  links: 
+    http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Link 
+      anchor: Colloquium
+      id: 18
+      url: http://www.infosci.cornell.edu/about/seminarSeries.html
+    http://www.infosci.cornell.edu/about/index.html: !ruby/object:Link 
+      anchor: Department Overview
+      id: 4
+      url: http://www.infosci.cornell.edu/about/index.html
+    http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Link 
+      anchor: Facilities
+      id: 3
+      url: http://www.infosci.cornell.edu/about/facilities.html
+    http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Link 
+      anchor: Contact
+      id: 2
+      url: http://www.infosci.cornell.edu/about/contact.html
+    http://www.infosci.cornell.edu/index.html: !ruby/object:Link 
+      anchor: home
+      id: 1
+      url: http://www.infosci.cornell.edu/index.html
+  url: http://www.infosci.cornell.edu/index.html
