@@ -21,11 +21,23 @@ class PageCollection
   
   def crawl
     threads = []
-    @pages.each_value do |p| 
-      threads << Thread.new(p) do |page|
-        page.crawl_links
+    puts "crawling ..."
+    @pages.each_value do |page|
+      puts "#{page.id}\t- [#{page.url}]"
+      crawler = LinkCrawler.new(page.url)
+      crawler.each do |u, a|
+        threads << Thread.new(u, a) do |linked_url, anchor|
+          url = Resolver.resolve(linked_url)
+          if(self.include? linked_url)
+            linked_page = self[linked_url]
+            linked_page.anchors << anchor unless anchor.nil? or anchor.empty?
+            page.links[linked_url] = Link.new(linked_page.id, linked_url, anchor)
+            puts "\t * Link from page #{page.id}: [#{anchor}]\t[#{linked_url}]"
+          end
+        end
       end
     end
     threads.each {|t| t.join}
+    puts "done crawling!"
   end
 end

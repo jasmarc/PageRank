@@ -3,6 +3,8 @@ require "open-uri"
 require "nokogiri"
 require "Logger"
 
+BROKEN_LINKS = ["http://sigchi.infosci.cornell.edu/index.html"]
+
 class String
   def starts_with?(prefix)
     prefix = prefix.to_s
@@ -33,9 +35,11 @@ class LinkCrawler
 
   def each(&block)
     @links.each do |link|
-      if(!link[:url].nil? and link[:url].starts_with? "http://" \
-        and link[:url].include? "infosci.cornell.edu")
-        yield link[:url].gsub(/#.*$/,""), link[:anchor]
+      url = link[:url]
+      if(!url.nil? and url.starts_with? "http://" \
+        and url.include? "infosci.cornell.edu") \
+        and !BROKEN_LINKS.include? url
+        yield url.gsub(/#.*$/,""), link[:anchor]
       end
     end
   end
