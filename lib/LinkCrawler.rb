@@ -2,6 +2,7 @@ require "rubygems"
 require "open-uri"
 require "nokogiri"
 require "Logger"
+require "Resolver"
 
 BROKEN_LINKS = ["http://sigchi.infosci.cornell.edu/index.html"]
 
@@ -14,8 +15,8 @@ end
 
 class LinkCrawler
   attr_accessor :page_title
+  @@log = Logger.new(File.dirname(__FILE__) + "/../logs/crawler.log")
   def initialize(url)
-    @log = Logger.new(File.dirname(__FILE__) + "/../logs/crawler.log")
     @url = url
     @links = []
     begin
@@ -28,7 +29,7 @@ class LinkCrawler
         end
       end
     rescue Exception => ex
-      @log.error "url = #{@url} #{ex.message}"
+      @@log.error "url = #{@url} #{ex.message}"
       puts "url = #{@url} #{ex.message}"
     end
   end
@@ -36,10 +37,14 @@ class LinkCrawler
   def each(&block)
     @links.each do |link|
       url = link[:url]
-      if(!url.nil? and url.starts_with? "http://" \
-        and url.include? "infosci.cornell.edu") \
-        and !BROKEN_LINKS.include? url
-        yield url.gsub(/#.*$/,""), link[:anchor]
+      if(!url.nil? and !url.starts_with? "mailto:" and \
+          !BROKEN_LINKS.include? url)
+        url = Resolver.resolve(url, @url)
+        if(!url.nil? and url.include? "infosci.cornell.edu")
+          yield url.gsub(/#.*$/,""), link[:anchor]
+        end
+      else
+        @@log.debug "skipping [#{url}]"
       end
     end
   end

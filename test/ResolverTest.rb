@@ -4,13 +4,13 @@ require "pp"
 
 class TestResolver < Test::Unit::TestCase
   def test_resolver
-    expected = "http://www.google.com/intl/en/about.html"
-    actual = Resolver.resolve "http://www.google.com/about"
+    expected = "http://www.google.com/about"
+    actual = Resolver.resolve "http://www.google.com/about", "http://www.google.com/"
     assert_equal expected, actual
   end
   
   def test_relative
-    expected = "http://www.google.com/intl/en/about.html"
+    expected = "http://www.google.com/about"
     actual = Resolver.resolve "./about", "http://www.google.com/"
     assert_equal expected, actual
   end
@@ -29,7 +29,7 @@ class TestResolver < Test::Unit::TestCase
   
   def test_broken_link
     expected = nil
-    actual = Resolver.resolve "./about"
+    actual = Resolver.resolve "./about", ""
     assert_equal expected, actual
   end
 end

@@ -9,6 +9,7 @@ class TestPageCollection < Test::Unit::TestCase
     foo = collection.pages.values.map do |page| 
       [page.id, page.links.values.map {|link| link.id}]
     end
+    pp collection.pages
     pp foo
   end
 end

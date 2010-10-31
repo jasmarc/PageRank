@@ -1,7 +1,6 @@
 $LOAD_PATH.unshift File.dirname(__FILE__) + '/lib'
 require "rubygems"
-require "LinkCrawler"
-require "Page"
+require "PageCollection"
 
 collection = PageCollection.new("test3.txt")
 collection.crawl

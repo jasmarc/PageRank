@@ -7,7 +7,7 @@ class PageCollection
     File.read(file).split("\n").map do |row| 
       id, url = row.split("\t")
       id = id.to_i
-      @pages[url] = Page.new(self, id, url)
+      @pages[url] = Page.new(id, url)
     end
   end
   
@@ -27,7 +27,6 @@ class PageCollection
       crawler = LinkCrawler.new(page.url)
       crawler.each do |u, a|
         threads << Thread.new(u, a) do |linked_url, anchor|
-          url = Resolver.resolve(linked_url)
           if(self.include? linked_url)
             linked_page = self[linked_url]
             linked_page.anchors << anchor unless anchor.nil? or anchor.empty?
