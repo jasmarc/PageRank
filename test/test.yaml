@@ -22,6 +22,8 @@ http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "Room Judith Donath, Fellow at Harvard University Co-sponsored with COMM Host: Jeff Hancock Signaling "
+  title: Cornell Information Science Colloquium - INFO 7090
   url: http://www.infosci.cornell.edu/about/seminarSeries.html
 http://www.infosci.cornell.edu/ugrad/Recker.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -41,6 +43,8 @@ http://www.infosci.cornell.edu/ugrad/Recker.htm: !ruby/object:Page
       anchor: contact
       id: 2
       url: http://www.infosci.cornell.edu/about/contact.html
+  snippet: on of ideas, knowledge, and technology in new media. NetDay, a community project dedicated to the dev
+  title: IS Professionals
   url: http://www.infosci.cornell.edu/ugrad/Recker.htm
 http://www.infosci.cornell.edu/ugrad/sampleSched_Engin.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -60,6 +64,8 @@ http://www.infosci.cornell.edu/ugrad/sampleSched_Engin.html: !ruby/object:Page
       anchor: contact
       id: 2
       url: http://www.infosci.cornell.edu/about/contact.html
+  snippet: ment. See the major requirements or your class year's Engineering Handbook for details. For answers t
+  title: Sample Schedule
   url: http://www.infosci.cornell.edu/ugrad/sampleSched_Engin.html
 http://www.infosci.cornell.edu/ugrad/sampleSched_Arts.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -79,6 +85,8 @@ http://www.infosci.cornell.edu/ugrad/sampleSched_Arts.html: !ruby/object:Page
       anchor: contact
       id: 2
       url: http://www.infosci.cornell.edu/about/contact.html
+  snippet: cates that there's more than one course to choose from for that requirement. See the major requiremen
+  title: Sample Schedule
   url: http://www.infosci.cornell.edu/ugrad/sampleSched_Arts.html
 http://weblab.infosci.cornell.edu/contact.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -106,6 +114,8 @@ http://weblab.infosci.cornell.edu/contact.html: !ruby/object:Page
       anchor: Tools and documentation
       id: 15
       url: http://weblab.infosci.cornell.edu/documentation.html
+  snippet: "on Status Use policy Contributors Contact The Web Laboratory: Contact Us To inquire about the Web Lab"
+  title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/contact.html
 http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr30_08.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -125,6 +135,8 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr30_08.htm: !r
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: mes around the world that provide insights for the development of solutions for broadband/broadcast c
+  title: SIGCHI Invited Lecturer Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr30_08.htm
 http://www.infosci.cornell.edu/about/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -155,6 +167,8 @@ http://www.infosci.cornell.edu/about/index.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: tems draws from Computer Science and Operations Research; Human Computer Interaction from Communicati
+  title: Department Overview
   url: http://www.infosci.cornell.edu/about/index.html
 http://weblab.infosci.cornell.edu/status.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -183,6 +197,8 @@ http://weblab.infosci.cornell.edu/status.html: !ruby/object:Page
       anchor: Tools and documentation
       id: 15
       url: http://weblab.infosci.cornell.edu/documentation.html
+  snippet: separate collection for each complete crawl that has been loaded into the database. In addition there
+  title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/status.html
 http://weblab.infosci.cornell.edu/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -210,6 +226,8 @@ http://weblab.infosci.cornell.edu/index.html: !ruby/object:Page
       anchor: Tools and documentation
       id: 15
       url: http://weblab.infosci.cornell.edu/documentation.html
+  snippet: June 2006. The Web Lab is built on the historical collections of the Internet Archive. This work woul
+  title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/index.html
 http://www.infosci.cornell.edu/ugrad/sampleSched_Agg.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -229,6 +247,8 @@ http://www.infosci.cornell.edu/ugrad/sampleSched_Agg.html: !ruby/object:Page
       anchor: contact
       id: 2
       url: http://www.infosci.cornell.edu/about/contact.html
+  snippet: cates that there's more than one course to choose from for that requirement. See the major requiremen
+  title: Sample Schedule
   url: http://www.infosci.cornell.edu/ugrad/sampleSched_Agg.html
 http://www.infosci.cornell.edu/ugrad/ugradContact.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -252,6 +272,8 @@ http://www.infosci.cornell.edu/ugrad/ugradContact.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "ci.cornell.edu ISST major: isst@infosci.cornell.edu IS concentration/minor: minor@infosci.cornell.edu"
+  title: Undergraduate Contact Information
   url: http://www.infosci.cornell.edu/ugrad/ugradContact.html
 http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -279,6 +301,8 @@ http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: " about 10 minutes. From the main Cornell campus, take Central Avenue south across Cascadilla Creek. P"
+  title: Facilities
   url: http://www.infosci.cornell.edu/about/facilities.html
 http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2009/SIGCHI_Mar09_09.htm: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -298,6 +322,8 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2009/SIGCHI_Mar09_09.htm: !r
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: nd affects health practices and attitudes. While the HCI community has shown the potential of technol
+  title: SIGCHI Invited Lecturer Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2009/SIGCHI_Mar09_09.htm
 http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr21_08.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -317,6 +343,8 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr21_08.html: !
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: ill specifically address two studies on children's attributions of moral standing to a graphical avat
+  title: SIGCHI Invited Lecturer Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr21_08.html
 http://weblab.infosci.cornell.edu/documentation.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -344,6 +372,8 @@ http://weblab.infosci.cornell.edu/documentation.html: !ruby/object:Page
       anchor: Tools and documentation
       id: 15
       url: http://weblab.infosci.cornell.edu/documentation.html
+  snippet: " directly, contact the Web Lab team. GetPages. This tool is used to retrieve a subset of the data in "
+  title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/documentation.html
 http://weblab.infosci.cornell.edu/contributors.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -371,6 +401,8 @@ http://weblab.infosci.cornell.edu/contributors.html: !ruby/object:Page
       anchor: Tools and documentation
       id: 15
       url: http://weblab.infosci.cornell.edu/documentation.html
+  snippet: rora Asha Balasubramaniam Jacob Bank Nayan Busa Thomas Chen Vijayanand Chokkapu Benjamin Cole Laran E
+  title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/contributors.html
 http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -399,6 +431,8 @@ http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "Avenue Phone: 607-255-6979 Email: major@infosci.cornell.edu Michael Todd, Co-director of Undergraduat"
+  title: Contact Us
   url: http://www.infosci.cornell.edu/about/contact.html
 http://www.infosci.cornell.edu/index.html: !ruby/object:Page 
   anchors: !ruby/object:Set 
@@ -427,4 +461,6 @@ http://www.infosci.cornell.edu/index.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "puting and Information Science. Department Overview News & Events More News \xC2\xA0\xC2\xA0Colloquium Tarleton G"
+  title: Cornell Information Science
   url: http://www.infosci.cornell.edu/index.html

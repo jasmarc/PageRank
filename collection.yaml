@@ -110,6 +110,7 @@ http://www.infosci.cornell.edu/ugrad/isst.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: ogy Bachelor of ScienceCollege of Engineering The ISST major studies the design and management of com
   title: Information Science, Systems, and Technology
   url: http://www.infosci.cornell.edu/ugrad/isst.htm
 http://www.infosci.cornell.edu/hadoop/monitor.html: !ruby/object:Page 
@@ -122,6 +123,7 @@ http://www.infosci.cornell.edu/hadoop/monitor.html: !ruby/object:Page
       anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
+  snippet: eb Lab by Lucy Walle (lwalle@cac.cornell.edu). Here are a couple of web pages that give information a
   title: "Cornell Web Lab: Hadoop"
   url: http://www.infosci.cornell.edu/hadoop/monitor.html
 http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm: !ruby/object:Page 
@@ -258,6 +260,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm: !ruby/object:
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: of Washington Sponsored by Cornell Information Science Automatically Generating Personalized Adaptive
   title: Cornell Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm
 http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2010.html: !ruby/object:Page 
@@ -294,6 +297,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2010.html: !ruby/object
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: ate digital information and physical space. This presentation will also report on an ongoing collabor
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2010.html
 http://www.infosci.cornell.edu/Courses/info4300/2009fa/readings.html: !ruby/object:Page 
@@ -335,6 +339,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2009fa/readings.html: !ruby/obje
       anchor: Syllabus
       id: 187
       url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/syllabus.html
+  snippet: o access this paper from the ACM Digital Library, you need to use a computer with a Cornell IP addres
   title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/readings.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204450: !ruby/object:Page 
@@ -431,6 +436,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204450: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: mmunication Focuses on reading and evaluating the theories and research methodologies used to investi
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204450
 http://www.infosci.cornell.edu/hadoop/config.html: !ruby/object:Page 
@@ -443,6 +449,7 @@ http://www.infosci.cornell.edu/hadoop/config.html: !ruby/object:Page
       anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
+  snippet: ster of approximately 50 nodes (wl01.cac.cornell.edu), and a small cluster of 6 nodes (wl52@cac.corne
   title: "Cornell Web Lab: Hadoop"
   url: http://www.infosci.cornell.edu/hadoop/config.html
 http://www.infosci.cornell.edu/ugrad/ISEmployers.htm: !ruby/object:Page 
@@ -535,6 +542,7 @@ http://www.infosci.cornell.edu/ugrad/ISEmployers.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: " Office Lehman Brothers Lockheed Martin Microsoft Mint Digital NERA Economic Consulting The Capital G"
   title: Potential Employers
   url: http://www.infosci.cornell.edu/ugrad/ISEmployers.htm
 http://www.infosci.cornell.edu/ugrad/ArtsAffiliationcriteria.htm: !ruby/object:Page 
@@ -592,6 +600,7 @@ http://www.infosci.cornell.edu/ugrad/ArtsAffiliationcriteria.htm: !ruby/object:P
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: atistics, Human-Centered Systems, Information Systems, and Social Systems). Courses must be taken for
   title: Criteria for Admission
   url: http://www.infosci.cornell.edu/ugrad/ArtsAffiliationcriteria.htm
 http://www.infosci.cornell.edu/ugrad/ArtsAdmissions.htm: !ruby/object:Page 
@@ -652,6 +661,7 @@ http://www.infosci.cornell.edu/ugrad/ArtsAdmissions.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: er Cornell colleges must complete a minimum of four semesters of on-campus residency in Arts & Scienc
   title: Admission to the Major
   url: http://www.infosci.cornell.edu/ugrad/ArtsAdmissions.htm
 http://www.infosci.cornell.edu/SIN/index.html: !ruby/object:Page 
@@ -664,6 +674,7 @@ http://www.infosci.cornell.edu/SIN/index.html: !ruby/object:Page
       anchor: Next Generation Cybertools
       id: 236
       url: http://www.infosci.cornell.edu/SIN/cybertools/index.html
+  snippet: 005-2008. This research is supported by the National Science Foundation, grants 0403340, 0537606, and
   title: "Cornell University: Research in Social and Information Networks"
   url: http://www.infosci.cornell.edu/SIN/index.html
 http://www.infosci.cornell.edu/about/colloquiumFA06/sept13.html: !ruby/object:Page 
@@ -712,6 +723,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA06/sept13.html: !ruby/object:Pa
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: " applications.\xC2\xA0 This tool allows the use of race, ethnicity, gender or any other attributes to be co"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA06/sept13.html
 http://www.infosci.cornell.edu/about/colloquiumSP08/Jan30.html: !ruby/object:Page 
@@ -748,6 +760,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Jan30.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "l system. However, given the difficulty of accessing paper records, most legal files remained \xE2\x80\x9Cprac"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Jan30.html
 http://www.infosci.cornell.edu/about/colloquiumFA08/Oct29.html: !ruby/object:Page 
@@ -784,6 +797,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA08/Oct29.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: vies presents to critical historiography 3. examples of collaborative and performative practices that
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA08/Oct29.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204290: !ruby/object:Page 
@@ -880,6 +894,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204290: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "urses INFO 4290: Copyright in the Digital Age This course looks at recent legal and cultural battles "
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204290
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/testData.html: !ruby/object:Page 
@@ -890,6 +905,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/testData.html: !ruby/obje
   id: 200
   links: {}
 
+  snippet: "28.txt \xC2\xA0 (from 8301-27076_3-20014972-248)file29.txt \xC2\xA0 (from 8301-30684_3-20014938-265)file30.txt \xC2\xA0"
   title: "CS4300/INFO4300: Information Retrieval Test Data"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/testData.html
 http://www.infosci.cornell.edu/about/colloquiumFA05/oct19.html: !ruby/object:Page 
@@ -938,6 +954,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA05/oct19.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: he second question is not so straightforward. If all individuals have correct beliefs, and use them c
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA05/oct19.html
 http://www.infosci.cornell.edu/about/colloquiumSP07/Mar14.html: !ruby/object:Page 
@@ -986,6 +1003,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP07/Mar14.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: y experience. I will explore the twin aspects of information that underwrite computational practice -
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP07/Mar14.html
 http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2030.html: !ruby/object:Page 
@@ -1022,6 +1040,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2030.html: !ruby/object
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "lves through the technologies they use and the way they use them. The contribution of my research is "
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2030.html
 http://www.infosci.cornell.edu/about/colloquiumFA08/Sept17.html: !ruby/object:Page 
@@ -1058,6 +1077,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA08/Sept17.html: !ruby/object:Pa
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: d from NSF in 1984. A Founding Fellow of the American Association for Artificial Intelligence (AAAI),
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA08/Sept17.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%201300: !ruby/object:Page 
@@ -1150,6 +1170,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%201300: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: sites, students need technical and design skills as well as analytical skills for understanding who i
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%201300
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203200: !ruby/object:Page 
@@ -1242,6 +1263,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203200: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "ence Courses INFO 3200: New Media and Society This course builds on mass communication research and t"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203200
 http://www.infosci.cornell.edu/pathways/index.html: !ruby/object:Page 
@@ -1257,6 +1279,7 @@ http://www.infosci.cornell.edu/pathways/index.html: !ruby/object:Page
       anchor: publications
       id: 234
       url: http://www.infosci.cornell.edu/pathways/index.html
+  snippet: r the development of a process model. The process model work will investigate the use of functional p
   title: Pathways
   url: http://www.infosci.cornell.edu/pathways/index.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204910: !ruby/object:Page 
@@ -1353,6 +1376,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204910: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "tudent Association SIGCHI Student ChapterWomen Across ComputingProfessional Associations Information "
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204910
 http://www.infosci.cornell.edu/about/colloquiumSP08/Feb27.html: !ruby/object:Page 
@@ -1389,6 +1413,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Feb27.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: " for target acquisition which can be used to understand the bubble cursor's underlying theoretical va"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Feb27.html
 http://www.infosci.cornell.edu/about/colloquiumFA08/Oct15.html: !ruby/object:Page 
@@ -1425,6 +1450,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA08/Oct15.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: " \xC2\xA0I will conclude by suggesting a series of accompanying social science research issues, and describ"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA08/Oct15.html
 http://www.infosci.cornell.edu/graduateStudents/index.html: !ruby/object:Page 
@@ -1475,6 +1501,7 @@ http://www.infosci.cornell.edu/graduateStudents/index.html: !ruby/object:Page
       anchor: graduate students
       id: 217
       url: http://www.infosci.cornell.edu/graduateStudents/index.html
+  snippet: "Pollak Website 301 College Ave \xC2\xA0 Stephen Purpura Website 301 College Ave \xC2\xA0 Victoria Schwanda Websit"
   title: Graduate Students
   url: http://www.infosci.cornell.edu/graduateStudents/index.html
 http://www.infosci.cornell.edu/about/colloquiumFA08/Sept11.html: !ruby/object:Page 
@@ -1511,6 +1538,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA08/Sept11.html: !ruby/object:Pa
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "er monitoring of aging family members, and in-the-moment nutrition coaching. \xC2\xA0 Bio: Elizabeth Mynatt"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA08/Sept11.html
 http://www.infosci.cornell.edu/Courses/info4300/2009fa/exams.html: !ruby/object:Page 
@@ -1548,6 +1576,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2009fa/exams.html: !ruby/object:
       anchor: Syllabus
       id: 187
       url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/syllabus.html
+  snippet: mmunication. No other electronic devices may be used during the examination except a laptop or a calc
   title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/exams.html
 http://www.infosci.cornell.edu/about/colloquiumSP10/Apr05.html: !ruby/object:Page 
@@ -1584,6 +1613,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP10/Apr05.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: san Landau is currently completing a book on security risks of building surveillance into communicati
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP10/Apr05.html
 http://www.infosci.cornell.edu/ugrad/sampleSched_Arts.html: !ruby/object:Page 
@@ -1636,6 +1666,7 @@ http://www.infosci.cornell.edu/ugrad/sampleSched_Arts.html: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: cates that there's more than one course to choose from for that requirement. See the major requiremen
   title: Sample Schedule
   url: http://www.infosci.cornell.edu/ugrad/sampleSched_Arts.html
 http://www.infosci.cornell.edu/ugrad/ISLinks.htm: !ruby/object:Page 
@@ -1728,6 +1759,7 @@ http://www.infosci.cornell.edu/ugrad/ISLinks.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "on Science \xC2\xA0 \xC2\xA0 \xC2\xA0Student Association SIGCHI Student ChapterWomen Across ComputingProfessional Assoc"
   title: Professional Associations
   url: http://www.infosci.cornell.edu/ugrad/ISLinks.htm
 http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%2027.html: !ruby/object:Page 
@@ -1768,6 +1800,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%2027.html: !ruby/object:
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: nath synthesizes knowledge from fields such as urban design, evolutionary biology and cognitive scien
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%2027.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207090: !ruby/object:Page 
@@ -1864,6 +1897,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207090: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "iations Information Science \xC2\xA0 \xC2\xA0 \xC2\xA0Student Association SIGCHI Student ChapterWomen Across ComputingP"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207090
 http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13b.html: !ruby/object:Page 
@@ -1876,6 +1910,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13b.html: !ruby/object:P
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: eaning and utility. Instead of studying objects in a digital collection alone, I focus on the relatio
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13b.html
 http://www.infosci.cornell.edu/about/SeminarSpring05/Apr20b.html: !ruby/object:Page 
@@ -1888,6 +1923,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/Apr20b.html: !ruby/object:P
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: "gineers, and computer scientists, you are the new lawmakers; it is crucial that you know how the law "
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/Apr20b.html
 http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/march1.html: !ruby/object:Page 
@@ -1936,6 +1972,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/march1.html: !ruby/object:Pa
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "onal study of recent movers, focusing on what happens to particular social relationships when people "
   title: Cornell IS-SIGCHI Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/march1.html
 http://www.infosci.cornell.edu/about/colloquiumFA06/Nov29.html: !ruby/object:Page 
@@ -1984,6 +2021,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA06/Nov29.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "ticles to edit increases the probability of people editing a recommendation by four times. Our focus "
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA06/Nov29.html
 http://www.infosci.cornell.edu/about/colloquium-fall2005.html: !ruby/object:Page 
@@ -2064,6 +2102,7 @@ http://www.infosci.cornell.edu/about/colloquium-fall2005.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: asley, Henry Scarborough Professor of Social Science, Cornell University Economic Natural Selection [
   title: Cornell Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquium-fall2005.html
 http://weblab.infosci.cornell.edu/contact.html: !ruby/object:Page 
@@ -2104,6 +2143,7 @@ http://weblab.infosci.cornell.edu/contact.html: !ruby/object:Page
       anchor: Overview
       id: 284
       url: http://weblab.infosci.cornell.edu/overview.html
+  snippet: "on Status Use policy Contributors Contact The Web Laboratory: Contact Us To inquire about the Web Lab"
   title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/contact.html
 http://www.infosci.cornell.edu/ugrad/ISCareers.htm: !ruby/object:Page 
@@ -2197,6 +2237,7 @@ http://www.infosci.cornell.edu/ugrad/ISCareers.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "e information systems are becoming prevalent, we also see IS as helping prepare students for careers "
   title: Careers
   url: http://www.infosci.cornell.edu/ugrad/ISCareers.htm
 http://www.infosci.cornell.edu/about/colloquiumSP08/Feb13.html: !ruby/object:Page 
@@ -2233,6 +2274,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Feb13.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "y generate user interfaces adapted to a person\xE2\x80\x99s device; -- ARNAULD, which allows optimization-base"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Feb13.html
 http://www.infosci.cornell.edu/about/colloquiumSP10/Apr02.html: !ruby/object:Page 
@@ -2269,6 +2311,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP10/Apr02.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: lk will describe work we've done to understand how interactions between regulation and the market aff
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP10/Apr02.html
 http://weblab.infosci.cornell.edu/publications.html: !ruby/object:Page 
@@ -2309,6 +2352,7 @@ http://weblab.infosci.cornell.edu/publications.html: !ruby/object:Page
       anchor: Overview
       id: 284
       url: http://weblab.infosci.cornell.edu/overview.html
+  snippet: tered Computer Environment. May 2007. Sangwoo Kim, Sanjay Rajan, and Sean Seguin, Web Graph Generatio
   title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/publications.html
 http://weblab.infosci.cornell.edu/contributors.html: !ruby/object:Page 
@@ -2349,6 +2393,7 @@ http://weblab.infosci.cornell.edu/contributors.html: !ruby/object:Page
       anchor: Overview
       id: 284
       url: http://weblab.infosci.cornell.edu/overview.html
+  snippet: rora Asha Balasubramaniam Jacob Bank Nayan Busa Thomas Chen Vijayanand Chokkapu Benjamin Cole Laran E
   title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/contributors.html
 http://www.infosci.cornell.edu/about/colloquiumFA07/Oct24.html: !ruby/object:Page 
@@ -2397,6 +2442,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA07/Oct24.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "he user. \xC2\xA0A by-product of this tool is the generation of a high-dimensional dataset describing the s"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA07/Oct24.html
 http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%202.html: !ruby/object:Page 
@@ -2433,6 +2479,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%202.html: !ruby/object:
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: " collaborators currently engage in privacy management. In this talk, I will present results of severa"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%202.html
 http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Page 
@@ -2483,6 +2530,7 @@ http://www.infosci.cornell.edu/about/contact.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "Avenue Phone: 607-255-6979 Email: major@infosci.cornell.edu Michael Todd, Co-director of Undergraduat"
   title: Contact Us
   url: http://www.infosci.cornell.edu/about/contact.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206648: !ruby/object:Page 
@@ -2579,6 +2627,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206648: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: ", developed, and motivated by considering the relationship between phonological and acoustic structur"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206648
 http://www.infosci.cornell.edu/about/colloquiumFA05/nov2.html: !ruby/object:Page 
@@ -2627,6 +2676,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA05/nov2.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: high-quality rendering and texturing in interactive applications. Lightcuts enable illumination of sc
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA05/nov2.html
 http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr21_08.html: !ruby/object:Page 
@@ -2663,6 +2713,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr21_08.html: !
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: ill specifically address two studies on children's attributions of moral standing to a graphical avat
   title: SIGCHI Invited Lecturer Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr21_08.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207900: !ruby/object:Page 
@@ -2759,6 +2810,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207900: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "ion Science \xC2\xA0 \xC2\xA0 \xC2\xA0Student Association SIGCHI Student ChapterWomen Across ComputingProfessional Asso"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207900
 http://www.infosci.cornell.edu/about/SeminarSpring05/Feb16.html: !ruby/object:Page 
@@ -2771,6 +2823,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/Feb16.html: !ruby/object:Pa
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: hese issues for modeling and animation. I will then concentrate on some of the work I have been doing
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/Feb16.html
 http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%2010.html: !ruby/object:Page 
@@ -2811,6 +2864,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%2010.html: !ruby/object:
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: ", Francois Guimbretiere, Phoebe Sengers, and Carla Gomes Date 4:00 - 5:15p Location: 301 College Ave."
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%2010.html
 http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13.html: !ruby/object:Page 
@@ -2823,6 +2877,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13.html: !ruby/object:Pa
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: t opportunity to see current work by our graduate students. Please make every effort to attend. Abstr
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13.html
 http://www.infosci.cornell.edu/ugrad/ArtsRequirements.htm: !ruby/object:Page 
@@ -2893,6 +2948,7 @@ http://www.infosci.cornell.edu/ugrad/ArtsRequirements.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: . Course information for all other courses in the major can be found in the relevant departments (i.e
   title: Major Requirements
   url: http://www.infosci.cornell.edu/ugrad/ArtsRequirements.htm
 http://www.infosci.cornell.edu/about/colloquiumSP10/Apr09.html: !ruby/object:Page 
@@ -2929,6 +2985,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP10/Apr09.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: vel network structure and its dynamics from local, noisy sensor observations. Furthermore, by studyin
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP10/Apr09.html
 http://www.infosci.cornell.edu/courses/Coursesofinterest.htm: !ruby/object:Page 
@@ -3021,6 +3078,7 @@ http://www.infosci.cornell.edu/courses/Coursesofinterest.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: -IS, the CALS-IS, or the ISST degree requirements webpages. Applied Economics and Management and Busi
   title: Courses of Interest
   url: http://www.infosci.cornell.edu/courses/Coursesofinterest.htm
 http://www.infosci.cornell.edu/about/colloquiumFA07/Oct10.html: !ruby/object:Page 
@@ -3069,6 +3127,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA07/Oct10.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: " argument that theories of common ground in communication can be used as a guiding framework for bett"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA07/Oct10.html
 http://www.infosci.cornell.edu/about/colloquiumFA09/Oct%2014.html: !ruby/object:Page 
@@ -3105,6 +3164,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA09/Oct%2014.html: !ruby/object:
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: l speech. This study reveals the characteristics of political opinion expression, such as opinions ca
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA09/Oct%2014.html
 http://www.infosci.cornell.edu/about/colloquiumSP07/Apr18.html: !ruby/object:Page 
@@ -3153,6 +3213,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP07/Apr18.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: ity to empower people. Henry Jenkins is the Director of the MIT Comparative Media Studies Program and
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP07/Apr18.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206300: !ruby/object:Page 
@@ -3245,6 +3306,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206300: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: s for the computational treatment of information in human-language form, covering modern natural-lang
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206300
 http://www.infosci.cornell.edu/ugrad/CALSRequirements.htm: !ruby/object:Page 
@@ -3308,6 +3370,7 @@ http://www.infosci.cornell.edu/ugrad/CALSRequirements.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: section of Courses of Study. Course information for all other courses in the major can be found in th
   title: Major Requirements
   url: http://www.infosci.cornell.edu/ugrad/CALSRequirements.htm
 http://www.infosci.cornell.edu/masters-preliminary/mastersRequirements.html: !ruby/object:Page 
@@ -3336,6 +3399,7 @@ http://www.infosci.cornell.edu/masters-preliminary/mastersRequirements.html: !ru
       anchor: Home
       id: 228
       url: http://www.infosci.cornell.edu/masters-preliminary/index.html
+  snippet: " can be counted towards any other degree program. A minimum of 28 of the 30 credits must be taken for"
   title: Cornell Information Science
   url: http://www.infosci.cornell.edu/masters-preliminary/mastersRequirements.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203450: !ruby/object:Page 
@@ -3428,6 +3492,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203450: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: -Computer Interaction Design Gives students insight into the design of computer interfaces and softwa
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203450
 http://www.infosci.cornell.edu/about/SeminarSpring05/June13.html: !ruby/object:Page 
@@ -3440,6 +3505,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/June13.html: !ruby/object:P
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: " classification algorithms. They are used in a variety of applications, including tools that suggest "
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/June13.html
 http://www.infosci.cornell.edu/about/colloquiumSP10/Apr07.html: !ruby/object:Page 
@@ -3476,6 +3542,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP10/Apr07.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "iquitous computing and, specifically, the imagined \xE2\x80\x9Csmart home\xE2\x80\x9D. I\xE2\x80\x99ll use a small number of\xC2\xA0pr"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP10/Apr07.html
 http://www.infosci.cornell.edu/about/SeminarSpring05/Apr27.html: !ruby/object:Page 
@@ -3488,6 +3555,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/Apr27.html: !ruby/object:Pa
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: e and the Cornell Theory Center to support research projects that have very large collections of data
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/Apr27.html
 http://www.infosci.cornell.edu/courses/info2950/2010sp/index.html: !ruby/object:Page 
@@ -3497,6 +3565,7 @@ http://www.infosci.cornell.edu/courses/info2950/2010sp/index.html: !ruby/object:
   id: 178
   links: {}
 
+  snippet: power laws (pp 569-573) and these slides, specifically the "long tail" (see also Wikipedia entry, and
   title: INFO 2950 Spring 2010
   url: http://www.infosci.cornell.edu/courses/info2950/2010sp/index.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206140: !ruby/object:Page 
@@ -3589,6 +3658,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206140: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "mation Science Courses INFO 6140: Cognitive Psychology The course introduces the idea of cognition as"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206140
 http://www.infosci.cornell.edu/about/seminarSeries-fall2009.html: !ruby/object:Page 
@@ -3697,6 +3767,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2009.html: !ruby/object:P
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "of Architecture, Cornell University Host: Dan Cosley \xC2\xA0 DESIGN AS COMPUTATION:\xC2\xA0 How Architects and E"
   title: Cornell Information Science Colloquium - INFO 7090
   url: http://www.infosci.cornell.edu/about/seminarSeries-fall2009.html
 http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html: !ruby/object:Page 
@@ -3777,6 +3848,7 @@ http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html: !ruby/object:P
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: nt Professor, Computer Science, Cornell University Machine Learning for Non-Traditional Performance C
   title: Cornell Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html
 http://www.infosci.cornell.edu/about/SeminarSpring05/Feb02.html: !ruby/object:Page 
@@ -3789,6 +3861,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/Feb02.html: !ruby/object:Pa
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: ting opportunities for the standards owner to engage in anti-competitive market distortions. This res
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/Feb02.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206302: !ruby/object:Page 
@@ -3881,6 +3954,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206302: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: " development at Cornell, other universities, and in standards organizations such as the World Wide We"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206302
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204300: !ruby/object:Page 
@@ -3973,6 +4047,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204300: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: course studies the methods used to search for and discover information in large-scale systems. The em
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204300
 http://weblab.infosci.cornell.edu/documentation.html: !ruby/object:Page 
@@ -4013,6 +4088,7 @@ http://weblab.infosci.cornell.edu/documentation.html: !ruby/object:Page
       anchor: Overview
       id: 284
       url: http://weblab.infosci.cornell.edu/overview.html
+  snippet: " directly, contact the Web Lab team. GetPages. This tool is used to retrieve a subset of the data in "
   title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/documentation.html
 http://www.infosci.cornell.edu/ugrad/ISSTHonors.htm: !ruby/object:Page 
@@ -4065,6 +4141,7 @@ http://www.infosci.cornell.edu/ugrad/ISSTHonors.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: "ith a grade of at least an A- in each of the two semesters. Or: Three credit hours of INFO 490 with a"
   title: Honors Requirements
   url: http://www.infosci.cornell.edu/ugrad/ISSTHonors.htm
 http://www.infosci.cornell.edu/about/SeminarFall04/Nov17.html: !ruby/object:Page 
@@ -4077,6 +4154,7 @@ http://www.infosci.cornell.edu/about/SeminarFall04/Nov17.html: !ruby/object:Page
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: nformation. And I will conclude with some observations about the implications of this work for manage
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarFall04/Nov17.html
 http://www.infosci.cornell.edu/about/colloquiumFA06/sept27.html: !ruby/object:Page 
@@ -4125,6 +4203,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA06/sept27.html: !ruby/object:Pa
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "ch into the application of emerging technologies. Bio: Gregory Abowd is an Associate Professor in the"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA06/sept27.html
 http://www.infosci.cornell.edu/ugrad/ArtsAffiliationforms.htm: !ruby/object:Page 
@@ -4177,6 +4256,7 @@ http://www.infosci.cornell.edu/ugrad/ArtsAffiliationforms.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: iences, Information Science Major All students who wish to apply to declare the Information Science m
   title: Major Declaration Forms
   url: http://www.infosci.cornell.edu/ugrad/ArtsAffiliationforms.htm
 http://www.infosci.cornell.edu/index.html: !ruby/object:Page 
@@ -4240,6 +4320,7 @@ http://www.infosci.cornell.edu/index.html: !ruby/object:Page
       anchor: Job Openings
       id: 227
       url: http://www.infosci.cornell.edu/jobs/index.html
+  snippet: "puting and Information Science. Department Overview News & Events More News \xC2\xA0\xC2\xA0Colloquium Tarleton G"
   title: Cornell Information Science
   url: http://www.infosci.cornell.edu/index.html
 http://www.infosci.cornell.edu/about/colloquiumFA07/Oct3.html: !ruby/object:Page 
@@ -4288,6 +4369,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA07/Oct3.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: g program is combining advances in learning theory with scalable digital library technologies, develo
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA07/Oct3.html
 http://www.infosci.cornell.edu/about/colloquiumSP07/Jan22.html: !ruby/object:Page 
@@ -4336,6 +4418,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP07/Jan22.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "act Information Science Colloquium A Time to Plant and A Time to Reap Speaker: Flavio Cunha, PHD Cand"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP07/Jan22.html
 http://www.infosci.cornell.edu/ugrad/ISSTAffiliation.htm: !ruby/object:Page 
@@ -4389,6 +4472,7 @@ http://www.infosci.cornell.edu/ugrad/ISSTAffiliation.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: etter grade. A cumulative GPA of 2.3 in all completed Engineering Mathematics, Engineering Distributi
   title: Criteria for Admission
   url: http://www.infosci.cornell.edu/ugrad/ISSTAffiliation.htm
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203561: !ruby/object:Page 
@@ -4485,6 +4569,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203561: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: " are not just devices, they also provide narratives, metaphors, and ways of seeing the world. This co"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203561
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206144: !ruby/object:Page 
@@ -4577,6 +4662,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206144: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: ct Charts Courses of InterestIndependent Research Careers IS CareersPotential EmployersIS Professiona
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206144
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204302: !ruby/object:Page 
@@ -4669,6 +4755,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204302: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: d development at Cornell, other universities, and in standards organizations such as the World Wide W
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204302
 http://www.infosci.cornell.edu/about/SeminarSpring05/may4.html: !ruby/object:Page 
@@ -4681,6 +4768,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/may4.html: !ruby/object:Pag
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: s how shortcomings in the psychological models of attention impact implicit interaction design, and d
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/may4.html
 http://www.infosci.cornell.edu/ugrad/index.html: !ruby/object:Page 
@@ -4785,6 +4873,7 @@ http://www.infosci.cornell.edu/ugrad/index.html: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "ience degree in Information Science through the College of Agriculture and Life Sciences (CALS). The "
   title: Undergraduate Majors
   url: http://www.infosci.cornell.edu/ugrad/index.html
 http://www.infosci.cornell.edu/ugrad/CALSAdmissions.htm: !ruby/object:Page 
@@ -4841,6 +4930,7 @@ http://www.infosci.cornell.edu/ugrad/CALSAdmissions.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: " Day Hall. They should also: Have completed one year in original college Meet the criteria for admiss"
   title: Admission to the Major
   url: http://www.infosci.cornell.edu/ugrad/CALSAdmissions.htm
 http://www.infosci.cornell.edu/about/SeminarFall04/Nov03.html: !ruby/object:Page 
@@ -4853,6 +4943,7 @@ http://www.infosci.cornell.edu/about/SeminarFall04/Nov03.html: !ruby/object:Page
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: ciations; and many of them also meet each other in other SDOs in different technology areas. This stu
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarFall04/Nov03.html
 http://www.infosci.cornell.edu/about/SeminarSpring04/March31.html: !ruby/object:Page 
@@ -4865,6 +4956,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring04/March31.html: !ruby/object:
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: e is tricky because it requires us to cross the digital/analog barrier that divides digital devices a
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring04/March31.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%205300: !ruby/object:Page 
@@ -4957,6 +5049,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%205300: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: scale information systems, with special emphasis on Internet-based systems. Topics covered include th
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%205300
 http://www.infosci.cornell.edu/about/colloquiumSP08/Apr2.html: !ruby/object:Page 
@@ -4993,6 +5086,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Apr2.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: each other to extend our understanding of complex online behavior. The first study examines a princip
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Apr2.html
 http://www.infosci.cornell.edu/ugrad/ArtsMajor.htm: !ruby/object:Page 
@@ -5045,6 +5139,7 @@ http://www.infosci.cornell.edu/ugrad/ArtsMajor.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: " organizes its courses into three area-based tracks: Human-centered Systems- This area examines the r"
   title: The Information Science Major
   url: http://www.infosci.cornell.edu/ugrad/ArtsMajor.htm
 http://www.infosci.cornell.edu/about/SeminarFall04/Oct06.html: !ruby/object:Page 
@@ -5057,6 +5152,7 @@ http://www.infosci.cornell.edu/about/SeminarFall04/Oct06.html: !ruby/object:Page
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: predict orderings. But no one learning method such as neural nets or SVMs currently dominates the oth
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarFall04/Oct06.html
 http://www.infosci.cornell.edu/about/colloquiumSP09/Apr29.html: !ruby/object:Page 
@@ -5093,6 +5189,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP09/Apr29.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: even third parties. Making privacy and security features more usable is a key enabler for these scena
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP09/Apr29.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206307: !ruby/object:Page 
@@ -5185,6 +5282,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206307: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: hods for working with data generated by web applications and services, including web server logs, syn
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206307
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204144: !ruby/object:Page 
@@ -5281,6 +5379,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204144: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: ignificant works in traditional media, telematics, machine sculpture, interactive and digital install
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204144
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/exams.html: !ruby/object:Page 
@@ -5326,6 +5425,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/exams.html: !ruby/object:
       anchor: Syllabus
       id: 199
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html
+  snippet: "trictly forbidden to use them for any form of communication. No other electronic devices may be used "
   title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/exams.html
 http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html: !ruby/object:Page 
@@ -5390,6 +5490,7 @@ http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html: !ruby/object
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: en Joachims, Cornell University Learning to Predict Complex Outputs Wednesday, March 31 Phoebe Senger
   title: Cornell Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html
 http://www.infosci.cornell.edu/about/colloquiumFA07/Aug30.html: !ruby/object:Page 
@@ -5438,6 +5539,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA07/Aug30.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: ive AI. These ideas will be illustrated by looking at several research projects, including the intera
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA07/Aug30.html
 http://www.infosci.cornell.edu/ugrad/ISSTAffiliationforms.htm: !ruby/object:Page 
@@ -5490,6 +5592,7 @@ http://www.infosci.cornell.edu/ugrad/ISSTAffiliationforms.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: forms [PDF] or pick them up in 303 Upson Hall. Please read the instructions carefully. In addition to
   title: Affiliation Forms
   url: http://www.infosci.cornell.edu/ugrad/ISSTAffiliationforms.htm
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207050: !ruby/object:Page 
@@ -5582,6 +5685,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207050: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "s Associations Information Science \xC2\xA0 \xC2\xA0 \xC2\xA0Student Association SIGCHI Student ChapterWomen Across Com"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207050
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment1.html: !ruby/object:Page 
@@ -5622,6 +5726,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment1.html: !ruby/o
       anchor: Syllabus
       id: 199
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html
+  snippet: ur report, be sure to describe the performance and ease of programming issues you considered in order
   title: "CS4300/INFO430: Information Retrieval Assignment 1"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment1.html
 http://www.infosci.cornell.edu/about/colloquiumFA07/Nov28.html: !ruby/object:Page 
@@ -5670,6 +5775,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA07/Nov28.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: ractions. In this talk I will present results from my research over the past 15 years that strives to
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA07/Nov28.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204307: !ruby/object:Page 
@@ -5762,6 +5868,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204307: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: hods for working with data generated by web applications and services, including web server logs, syn
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204307
 http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%201.html: !ruby/object:Page 
@@ -5802,6 +5909,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%201.html: !ruby/object:P
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: " various legal jurisdictions.\xC2\xA0 This represents joint work with David Clark of MIT. Bio: Susan Landau"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%201.html
 http://www.infosci.cornell.edu/about/SeminarSpring04/March10.html: !ruby/object:Page 
@@ -5814,6 +5922,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring04/March10.html: !ruby/object:
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: rch engine tries to predict what is the best ranking to present to a user for a given query. Similarl
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring04/March10.html
 http://www.infosci.cornell.edu/about/colloquiumSP09/Apr15.html: !ruby/object:Page 
@@ -5850,6 +5959,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP09/Apr15.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: dynamic Web data. The first, Zoetrope, is a system for working with the historical Web from the conte
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP09/Apr15.html
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/about.html: !ruby/object:Page 
@@ -5862,6 +5972,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/about.html: !ruby/object:
       anchor: Home
       id: 196
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/index.html
+  snippet: ested in studying these topics, but no effort has been made to edit them for general use. Everybody i
   title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/about.html
 http://www.infosci.cornell.edu/about/SeminarFall04/Sept22.html: !ruby/object:Page 
@@ -5874,6 +5985,7 @@ http://www.infosci.cornell.edu/about/SeminarFall04/Sept22.html: !ruby/object:Pag
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: ourse will inevitably shift from paper to screen. While it's too early to predict the precise new for
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarFall04/Sept22.html
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/sample-exam.html: !ruby/object:Page 
@@ -5883,6 +5995,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/sample-exam.html: !ruby/o
   id: 198
   links: {}
 
+  snippet: "o 4300 Information Retrieval Midterm Examination \xC2\xA0 <date> 7:30 to 9:00 p.m. \xC2\xA0 \xC2\xA0 Instructions \xC2\xA0 1)"
   title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/sample-exam.html
 http://www.infosci.cornell.edu/Courses/info4300/2009fa/index.html: !ruby/object:Page 
@@ -5919,6 +6032,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2009fa/index.html: !ruby/object:
       anchor: Syllabus
       id: 187
       url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/syllabus.html
+  snippet: ell.edu The Teaching Assistants do not have scheduled office hours but are available to help by email
   title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/index.html
 http://www.infosci.cornell.edu/Courses/info4300/2009fa/about.html: !ruby/object:Page 
@@ -5931,6 +6045,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2009fa/about.html: !ruby/object:
       anchor: Home
       id: 185
       url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/index.html
+  snippet: ested in studying these topics, but no effort has been made to edit them for general use. Everybody i
   title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/about.html
 http://www.infosci.cornell.edu/about/seminarSeries-spring2009.html: !ruby/object:Page 
@@ -6051,6 +6166,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2009.html: !ruby/object
       anchor: Improving the Trust User Experience
       id: 61
       url: http://www.infosci.cornell.edu/about/colloquiumSP09/Apr29.html
+  snippet: hange*** Enlightened Trial and Error - Gaining Design Insight Through New Prototyping Tools Wednesday
   title: Cornell Information Science Colloquium - INFO 7090
   url: http://www.infosci.cornell.edu/about/seminarSeries-spring2009.html
 http://www.infosci.cornell.edu/about/seminarSeries-spring2010.html: !ruby/object:Page 
@@ -6175,6 +6291,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2010.html: !ruby/object
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: Candidate, Department of Computer Science, University of Illinois at Urbana-Champaign Computing Tie S
   title: Cornell Information Science Colloquium - INFO 7090
   url: http://www.infosci.cornell.edu/about/seminarSeries-spring2010.html
 http://www.infosci.cornell.edu/ugrad/newsarticles.htm: !ruby/object:Page 
@@ -6268,6 +6385,7 @@ http://www.infosci.cornell.edu/ugrad/newsarticles.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: sional Associations IS and ISST News Articles Help create WikiCandidate -- the ideal presidential con
   title: IS and ISST News Articles
   url: http://www.infosci.cornell.edu/ugrad/newsarticles.htm
 http://www.infosci.cornell.edu/ugrad/CALSAffiliationcriteria.htm: !ruby/object:Page 
@@ -6320,6 +6438,7 @@ http://www.infosci.cornell.edu/ugrad/CALSAffiliationcriteria.htm: !ruby/object:P
       anchor: core courses
       id: 253
       url: http://www.infosci.cornell.edu/ugrad/CALSRequirements.htm
+  snippet: "tistics, Human-Centered Systems, Information Systems, and Social Systems).\xC2\xA0 Courses must be taken fo"
   title: Criteria for Admission
   url: http://www.infosci.cornell.edu/ugrad/CALSAffiliationcriteria.htm
 http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%2013.html: !ruby/object:Page 
@@ -6360,6 +6479,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%2013.html: !ruby/object:
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "tz, Jon Kleinberg, David Easley, and Geri Gay Date 4:00 - 5:15p Location: 301 College Ave., Seminar R"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%2013.html
 http://www.infosci.cornell.edu/about/SeminarSpring04/Apr7.html: !ruby/object:Page 
@@ -6372,6 +6492,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring04/Apr7.html: !ruby/object:Pag
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: king on the phone, in instant messaging, or via email, than we do when we are interacting face-to-fac
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring04/Apr7.html
 http://www.infosci.cornell.edu/courses/courses.asp: !ruby/object:Page 
@@ -6470,6 +6591,7 @@ http://www.infosci.cornell.edu/courses/courses.asp: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: " Environments INFO 415 Environmental Interventions INFO 4290 Copyright in the Digital Age INFO 4300 I"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp
 http://www.infosci.cornell.edu/ugrad/arts.htm: !ruby/object:Page 
@@ -6579,6 +6701,7 @@ http://www.infosci.cornell.edu/ugrad/arts.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "e \xC2\xA0 \xC2\xA0 \xC2\xA0Student Association SIGCHI Student ChapterWomen Across ComputingProfessional Associations I"
   title: Information Science
   url: http://www.infosci.cornell.edu/ugrad/arts.htm
 http://www.infosci.cornell.edu/about/SeminarSpring04/Apr1.html: !ruby/object:Page 
@@ -6595,6 +6718,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring04/Apr1.html: !ruby/object:Pag
       anchor: contact
       id: 71
       url: http://www.infosci.cornell.edu/about/contact.html
+  snippet: irtual library, digital library and other collections. These collections will be built not only throu
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring04/Apr1.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204900: !ruby/object:Page 
@@ -6691,6 +6815,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204900: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "ssociations Information Science \xC2\xA0 \xC2\xA0 \xC2\xA0Student Association SIGCHI Student ChapterWomen Across Comput"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204900
 http://www.infosci.cornell.edu/Courses/info4300/2009fa/test/URLhints.html: !ruby/object:Page 
@@ -6703,6 +6828,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2009fa/test/URLhints.html: !ruby
       anchor: Home
       id: 185
       url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/index.html
+  snippet: "ell.edu/wya/, the relative URL: \xC2\xA0\xC2\xA0 ../index.html refers to the file: \xC2\xA0\xC2\xA0 www.cs.cornell.edu/index."
   title: "CS430/INFO430: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/test/URLhints.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204470: !ruby/object:Page 
@@ -6795,6 +6921,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204470: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: " is placed upon public use microdata files of the U.S. Census Bureau and their role in the allocation"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204470
 http://www.infosci.cornell.edu/about/colloquiumFA05/oct5.html: !ruby/object:Page 
@@ -6843,6 +6970,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA05/oct5.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: " order to build successful technologies for remote collaboration on physical tasks, we must understan"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA05/oct5.html
 http://www.infosci.cornell.edu/about/SeminarSpring05/March02.html: !ruby/object:Page 
@@ -6855,6 +6983,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/March02.html: !ruby/object:
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: -translation techniques and preliminary research that form the foundation for the project, as well as
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/March02.html
 http://www.infosci.cornell.edu/ugrad/Kruse.htm: !ruby/object:Page 
@@ -6903,6 +7032,7 @@ http://www.infosci.cornell.edu/ugrad/Kruse.htm: !ruby/object:Page
       anchor: IS Professionals Homepage
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: " effectively and knowledgably read, critique, and suggest corrections to code. By the same token, the"
   title: IS Professionals
   url: http://www.infosci.cornell.edu/ugrad/Kruse.htm
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202921: !ruby/object:Page 
@@ -6999,6 +7129,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202921: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: venting an Information Society Explores the history of information technology from the 1830s to the p
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202921
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206850: !ruby/object:Page 
@@ -7092,6 +7223,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206850: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: rld Wide Web are characterized by the interplay between heterogeneous content and a complex underlyin
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206850
 http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2023.html: !ruby/object:Page 
@@ -7128,6 +7260,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2023.html: !ruby/object
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: ", and is now Vice President for the year 2009. She serves as chair of the Internet 2 InCommon Steerin"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2023.html
 http://www.infosci.cornell.edu/about/colloquiumSP08/Mar12.html: !ruby/object:Page 
@@ -7164,6 +7297,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Mar12.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: time required to gather input. Computing technology designed to embed seamlessly into existing practi
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Mar12.html
 http://www.infosci.cornell.edu/ugrad/ISSTgoodstanding.htm: !ruby/object:Page 
@@ -7216,6 +7350,7 @@ http://www.infosci.cornell.edu/ugrad/ISSTgoodstanding.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: l to 2.0 A semester GPA of greater than or equal to 2.3 in all courses used towards the ISST major an
   title: Criteria for Good Standing
   url: http://www.infosci.cornell.edu/ugrad/ISSTgoodstanding.htm
 http://www.infosci.cornell.edu/courses/FA10offeringnotes.html: !ruby/object:Page 
@@ -7308,6 +7443,7 @@ http://www.infosci.cornell.edu/courses/FA10offeringnotes.html: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: Association SIGCHI Student ChapterWomen Across ComputingProfessional Associations Course Offering Not
   title: Course Offering Notes
   url: http://www.infosci.cornell.edu/courses/FA10offeringnotes.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203300: !ruby/object:Page 
@@ -7400,6 +7536,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203300: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: odern database systems and three-tier application development with a focus on building web-based appl
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203300
 http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april19.html: !ruby/object:Page 
@@ -7448,6 +7585,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april19.html: !ruby/object:P
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: nd how the participants interacted in new way to take pictures. Push!Music is an innovative mobile mu
   title: Cornell IS-SIGCHI Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april19.html
 http://www.infosci.cornell.edu/courses/info4300/2008fa/HadoopHints.html: !ruby/object:Page 
@@ -7473,6 +7611,7 @@ http://www.infosci.cornell.edu/courses/info4300/2008fa/HadoopHints.html: !ruby/o
       anchor: http://www.infosci.cornell.edu/hadoop/docs.html
       id: 220
       url: http://www.infosci.cornell.edu/hadoop/docs.html
+  snippet: r and the cluster you have two options. Mount your home directory on the cluster as the desktop of yo
   title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/courses/info4300/2008fa/HadoopHints.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202950: !ruby/object:Page 
@@ -7565,6 +7704,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202950: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: Mathematical Methods for Information Science Teaches basic mathematical methods for information scien
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202950
 http://www.infosci.cornell.edu/about/colloquiumSP08/Mar26.html: !ruby/object:Page 
@@ -7601,6 +7741,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Mar26.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: gram) their own interfaces for interacting with that information on the desktop and on the web. Throu
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Mar26.html
 http://www.infosci.cornell.edu/courses/courses.html: !ruby/object:Page 
@@ -7743,6 +7884,7 @@ http://www.infosci.cornell.edu/courses/courses.html: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "ssification systems and thesauruses. The techniques are illustrated with examples from web searching "
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.html
 http://weblab.infosci.cornell.edu/status.html: !ruby/object:Page 
@@ -7784,6 +7926,7 @@ http://weblab.infosci.cornell.edu/status.html: !ruby/object:Page
       anchor: Overview
       id: 284
       url: http://weblab.infosci.cornell.edu/overview.html
+  snippet: separate collection for each complete crawl that has been loaded into the database. In addition there
   title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/status.html
 http://www.infosci.cornell.edu/courses/SP11offeringnotes.html: !ruby/object:Page 
@@ -7876,6 +8019,7 @@ http://www.infosci.cornell.edu/courses/SP11offeringnotes.html: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "als Associations Information Science \xC2\xA0 \xC2\xA0 \xC2\xA0Student Association SIGCHI Student ChapterWomen Across C"
   title: Course Offering Notes
   url: http://www.infosci.cornell.edu/courses/SP11offeringnotes.html
 http://www.infosci.cornell.edu/ugrad/FAQs.htm: !ruby/object:Page 
@@ -7976,6 +8120,7 @@ http://www.infosci.cornell.edu/ugrad/FAQs.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: " vs. traditional classroom curriculum? There are many opportunities for both traditional classroom an"
   title: Frequently Asked Questions
   url: http://www.infosci.cornell.edu/ugrad/FAQs.htm
 http://www.infosci.cornell.edu/jobs/index.html: !ruby/object:Page 
@@ -8025,6 +8170,7 @@ http://www.infosci.cornell.edu/jobs/index.html: !ruby/object:Page
       anchor: Cornell Information Science
       id: 227
       url: http://www.infosci.cornell.edu/jobs/index.html
+  snippet: "economics of information institutions; \xC2\xA0\xC2\xA0- the implications of information policy for design or pra"
   title: Open Positions
   url: http://www.infosci.cornell.edu/jobs/index.html
 http://www.infosci.cornell.edu/courses/coursesgrad.asp: !ruby/object:Page 
@@ -8069,6 +8215,7 @@ http://www.infosci.cornell.edu/courses/coursesgrad.asp: !ruby/object:Page
       anchor: Recommended and
       id: 213
       url: http://www.infosci.cornell.edu/grad/classes.html
+  snippet: formation Systems INFO 4307 Learning From Web Data INFO 4320 Introduction to Rapid Prototyping and Ph
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/coursesgrad.asp
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment3.html: !ruby/object:Page 
@@ -8109,6 +8256,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment3.html: !ruby/o
       anchor: Syllabus
       id: 199
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html
+  snippet: "--> \xC2\xA0\xC2\xA0 </span> would provide the more useful title \"Undergraduate Majors\" Anchor text from pages th"
   title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment3.html
 http://www.infosci.cornell.edu/masters-preliminary/mastersAdmissions.html: !ruby/object:Page 
@@ -8138,6 +8286,7 @@ http://www.infosci.cornell.edu/masters-preliminary/mastersAdmissions.html: !ruby
       anchor: Home
       id: 228
       url: http://www.infosci.cornell.edu/masters-preliminary/index.html
+  snippet: "ol (institution code 2098). There is no subject test required.Important Note: Please do not send any "
   title: Cornell Information Science
   url: http://www.infosci.cornell.edu/masters-preliminary/mastersAdmissions.html
 http://www.infosci.cornell.edu/about/SeminarSpring05/March30.html: !ruby/object:Page 
@@ -8150,6 +8299,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/March30.html: !ruby/object:
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: "dentifiable. Several methodologies were applied to analyze the effects of the anonymity removal: calc"
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/March30.html
 http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Page 
@@ -8202,6 +8352,7 @@ http://www.infosci.cornell.edu/about/facilities.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: " about 10 minutes. From the main Cornell campus, take Central Avenue south across Cascadilla Creek. P"
   title: Facilities
   url: http://www.infosci.cornell.edu/about/facilities.html
 http://weblab.infosci.cornell.edu/index.html: !ruby/object:Page 
@@ -8242,6 +8393,7 @@ http://weblab.infosci.cornell.edu/index.html: !ruby/object:Page
       anchor: Overview
       id: 284
       url: http://weblab.infosci.cornell.edu/overview.html
+  snippet: June 2006. The Web Lab is built on the historical collections of the Internet Archive. This work woul
   title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/index.html
 http://www.infosci.cornell.edu/masters-preliminary/mastersCourses.html: !ruby/object:Page 
@@ -8287,6 +8439,7 @@ http://www.infosci.cornell.edu/masters-preliminary/mastersCourses.html: !ruby/ob
       anchor: offering notes
       id: 171
       url: http://www.infosci.cornell.edu/courses/FA10offeringnotes.html
+  snippet: Data (also 6307) INFO 5300 Architecture of Large-Scale Information Systems INFO 6300 Advanced Languag
   title: Cornell Information Science
   url: http://www.infosci.cornell.edu/masters-preliminary/mastersCourses.html
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignments.html: !ruby/object:Page 
@@ -8340,6 +8493,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignments.html: !ruby/o
       anchor: assignment3.html
       id: 192
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment3.html
+  snippet: "ronment, such as Codewarrior or JCreator.\xC2\xA0 But realize that it will be run from the command prompt. "
   title: "CS4300/INFO4300: Information Retrieval Assignments"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignments.html
 http://www.infosci.cornell.edu/hadoop/index.html: !ruby/object:Page 
@@ -8388,6 +8542,7 @@ http://www.infosci.cornell.edu/hadoop/index.html: !ruby/object:Page
       anchor: Project forms
       id: 218
       url: http://www.infosci.cornell.edu/hadoop/cac.html
+  snippet: ring a MapReduce job from a Macintosh computer Preparing a MapReduce job from a Windows computer Runn
   title: "Cornell Web Lab: Hadoop"
   url: http://www.infosci.cornell.edu/hadoop/index.html
 http://www.infosci.cornell.edu/about/colloquiumFA05/sept7.html: !ruby/object:Page 
@@ -8436,6 +8591,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA05/sept7.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: al networks are becoming increasingly dependent on one another, and both types of networks are fundam
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA05/sept7.html
 http://www.infosci.cornell.edu/about/colloq_videos.html: !ruby/object:Page 
@@ -8452,6 +8608,7 @@ http://www.infosci.cornell.edu/about/colloq_videos.html: !ruby/object:Page
       anchor: Cornell Information Science
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: ger Oct. 1, 2008 [Presentation] James Allen Sep. 17, 2008 [MPG][WMV] David McDonald Apr. 2, 2008 [MPG
   title: Cornell Information Science
   url: http://www.infosci.cornell.edu/about/colloq_videos.html
 http://www.infosci.cornell.edu/ugrad/CALSHonors.htm: !ruby/object:Page 
@@ -8500,6 +8657,7 @@ http://www.infosci.cornell.edu/ugrad/CALSHonors.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: ata collection procedures (including measurement instruments and survey or experimental designs, if a
   title: Honors Requirements
   url: http://www.infosci.cornell.edu/ugrad/CALSHonors.htm
 http://www.infosci.cornell.edu/about/colloquiumSP09/Jan28.html: !ruby/object:Page 
@@ -8536,6 +8694,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP09/Jan28.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: " affect the quantity of contributions? 2) How can computer tools improve the quality of contributions"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP09/Jan28.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202040: !ruby/object:Page 
@@ -8628,6 +8787,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202040: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: urse examines network structures and how they matter in everyday life. The course examines how each o
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202040
 http://www.infosci.cornell.edu/about/colloquiumFA08/Nov19.html: !ruby/object:Page 
@@ -8664,6 +8824,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA08/Nov19.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: nt self-regulatory entities, but should also ensure that their policies are constrained by basic huma
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA08/Nov19.html
 http://www.infosci.cornell.edu/about/colloquiumSP08/Feb20.html: !ruby/object:Page 
@@ -8700,6 +8861,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Feb20.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: r the good of the community. * Recommendations are usually based on what you do, but it turns out tha
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Feb20.html
 http://www.infosci.cornell.edu/about/colloquiumSP08/Mar10.html: !ruby/object:Page 
@@ -8736,6 +8898,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Mar10.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: n consumer devices. Based on our preliminary studies, I will discuss some of these concerns, includin
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Mar10.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206400: !ruby/object:Page 
@@ -8828,6 +8991,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206400: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: ngs and research supplementing COMM/INFO 4400. Focuses on the design of computer interfaces and softw
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206400
 http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/sept14.html: !ruby/object:Page 
@@ -8876,6 +9040,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/sept14.html: !ruby/object:Pa
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: Dobson grew up in a junkyard. From the age of four she was doing odd jobs such as smashing windows an
   title: Cornell IS-SIGCHI Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/sept14.html
 http://www.infosci.cornell.edu/hadoop/docs.html: !ruby/object:Page 
@@ -8889,6 +9054,7 @@ http://www.infosci.cornell.edu/hadoop/docs.html: !ruby/object:Page
       anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
+  snippet: "from two papers from Google: Jeffrey Dean and Sanjay Ghemawat, MapReduce: Simplified Data Processing "
   title: "Cornell Web Lab: Hadoop"
   url: http://www.infosci.cornell.edu/hadoop/docs.html
 http://www.infosci.cornell.edu/ugrad/CALSAffiliationforms.htm: !ruby/object:Page 
@@ -8937,6 +9103,7 @@ http://www.infosci.cornell.edu/ugrad/CALSAffiliationforms.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: ", Information Science Major All students who wish to apply to declare the Information Science major i"
   title: Major Declaration Forms
   url: http://www.infosci.cornell.edu/ugrad/CALSAffiliationforms.htm
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202310: !ruby/object:Page 
@@ -9029,6 +9196,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202310: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "rses INFO 2310: Topics in Web Programming and Design This course covers topics in advanced web progra"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202310
 http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2009/SIGCHI_Mar09_09.htm: !ruby/object:Page 
@@ -9069,6 +9237,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2009/SIGCHI_Mar09_09.htm: !r
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: nd affects health practices and attitudes. While the HCI community has shown the potential of technol
   title: SIGCHI Invited Lecturer Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2009/SIGCHI_Mar09_09.htm
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html: !ruby/object:Page 
@@ -9113,6 +9282,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html: !ruby/obje
       anchor: Syllabus
       id: 199
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html
+  snippet: "vector space modelMRS: 7. Computing scores in a complete search system Sun 9/19 Assignment 1 due Buil"
   title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html
 http://www.infosci.cornell.edu/about/SeminarSpring04/Feb24.html: !ruby/object:Page 
@@ -9122,6 +9292,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring04/Feb24.html: !ruby/object:Pa
   id: 103
   links: {}
 
+  snippet: rimary vehicle for communicating the results of scholarly activity, providing the basis for registeri
   title: Feb24.html
   url: http://www.infosci.cornell.edu/about/SeminarSpring04/Feb24.html
 http://www.infosci.cornell.edu/courses/info2950/2008fa/default.htm: !ruby/object:Page 
@@ -9131,6 +9302,7 @@ http://www.infosci.cornell.edu/courses/info2950/2008fa/default.htm: !ruby/object
   id: 177
   links: {}
 
+  snippet: "\xA0\xE2\x80\x93\xC2\xA0The WWW: a short personal history (T. Berners-Lee, 1998) \xC2\xA0\xE2\x80\x93\xC2\xA0Google paper (Brin & Page, 1998"
   title: Info 2950
   url: http://www.infosci.cornell.edu/courses/info2950/2008fa/default.htm
 http://www.infosci.cornell.edu/ugrad/Kerchner.htm: !ruby/object:Page 
@@ -9179,6 +9351,7 @@ http://www.infosci.cornell.edu/ugrad/Kerchner.htm: !ruby/object:Page
       anchor: IS Professionals Homepage
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "es that have led to greatly improved user experiences. A lot of what she\xC2\x92s doing to modernize govern"
   title: IS Professionals
   url: http://www.infosci.cornell.edu/ugrad/Kerchner.htm
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204400: !ruby/object:Page 
@@ -9271,6 +9444,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204400: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: uman-Computer Interaction Design Focuses on the design of computer interfaces and software from the u
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204400
 http://www.infosci.cornell.edu/about/SeminarSpring05/June6.html: !ruby/object:Page 
@@ -9283,6 +9457,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/June6.html: !ruby/object:Pa
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: ackground to the research and key findings from two papers will be presented. More specifically, resu
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/June6.html
 http://www.infosci.cornell.edu/courses/INFO490.htm: !ruby/object:Page 
@@ -9385,6 +9560,7 @@ http://www.infosci.cornell.edu/courses/INFO490.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: l uncertain about who to approach after looking at faculty research areas, you should discuss the mat
   title: Independent Research
   url: http://www.infosci.cornell.edu/courses/INFO490.htm
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204320: !ruby/object:Page 
@@ -9477,6 +9653,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204320: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: sical Computing This class will provide an introduction to modern rapid prototyping techniques such a
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204320
 http://www.infosci.cornell.edu/hadoop/prog.html: !ruby/object:Page 
@@ -9489,6 +9666,7 @@ http://www.infosci.cornell.edu/hadoop/prog.html: !ruby/object:Page
       anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
+  snippet: "ount. This is the example used in the MapReduce tutorial and the Quickstart guides on the Apache web "
   title: "Cornell Web Lab: Hadoop"
   url: http://www.infosci.cornell.edu/hadoop/prog.html
 http://www.infosci.cornell.edu/about/colloquiumFA06/Dec12.html: !ruby/object:Page 
@@ -9537,6 +9715,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA06/Dec12.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "layer by layer: physical, logical, application, and content. Bio: Yochai Benkler is a Professor of La"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA06/Dec12.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206350: !ruby/object:Page 
@@ -9629,6 +9808,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206350: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: ct Charts Courses of InterestIndependent Research Careers IS CareersPotential EmployersIS Professiona
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206350
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%20415: !ruby/object:Page 
@@ -9721,6 +9901,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%20415: !ruby/obj
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: " are expanding the role of information technology (IT) from a modernist tool for representing and con"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%20415
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203660: !ruby/object:Page 
@@ -9813,6 +9994,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203660: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: " arts of the late 20th and 21st centuries with emphasis on Europe and North America. Beginning with k"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203660
 http://www.infosci.cornell.edu/courses/info204/2007sp/index.htm: !ruby/object:Page 
@@ -9827,6 +10009,7 @@ http://www.infosci.cornell.edu/courses/info204/2007sp/index.htm: !ruby/object:Pa
       anchor: schedule of office hours
       id: 172
       url: http://www.infosci.cornell.edu/courses/info204/2007sp/index.htm
+  snippet: g Markets. Handout on Matching Markets with Intermediaries. Handout on Network Exchange Theory. (4) T
   title: Networks (Econ/Soc/CS/Info 204, David Easley and Jon Kleinberg)
   url: http://www.infosci.cornell.edu/courses/info204/2007sp/index.htm
 http://www.infosci.cornell.edu/ugrad/ISSTAdmissions.htm: !ruby/object:Page 
@@ -9887,6 +10070,7 @@ http://www.infosci.cornell.edu/ugrad/ISSTAdmissions.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: " transfer from another college at Cornell in order to major in ISST in the College of Engineering sho"
   title: Admission to the Major
   url: http://www.infosci.cornell.edu/ugrad/ISSTAdmissions.htm
 http://www.infosci.cornell.edu/ugrad/concentrations.html: !ruby/object:Page 
@@ -9977,6 +10161,7 @@ http://www.infosci.cornell.edu/ugrad/concentrations.html: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: nalysis H ADM 4474 Strategic Information Systems OR AEM 3220 (in 09-10, students may take HADM 4489 o
   title: Concentration / Minor in Information Science
   url: http://www.infosci.cornell.edu/ugrad/concentrations.html
 http://www.infosci.cornell.edu/research/index.html: !ruby/object:Page 
@@ -10024,6 +10209,7 @@ http://www.infosci.cornell.edu/research/index.html: !ruby/object:Page
       anchor: research
       id: 235
       url: http://www.infosci.cornell.edu/research/index.html
+  snippet: g Group Database Research at Cornell Digital Libraries & Web Information Fedora Commons HCI, CMC, and
   title: Research
   url: http://www.infosci.cornell.edu/research/index.html
 http://www.infosci.cornell.edu/grad/index.html: !ruby/object:Page 
@@ -10084,6 +10270,7 @@ http://www.infosci.cornell.edu/grad/index.html: !ruby/object:Page
       anchor: See list of Required & Recommended courses.
       id: 213
       url: http://www.infosci.cornell.edu/grad/classes.html
+  snippet: "ience will need to achieve three objectives: (a) breadth in the disciplines that contribute to the fi"
   title: PhD Program Overview
   url: http://www.infosci.cornell.edu/grad/index.html
 http://www.infosci.cornell.edu/dl/epub.html: !ruby/object:Page 
@@ -10097,6 +10284,7 @@ http://www.infosci.cornell.edu/dl/epub.html: !ruby/object:Page
       anchor: Information Science Home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: urce in the field of law. It is a based at the Cornell Law School. [Legal Information Institute]. The
   title: Innovation in Electronic Publishing
   url: http://www.infosci.cornell.edu/dl/epub.html
 http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html: !ruby/object:Page 
@@ -10205,6 +10393,7 @@ http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html: !ruby/object
       anchor: Sadat's talk
       id: 116
       url: http://www.infosci.cornell.edu/about/SeminarSpring05/March30b.html
+  snippet: " 13 Lori Lorigo and Jofish Kaye, PhD Students, Information Science, Cornell University Jofish's talk "
   title: Cornell Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/readings.html: !ruby/object:Page 
@@ -10213,6 +10402,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/readings.html: !ruby/obje
       Readings: true
       reading: true
       discussion classes: true
+      video: true
       instructions: true
       Books and Readings: true
   id: 197
@@ -10249,6 +10439,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/readings.html: !ruby/obje
       anchor: Syllabus
       id: 199
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html
+  snippet: "prepared to discuss the following: K. Sparck Jones, \"A statistical interpretation of term specificity"
   title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/readings.html
 http://www.infosci.cornell.edu/courses/info204/2008sp/index.htm: !ruby/object:Page 
@@ -10263,6 +10454,7 @@ http://www.infosci.cornell.edu/courses/info204/2008sp/index.htm: !ruby/object:Pa
       anchor: schedule of office hours
       id: 173
       url: http://www.infosci.cornell.edu/courses/info204/2008sp/index.htm
+  snippet: ake use of link information for ranking, how they use ideas related to power and centrality in social
   title: Networks (Econ/Soc/Info 204, David Easley and Jon Kleinberg)
   url: http://www.infosci.cornell.edu/courses/info204/2008sp/index.htm
 http://www.infosci.cornell.edu/ugrad/ISSA.htm: !ruby/object:Page 
@@ -10356,6 +10548,7 @@ http://www.infosci.cornell.edu/ugrad/ISSA.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: " special events and activities. To serve as a bridge between current students and alumni. To provide "
   title: Information Science Student Association (ISSA)
   url: http://www.infosci.cornell.edu/ugrad/ISSA.htm
 http://www.infosci.cornell.edu/masters-preliminary/index.html: !ruby/object:Page 
@@ -10416,6 +10609,7 @@ http://www.infosci.cornell.edu/masters-preliminary/index.html: !ruby/object:Page
       anchor: Home
       id: 228
       url: http://www.infosci.cornell.edu/masters-preliminary/index.html
+  snippet: education. The program provides Cornell Information Science majors an opportunity to take a broad ran
   title: Master of Professional Studies
   url: http://www.infosci.cornell.edu/masters-preliminary/index.html
 http://www.infosci.cornell.edu/courses/FA09offeringnotes.html: !ruby/object:Page 
@@ -10508,6 +10702,7 @@ http://www.infosci.cornell.edu/courses/FA09offeringnotes.html: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: ssional Associations Course Offering Notes Fall 2009 Semester INFO 1301 and 1302 will be offered as o
   title: Course Offering Notes
   url: http://www.infosci.cornell.edu/courses/FA09offeringnotes.html
 http://www.infosci.cornell.edu/about/seminarSeries-fall2008.html: !ruby/object:Page 
@@ -10628,6 +10823,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2008.html: !ruby/object:P
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "nap Lab Talk: 4:00p - 5:00p301 College Avenue, Seminar Room Steve Wicker, Professor, Electrical and C"
   title: Cornell Information Science Colloquium - INFO 7090
   url: http://www.infosci.cornell.edu/about/seminarSeries-fall2008.html
 http://www.infosci.cornell.edu/about/colloquiumSP08/May7.html: !ruby/object:Page 
@@ -10664,6 +10860,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/May7.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "ories. This paper explores this digital shift and the ways it is allowing bodies and practices to be "
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/May7.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202450: !ruby/object:Page 
@@ -10760,6 +10957,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202450: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "2450: Psychology of Social Computing Course focuses on understanding online communication through pri"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202450
 http://www.infosci.cornell.edu/ugrad/Artsgoodstanding.htm: !ruby/object:Page 
@@ -10812,6 +11010,7 @@ http://www.infosci.cornell.edu/ugrad/Artsgoodstanding.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: ": Students must meet the following criteria for good standing at the end of each semester: An overall"
   title: Criteria for Good Standing
   url: http://www.infosci.cornell.edu/ugrad/Artsgoodstanding.htm
 http://www.infosci.cornell.edu/about/colloquium-fall2006.html: !ruby/object:Page 
@@ -10908,6 +11107,7 @@ http://www.infosci.cornell.edu/about/colloquium-fall2006.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "ter Science, Cornell University Hosted by: Claire Cardie NSDL 2.0: Creating a Collaborative Digital L"
   title: Cornell Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquium-fall2006.html
 http://www.infosci.cornell.edu/about/colloquiumFA07/Nov7.html: !ruby/object:Page 
@@ -10956,6 +11156,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA07/Nov7.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "that one of Goffman's interactional classics on \"role distance\" is based partly upon the analysis of "
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA07/Nov7.html
 http://www.infosci.cornell.edu/ugrad/CALSgoodstanding.htm: !ruby/object:Page 
@@ -11004,6 +11205,7 @@ http://www.infosci.cornell.edu/ugrad/CALSgoodstanding.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: "g: Students must meet the following criteria for good standing at the end of each semester: An overal"
   title: Criteria for Good Standing
   url: http://www.infosci.cornell.edu/ugrad/CALSgoodstanding.htm
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/index.html: !ruby/object:Page 
@@ -11044,6 +11246,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/index.html: !ruby/object:
       anchor: Syllabus
       id: 199
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html
+  snippet: "nt does not have scheduled office hours but is available to help by email.\xC2\xA0 Notices and Syllabus Urg"
   title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/index.html
 http://www.infosci.cornell.edu/about/colloquiumSP09/Mar25.html: !ruby/object:Page 
@@ -11080,6 +11283,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP09/Mar25.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: ienced, tested, and compared against other ideas. In this talk I will give an overview of different p
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP09/Mar25.html
 http://www.infosci.cornell.edu/graduateStudents/alumni.html: !ruby/object:Page 
@@ -11124,6 +11328,7 @@ http://www.infosci.cornell.edu/graduateStudents/alumni.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: " Software Researcher, Collaborative User Experience (CUE) Group, IBM TJ Watson Research Ctr., Cambrid"
   title: Information Science Alumni
   url: http://www.infosci.cornell.edu/graduateStudents/alumni.html
 http://www.infosci.cornell.edu/about/IS-SIGCHI.html: !ruby/object:Page 
@@ -11192,6 +11397,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "ad student, Georgia Tech Will the Real Cameraphone Please Stand Up? Wednesday, March 1 *4:15 - 5:15p "
   title: Cornell IS-SIGCHI Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI.html
 http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%201.html: !ruby/object:Page 
@@ -11232,6 +11438,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%201.html: !ruby/object:P
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: sed through rhetorics of popular culture, and to situate those concerns in the broader history of new
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%201.html
 http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm: !ruby/object:Page 
@@ -11341,6 +11548,7 @@ http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: nal Associations IS Professionals This webpage features a small sample of current professionals worki
   title: IS Professionals
   url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
 http://www.infosci.cornell.edu/courses/Minor_in_Infosci.html: !ruby/object:Page 
@@ -11397,6 +11605,7 @@ http://www.infosci.cornell.edu/courses/Minor_in_Infosci.html: !ruby/object:Page
       anchor: required or recommended course
       id: 213
       url: http://www.infosci.cornell.edu/grad/classes.html
+  snippet: "er students take at least 2 courses at the 5000+ level and 1 course at the 4000+ level, spanning two "
   title: Graduate Minor in Information Science
   url: http://www.infosci.cornell.edu/courses/Minor_in_Infosci.html
 http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/oct12.html: !ruby/object:Page 
@@ -11445,6 +11654,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/oct12.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: But rather than rushing to design "better robots" I suggest that we should pause to examine the tacti
   title: Cornell IS-SIGCHI Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/oct12.html
 http://www.infosci.cornell.edu/facultyAndResearch/index.html: !ruby/object:Page 
@@ -11494,6 +11704,7 @@ http://www.infosci.cornell.edu/facultyAndResearch/index.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: ogies; simulations in medicine, especially surgery; medical informatics; graphics and simulations; bo
   title: "Faculty & Researchers (IS field members)\xC2\xA0"
   url: http://www.infosci.cornell.edu/facultyAndResearch/index.html
 http://www.infosci.cornell.edu/ugrad/CALSMajor.htm: !ruby/object:Page 
@@ -11542,6 +11753,7 @@ http://www.infosci.cornell.edu/ugrad/CALSMajor.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: "es its courses into three area-based tracks:\xC2\xA0 Human-centered Systems.\xC2\xA0 This area examines the relat"
   title: The Information Science Major
   url: http://www.infosci.cornell.edu/ugrad/CALSMajor.htm
 http://www.infosci.cornell.edu/news/news.html: !ruby/object:Page 
@@ -11601,6 +11813,7 @@ http://www.infosci.cornell.edu/news/news.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "Lying in the Digital Age\" (Hancock), and \"The verbal end: Interactions between computational textual "
   title: More News & Events
   url: http://www.infosci.cornell.edu/news/news.html
 http://www.infosci.cornell.edu/Courses/info4300/2009fa/assignments.html: !ruby/object:Page 
@@ -11638,6 +11851,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2009fa/assignments.html: !ruby/o
       anchor: Syllabus
       id: 187
       url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/syllabus.html
+  snippet: "or JCreator.\xC2\xA0 But realize that it will be run from the command prompt. So, before submitting your pr"
   title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/assignments.html
 http://www.infosci.cornell.edu/about/colloquiumFA06/Nov8.html: !ruby/object:Page 
@@ -11686,6 +11900,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA06/Nov8.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: ss the constraint reasoning paradigm and how the discovery of special properties of very large constr
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA06/Nov8.html
 http://www.infosci.cornell.edu/grad/classes.html: !ruby/object:Page 
@@ -11789,6 +12004,7 @@ http://www.infosci.cornell.edu/grad/classes.html: !ruby/object:Page
       anchor: Graduate Minor In
       id: 202
       url: http://www.infosci.cornell.edu/courses/Minor_in_Infosci.html
+  snippet: " 5150: Software EngineeringCS 5846/5847 (aka ECON 4760/4770): Decision TheoryPSYCH 6160: Modeling Per"
   title: Required and Recommended Classes PhD
   url: http://www.infosci.cornell.edu/grad/classes.html
 http://www.infosci.cornell.edu/courses/courseconflictcharts.html: !ruby/object:Page 
@@ -11881,6 +12097,7 @@ http://www.infosci.cornell.edu/courses/courseconflictcharts.html: !ruby/object:P
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: " spring semesters of the current school year. They may be used to plan future as well as current seme"
   title: Course Conflict Charts
   url: http://www.infosci.cornell.edu/courses/courseconflictcharts.html
 http://weblab.infosci.cornell.edu/overview.html: !ruby/object:Page 
@@ -11921,6 +12138,7 @@ http://weblab.infosci.cornell.edu/overview.html: !ruby/object:Page
       anchor: Overview
       id: 284
       url: http://weblab.infosci.cornell.edu/overview.html
+  snippet: . Most research projects begin by selecting a set of web pages for detailed analysis to create a work
   title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/overview.html
 http://www.infosci.cornell.edu/about/index.html: !ruby/object:Page 
@@ -11973,6 +12191,7 @@ http://www.infosci.cornell.edu/about/index.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: tems draws from Computer Science and Operations Research; Human Computer Interaction from Communicati
   title: Department Overview
   url: http://www.infosci.cornell.edu/about/index.html
 http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm: !ruby/object:Page 
@@ -12085,6 +12304,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm: !ruby/object:Pa
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "ri Gay Attention in Distributed Collaboration Wednesday, October 24 Reception: 3:45p - 4:00p Talk: 4:"
   title: Cornell Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm
 http://www.infosci.cornell.edu/about/colloquiumSP09/Feb25.html: !ruby/object:Page 
@@ -12121,6 +12341,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP09/Feb25.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: " web-search. It will also reveal challenges to this and other similar approaches, including both prac"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP09/Feb25.html
 http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm: !ruby/object:Page 
@@ -12189,6 +12410,7 @@ http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm: !ruby/object:
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: " Noshir Contractor, Professor, Department of Speech Communication, Department of Psychology, and the "
   title: Cornell Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm
 http://www.infosci.cornell.edu/about/ColloquiumFA09/Nov%2011.html: !ruby/object:Page 
@@ -12225,6 +12447,7 @@ http://www.infosci.cornell.edu/about/ColloquiumFA09/Nov%2011.html: !ruby/object:
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: g a visualization of geotagged image content. I will discuss the growing opportunity in new "social a
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/ColloquiumFA09/Nov%2011.html
 http://www.infosci.cornell.edu/about/colloquiumSP08/Mar5.html: !ruby/object:Page 
@@ -12261,6 +12484,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Mar5.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: result is a pen-based system that relies on users' intuitive sense of space and time while still supp
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Mar5.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%209900: !ruby/object:Page 
@@ -12357,6 +12581,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%209900: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "sociations Information Science \xC2\xA0 \xC2\xA0 \xC2\xA0Student Association SIGCHI Student ChapterWomen Across Computi"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%209900
 http://www.infosci.cornell.edu/about/SeminarFall04/Oct20.html: !ruby/object:Page 
@@ -12369,6 +12594,7 @@ http://www.infosci.cornell.edu/about/SeminarFall04/Oct20.html: !ruby/object:Page
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: "on. With that critique in mind, I turn to examples \xC2\x96 from both mundane work settings and new media a"
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarFall04/Oct20.html
 http://www.infosci.cornell.edu/about/colloquiumSP07/Mar28.html: !ruby/object:Page 
@@ -12417,6 +12643,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP07/Mar28.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: " of Warcraft). Bio: Noshir Contractor is a Professor in the Departments of Speech Communication, Psyc"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP07/Mar28.html
 http://www.infosci.cornell.edu/courses/info2040/2010sp/index.htm: !ruby/object:Page 
@@ -12431,6 +12658,7 @@ http://www.infosci.cornell.edu/courses/info2040/2010sp/index.htm: !ruby/object:P
       anchor: CMS site
       id: 176
       url: http://www.infosci.cornell.edu/courses/info2040/2010sp/index.htm
+  snippet: works, and how they have implemented network-based matching markets for sellling advertising. Reading
   title: Networks (Econ/Soc/CS/Info , David Easley and Jon Kleinberg)
   url: http://www.infosci.cornell.edu/courses/info2040/2010sp/index.htm
 http://www.infosci.cornell.edu/about/colloquiumSP07/Jan31.html: !ruby/object:Page 
@@ -12479,6 +12707,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP07/Jan31.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: /sellers through the purchase/sales process, and resolving unexpected contingencies. Data show inform
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP07/Jan31.html
 http://www.infosci.cornell.edu/ugrad/ugradContact.html: !ruby/object:Page 
@@ -12571,6 +12800,7 @@ http://www.infosci.cornell.edu/ugrad/ugradContact.html: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "ci.cornell.edu ISST major: isst@infosci.cornell.edu IS concentration/minor: minor@infosci.cornell.edu"
   title: Undergraduate Contact Information
   url: http://www.infosci.cornell.edu/ugrad/ugradContact.html
 http://www.infosci.cornell.edu/about/colloquiumSP10/Mar17.html: !ruby/object:Page 
@@ -12607,6 +12837,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP10/Mar17.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: tool in both design and analysis. Specifically, I'll present We Meddle (http://wemeddle.com), a Twitt
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP10/Mar17.html
 http://www.infosci.cornell.edu/about/colloquiumFA09/Oct%205.html: !ruby/object:Page 
@@ -12643,6 +12874,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA09/Oct%205.html: !ruby/object:P
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: Orchestrated by a group called Anonymous they have moved offline to lead a series of online attacks a
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA09/Oct%205.html
 http://www.infosci.cornell.edu/Courses/info4300/2009fa/code.html: !ruby/object:Page 
@@ -12679,6 +12911,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2009fa/code.html: !ruby/object:P
       anchor: Syllabus
       id: 187
       url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/syllabus.html
+  snippet: k together on a task, all should be named on the work products. People should usually be listed in al
   title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/code.html
 http://www.infosci.cornell.edu/masters-preliminary/mastersGeneral.html: !ruby/object:Page 
@@ -12711,6 +12944,7 @@ http://www.infosci.cornell.edu/masters-preliminary/mastersGeneral.html: !ruby/ob
       anchor: Information Science
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: y to this program include computer science, communication, operations research, psychology, statistic
   title: Cornell Information Science
   url: http://www.infosci.cornell.edu/masters-preliminary/mastersGeneral.html
 http://www.infosci.cornell.edu/hadoop/windows.html: !ruby/object:Page 
@@ -12724,6 +12958,7 @@ http://www.infosci.cornell.edu/hadoop/windows.html: !ruby/object:Page
       anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
+  snippet: ission Denied" errors when attempting the following.) Change into your hadoop directory Z:\hadoop-0.1
   title: "Cornell Web Lab: Hadoop"
   url: http://www.infosci.cornell.edu/hadoop/windows.html
 http://www.infosci.cornell.edu/courses/info4300/2008fa/MapReduceHints.html: !ruby/object:Page 
@@ -12745,6 +12980,7 @@ http://www.infosci.cornell.edu/courses/info4300/2008fa/MapReduceHints.html: !rub
       anchor: Preparing a MapReduce job on a Macintosh computer
       id: 222
       url: http://www.infosci.cornell.edu/hadoop/mac.html
+  snippet: "methods: The main method is a stub. All it does is call the run method. The run method is part of the"
   title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/courses/info4300/2008fa/MapReduceHints.html
 http://www.infosci.cornell.edu/about/colloquiumSP07/Apr4.html: !ruby/object:Page 
@@ -12793,6 +13029,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP07/Apr4.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: al subjects, the potential for abuse is clear and present. This talk argues that we in the academy sh
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP07/Apr4.html
 http://www.infosci.cornell.edu/hadoop/mac.html: !ruby/object:Page 
@@ -12806,6 +13043,7 @@ http://www.infosci.cornell.edu/hadoop/mac.html: !ruby/object:Page
       anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
+  snippet: ). If you are not familiar with the UNIX command line, here is a basic guide. Change into your hadoop
   title: "Cornell Web Lab: Hadoop"
   url: http://www.infosci.cornell.edu/hadoop/mac.html
 http://www.infosci.cornell.edu/ugrad/nowebsite.htm: !ruby/object:Page 
@@ -12887,6 +13125,7 @@ http://www.infosci.cornell.edu/ugrad/nowebsite.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: ite To our knowledge, a website for this course does not currently exist. The website may not yet exi
   title: No course website
   url: http://www.infosci.cornell.edu/ugrad/nowebsite.htm
 http://www.infosci.cornell.edu/ugrad/ISSTMajor.htm: !ruby/object:Page 
@@ -12939,6 +13178,7 @@ http://www.infosci.cornell.edu/ugrad/ISSTMajor.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: "rmative information systems exist. Students then choose one of two specializations: Management Scienc"
   title: Information Science, Systems, and Technology
   url: http://www.infosci.cornell.edu/ugrad/ISSTMajor.htm
 http://www.infosci.cornell.edu/ugrad/CALS.htm: !ruby/object:Page 
@@ -13043,6 +13283,7 @@ http://www.infosci.cornell.edu/ugrad/CALS.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: SIGCHI Student ChapterWomen Across ComputingProfessional Associations Information Science Bachelor of
   title: Information Science
   url: http://www.infosci.cornell.edu/ugrad/CALS.htm
 http://www.infosci.cornell.edu/about/colloquiumSP08/Apr16.html: !ruby/object:Page 
@@ -13079,6 +13320,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Apr16.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: " as expressive as point and click interfaces, they also offer more flexibility and encourage command "
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Apr16.html
 http://www.infosci.cornell.edu/dl/nsdl-cornell.html: !ruby/object:Page 
@@ -13101,6 +13343,7 @@ http://www.infosci.cornell.edu/dl/nsdl-cornell.html: !ruby/object:Page
       anchor: Information Science Home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: ct. MetaTest MetaTest is evaluating the use and utility of manually and automatically generated metad
   title: The NSDL at Cornell
   url: http://www.infosci.cornell.edu/dl/nsdl-cornell.html
 http://www.infosci.cornell.edu/dl/core-integration.html: !ruby/object:Page 
@@ -13123,6 +13366,7 @@ http://www.infosci.cornell.edu/dl/core-integration.html: !ruby/object:Page
       anchor: The NSDL at Cornell
       id: 211
       url: http://www.infosci.cornell.edu/dl/nsdl-cornell.html
+  snippet: ert Van de Sompel. Major activities at Cornell Technical structure The technical architecture for the
   title: NSDL Core Integration at Cornell
   url: http://www.infosci.cornell.edu/dl/core-integration.html
 http://www.infosci.cornell.edu/about/SIGCHI.html: !ruby/object:Page 
@@ -13172,6 +13416,7 @@ http://www.infosci.cornell.edu/about/SIGCHI.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: u) , Cornell University Date Presenter Title of Talk / Information Monday, March 9 12:00-1:00pSeminar
   title: Cornell SIGCHI Series
   url: http://www.infosci.cornell.edu/about/SIGCHI.html
 http://www.infosci.cornell.edu/ugrad/Glasgal.htm: !ruby/object:Page 
@@ -13220,6 +13465,7 @@ http://www.infosci.cornell.edu/ugrad/Glasgal.htm: !ruby/object:Page
       anchor: IS Professionals Homepage
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: passes the management and development of user-friendly data access tools, so a decision-maker or mana
   title: IS Professionals
   url: http://www.infosci.cornell.edu/ugrad/Glasgal.htm
 http://www.infosci.cornell.edu/SIN/cybertools/index.html: !ruby/object:Page 
@@ -13229,6 +13475,7 @@ http://www.infosci.cornell.edu/SIN/cybertools/index.html: !ruby/object:Page
   id: 236
   links: {}
 
+  snippet: d space. The Web Lab. The Web Lab is a joint project of Cornell University and the Internet Archive t
   title: "Cornell University: Next Generation Cybertools"
   url: http://www.infosci.cornell.edu/SIN/cybertools/index.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202300: !ruby/object:Page 
@@ -13321,6 +13568,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202300: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: s learning about server side processing. Students begin by looking at interactions with databases, le
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202300
 http://www.infosci.cornell.edu/Courses/info4300/2009fa/syllabus.html: !ruby/object:Page 
@@ -13358,6 +13606,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2009fa/syllabus.html: !ruby/obje
       anchor: Syllabus
       id: 187
       url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/syllabus.html
+  snippet: "e Event Topic Tue 10/6 Lecture 12 [slides] LSI and relevance feedbackLSI notes and MRS: 9 Relevance f"
   title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2009fa/syllabus.html
 http://www.infosci.cornell.edu/hadoop/cac.html: !ruby/object:Page 
@@ -13370,6 +13619,7 @@ http://www.infosci.cornell.edu/hadoop/cac.html: !ruby/object:Page
       anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
+  snippet: ication and related services are managed throught the CAC's project management system. New projects s
   title: "Cornell Web Lab: Hadoop"
   url: http://www.infosci.cornell.edu/hadoop/cac.html
 http://www.infosci.cornell.edu/about/colloquiumFA08/Oct1.html: !ruby/object:Page 
@@ -13406,6 +13656,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA08/Oct1.html: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "y, especially as it pertains to our capacity to innovate. This continues Professor Mayer-Sch\xC3\xB6nberger"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA08/Oct1.html
 http://www.infosci.cornell.edu/ugrad/sampleSched_Agg.html: !ruby/object:Page 
@@ -13454,6 +13705,7 @@ http://www.infosci.cornell.edu/ugrad/sampleSched_Agg.html: !ruby/object:Page
       anchor: major requirements
       id: 253
       url: http://www.infosci.cornell.edu/ugrad/CALSRequirements.htm
+  snippet: cates that there's more than one course to choose from for that requirement. See the major requiremen
   title: Sample Schedule
   url: http://www.infosci.cornell.edu/ugrad/sampleSched_Agg.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202140: !ruby/object:Page 
@@ -13546,6 +13798,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202140: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "urses INFO 2140: Cognitive Psychology The course introduces the idea of cognition as information proc"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202140
 http://www.infosci.cornell.edu/about/SeminarFall04/Sept08.html: !ruby/object:Page 
@@ -13558,6 +13811,7 @@ http://www.infosci.cornell.edu/about/SeminarFall04/Sept08.html: !ruby/object:Pag
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: nsive interviews with selected participants. From a technical point of view, I will discuss successes
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarFall04/Sept08.html
 http://www.infosci.cornell.edu/about/colloquiumFA06/Oct25.html: !ruby/object:Page 
@@ -13606,6 +13860,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA06/Oct25.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "ication scenarios: privacy-preserving data analysis and privacy-preserving data publishing. He will t"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA06/Oct25.html
 http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april7.html: !ruby/object:Page 
@@ -13654,6 +13909,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april7.html: !ruby/object:Pa
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: the HCI community. Focal points will be the use of animated interactive characters in games and aspec
   title: Cornell IS-SIGCHI Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april7.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206500: !ruby/object:Page 
@@ -13750,6 +14006,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206500: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "0: Language and Technology Graduate-level readings and research supplementing COMM 4500. Examines how"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206500
 http://www.infosci.cornell.edu/grad/FAQgrad.html: !ruby/object:Page 
@@ -13807,6 +14064,7 @@ http://www.infosci.cornell.edu/grad/FAQgrad.html: !ruby/object:Page
       anchor: Recommended and
       id: 213
       url: http://www.infosci.cornell.edu/grad/classes.html
+  snippet: w does one find an advisor and a special committee? Many students enter Cornell with a good idea of w
   title: Frequently Asked Questions
   url: http://www.infosci.cornell.edu/grad/FAQgrad.html
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment2.html: !ruby/object:Page 
@@ -13847,6 +14105,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment2.html: !ruby/o
       anchor: Syllabus
       id: 199
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html
+  snippet: ser2 = [0 0 0 0 0 2 0 0 0 4] newuser3 = [0 3 0 0 0 0 0 3 0 0] (To do this, you need to right multiply
   title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment2.html
 http://www.infosci.cornell.edu/dl/dl-archive.html: !ruby/object:Page 
@@ -13864,6 +14123,7 @@ http://www.infosci.cornell.edu/dl/dl-archive.html: !ruby/object:Page
       anchor: Information Science Home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: e the application of distributed digital library technology to nomadic (disconnected or randomly conn
   title: Archive of Digital Libraries Research at Cornell
   url: http://www.infosci.cornell.edu/dl/dl-archive.html
 http://www.infosci.cornell.edu/about/SeminarSpring04/Apr14.html: !ruby/object:Page 
@@ -13876,6 +14136,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring04/Apr14.html: !ruby/object:Pa
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: "s remaining from the workplace pervade. In this talk, Jofish will present work on Intimate Objects: d"
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring04/Apr14.html
 http://www.infosci.cornell.edu/dl/index.html: !ruby/object:Page 
@@ -13913,6 +14174,7 @@ http://www.infosci.cornell.edu/dl/index.html: !ruby/object:Page
       anchor: NSDL-funded projects at Cornell
       id: 211
       url: http://www.infosci.cornell.edu/dl/nsdl-cornell.html
+  snippet: " Web Library The Web Library is a joint project of Cornell University and the Internet Archive to pro"
   title: Digital Libraries Research at Cornell
   url: http://www.infosci.cornell.edu/dl/index.html
 http://www.infosci.cornell.edu/courses/info2040/2009sp/index.htm: !ruby/object:Page 
@@ -13927,6 +14189,7 @@ http://www.infosci.cornell.edu/courses/info2040/2009sp/index.htm: !ruby/object:P
       anchor: schedule of office hours
       id: 174
       url: http://www.infosci.cornell.edu/courses/info2040/2009sp/index.htm
+  snippet: " is useful to model the Web as a network, discussing how search engines make use of link information "
   title: Networks (Econ/Soc/CS/Info , David Easley and Jon Kleinberg)
   url: http://www.infosci.cornell.edu/courses/info2040/2009sp/index.htm
 http://www.infosci.cornell.edu/courses/nowebsite.htm: !ruby/object:Page 
@@ -13973,6 +14236,7 @@ http://www.infosci.cornell.edu/courses/nowebsite.htm: !ruby/object:Page
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: " course is new or the instructor may have elected to not have a course website. Whatever the reason, "
   title: No course website
   url: http://www.infosci.cornell.edu/courses/nowebsite.htm
 http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr30_08.htm: !ruby/object:Page 
@@ -14009,6 +14273,7 @@ http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr30_08.htm: !r
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: mes around the world that provide insights for the development of solutions for broadband/broadcast c
   title: SIGCHI Invited Lecturer Series
   url: http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr30_08.htm
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203650: !ruby/object:Page 
@@ -14105,6 +14370,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203650: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: " 3650: Technology in Collaboration Course focuses on understanding the use of communication technolog"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203650
 http://www.infosci.cornell.edu/ugrad/ISSTRequirements.htm: !ruby/object:Page 
@@ -14175,6 +14441,7 @@ http://www.infosci.cornell.edu/ugrad/ISSTRequirements.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: " I [ORIE 4800] Information Technology ORIE 4580* Simulation Modeling and Analysis*Students who took O"
   title: Major Requirements
   url: http://www.infosci.cornell.edu/ugrad/ISSTRequirements.htm
 http://www.infosci.cornell.edu/about/colloquiumSP08/Jan24.html: !ruby/object:Page 
@@ -14211,6 +14478,7 @@ http://www.infosci.cornell.edu/about/colloquiumSP08/Jan24.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: r issues addressed in her work include the use of emergent technologies to investigate context specif
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumSP08/Jan24.html
 http://www.infosci.cornell.edu/about/colloquiumFA05/nov30.html: !ruby/object:Page 
@@ -14259,6 +14527,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA05/nov30.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "can use this mismatch between performed and perceived behavior as a tool to examine complex patterns "
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA05/nov30.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206341: !ruby/object:Page 
@@ -14351,6 +14620,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206341: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: on technology--often portrayed as radically new--actually deeply historical? How do information techn
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206341
 http://www.infosci.cornell.edu/about/colloquiumFA06/Oct11.html: !ruby/object:Page 
@@ -14399,6 +14669,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA06/Oct11.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: ibing the basic services and highlighting some of the technical research challenges posed by the libr
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA06/Oct11.html
 http://www.infosci.cornell.edu/courses/Projectlist.htm: !ruby/object:Page 
@@ -14493,6 +14764,7 @@ http://www.infosci.cornell.edu/courses/Projectlist.htm: !ruby/object:Page
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: " Project List Be the first to register your INFO 490. While students have completed INFO 490 projects"
   title: Independent Research
   url: http://www.infosci.cornell.edu/courses/Projectlist.htm
 http://www.infosci.cornell.edu/about/SeminarSpring05/March30b.html: !ruby/object:Page 
@@ -14505,6 +14777,7 @@ http://www.infosci.cornell.edu/about/SeminarSpring05/March30b.html: !ruby/object
       anchor: home
       id: 73
       url: http://www.infosci.cornell.edu/about/index.html
+  snippet: tifying effective ways of working in these teams is still somewhat of a mystery. One group process th
   title: INFORMATION SCIENCE SEMINAR
   url: http://www.infosci.cornell.edu/about/SeminarSpring05/March30b.html
 http://www.infosci.cornell.edu/dl/dl-people.html: !ruby/object:Page 
@@ -14521,6 +14794,7 @@ http://www.infosci.cornell.edu/dl/dl-people.html: !ruby/object:Page
       anchor: Information Science Home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "fft Carl Lagoze Sandy Payette Carol Minton-Morris Lynette Rayle John Saylor Eddie Shin Simeon Warner "
   title: "Digital Libraries Research at Cornell: People"
   url: http://www.infosci.cornell.edu/dl/dl-people.html
 http://www.infosci.cornell.edu/about/colloquium-spring2006.html: !ruby/object:Page 
@@ -14585,6 +14859,7 @@ http://www.infosci.cornell.edu/about/colloquium-spring2006.html: !ruby/object:Pa
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: ion, and how to prepare for the next techno-mania [handout] Monday, March 27 4:00 - 6:00pAlice Statle
   title: Cornell Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquium-spring2006.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204500: !ruby/object:Page 
@@ -14681,6 +14956,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204500: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "tion Science Courses INFO 4500: Language and Technology Examines how new communication technologies a"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204500
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203490: !ruby/object:Page 
@@ -14777,6 +15053,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203490: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: ure, and drive social agendas depend on the tools we've developed. However, our commonplace notions o
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203490
 http://www.infosci.cornell.edu/hadoop/runjob.html: !ruby/object:Page 
@@ -14789,6 +15066,7 @@ http://www.infosci.cornell.edu/hadoop/runjob.html: !ruby/object:Page
       anchor: Hadoop Home
       id: 221
       url: http://www.infosci.cornell.edu/hadoop/index.html
+  snippet: "s available for working on the dfs by executing the following: hadoop dfs More information about the "
   title: "Cornell Web Lab: Hadoop"
   url: http://www.infosci.cornell.edu/hadoop/runjob.html
 http://www.infosci.cornell.edu/about/colloquiumFA08/Nov12.html: !ruby/object:Page 
@@ -14825,6 +15103,7 @@ http://www.infosci.cornell.edu/about/colloquiumFA08/Nov12.html: !ruby/object:Pag
       anchor: home
       id: 1
       url: http://www.infosci.cornell.edu/index.html
+  snippet: "avoidable: any robust recommender system must also discard ?(log n/c) information from each genuine r"
   title: Information Science Colloquium
   url: http://www.infosci.cornell.edu/about/colloquiumFA08/Nov12.html
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206450: !ruby/object:Page 
@@ -14921,6 +15200,7 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206450: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: " Graduate-level readings and research supplementing COMM/INFO 4450. Through close reading and researc"
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206450
 http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Page 
@@ -15048,6 +15328,7 @@ http://www.infosci.cornell.edu/about/seminarSeries.html: !ruby/object:Page
       anchor: The First-Ever Information Science Research Cavalcade
       id: 40
       url: http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%2013.html
+  snippet: "Room Judith Donath, Fellow at Harvard University Co-sponsored with COMM Host: Jeff Hancock Signaling "
   title: Cornell Information Science Colloquium - INFO 7090
   url: http://www.infosci.cornell.edu/about/seminarSeries.html
 http://www.infosci.cornell.edu/ugrad/sampleSched_Engin.html: !ruby/object:Page 
@@ -15100,6 +15381,7 @@ http://www.infosci.cornell.edu/ugrad/sampleSched_Engin.html: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: ment. See the major requirements or your class year's Engineering Handbook for details. For answers t
   title: Sample Schedule
   url: http://www.infosci.cornell.edu/ugrad/sampleSched_Engin.html
 http://www.infosci.cornell.edu/Courses/info4300/2010fa/code.html: !ruby/object:Page 
@@ -15140,6 +15422,7 @@ http://www.infosci.cornell.edu/Courses/info4300/2010fa/code.html: !ruby/object:P
       anchor: Syllabus
       id: 199
       url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html
+  snippet: k together on a task, all should be named on the work products. People should usually be listed in al
   title: "CS4300/INFO4300: Information Retrieval"
   url: http://www.infosci.cornell.edu/Courses/info4300/2010fa/code.html
 http://weblab.infosci.cornell.edu/policy.html: !ruby/object:Page 
@@ -15180,6 +15463,7 @@ http://weblab.infosci.cornell.edu/policy.html: !ruby/object:Page
       anchor: Overview
       id: 284
       url: http://weblab.infosci.cornell.edu/overview.html
+  snippet: n implied license to use it for limited purposes, including archiving and academic research, unless t
   title: The Cornell Web Lab
   url: http://weblab.infosci.cornell.edu/policy.html
 http://www.infosci.cornell.edu/ugrad/Recker.htm: !ruby/object:Page 
@@ -15228,6 +15512,7 @@ http://www.infosci.cornell.edu/ugrad/Recker.htm: !ruby/object:Page
       anchor: IS Professionals Homepage
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: on of ideas, knowledge, and technology in new media. NetDay, a community project dedicated to the dev
   title: IS Professionals
   url: http://www.infosci.cornell.edu/ugrad/Recker.htm
 http://www.infosci.cornell.edu/ugrad/ArtsHonors.htm: !ruby/object:Page 
@@ -15280,6 +15565,7 @@ http://www.infosci.cornell.edu/ugrad/ArtsHonors.htm: !ruby/object:Page
       anchor: Majors
       id: 257
       url: http://www.infosci.cornell.edu/ugrad/index.html
+  snippet: "ajor courses: Three additional credit hours of IS course work at or above the 500 level; (graded cour"
   title: Honors Requirements
   url: http://www.infosci.cornell.edu/ugrad/ArtsHonors.htm
 http://www.infosci.cornell.edu/courses/info2040/2010fa/index.htm: !ruby/object:Page 
@@ -15295,6 +15581,7 @@ http://www.infosci.cornell.edu/courses/info2040/2010fa/index.htm: !ruby/object:P
       anchor: CMS site
       id: 175
       url: http://www.infosci.cornell.edu/courses/info2040/2010fa/index.htm
+  snippet: rse topics, we describe why it is useful to model the Web as a network, discussing how search engines
   title: Networks (Econ/Soc/CS/Info , David Easley and Jon Kleinberg)
   url: http://www.infosci.cornell.edu/courses/info2040/2010fa/index.htm
 http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%205150: !ruby/object:Page 
@@ -15392,5 +15679,6 @@ http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%205150: !ruby/ob
       anchor: IS Professionals
       id: 261
       url: http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+  snippet: "ociations Information Science Courses INFO 5150: Culture, Law, and Politics of the Internet Explores "
   title: Information Science Courses
   url: http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%205150

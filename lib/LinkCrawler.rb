@@ -14,7 +14,7 @@ class String
 end
 
 class LinkCrawler
-  attr_accessor :page_title
+  attr_accessor :page_title, :page_snippet
   @@log = Logger.new(File.dirname(__FILE__) + "/../logs/crawler.log")
   def initialize(url)
     @url = url
@@ -22,7 +22,8 @@ class LinkCrawler
     begin
       open(url) do |f|
         doc = Nokogiri::HTML.parse f.read
-        get_page_title(doc)
+        @page_title = get_page_title(doc)
+        @page_snippet = get_page_snippet(doc)
         doc.css('a').each do |link|
           @links << { :url    => link['href'],
                       :anchor => get_anchor(link) }
@@ -67,13 +68,19 @@ private
     end
     if (proper_title.empty? or proper_title == "Cornell Information Science") \
        and !alternate_title.nil? and !alternate_title.empty?
-      @page_title = alternate_title
+      page_title = alternate_title
     else
-      @page_title = proper_title
+      page_title = proper_title
     end
-    if !@page_title.nil?
-      @page_title = @page_title.gsub(/[\n\r]/, "").squeeze(" ").strip
+    if !page_title.nil?
+      page_title = page_title.gsub(/[\n\r]/, "").squeeze(" ").strip
     end
-    return @page_title
+    return page_title
+  end
+  
+  def get_page_snippet(doc)
+    doc_text = doc.inner_text.gsub(/&.*;|\s/," ").squeeze(" ")
+    pos = doc_text.size/2
+    return "#{doc_text[pos-50..pos+50]}"
   end
 end

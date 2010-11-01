@@ -37,6 +37,7 @@ class PageCollection
       @@log.debug "#{page.id}\t- [#{page.url}]"
       crawler = LinkCrawler.new(page.url)
       page.title = crawler.page_title
+      page.snippet = crawler.page_snippet
       crawler.each do |u, a|
         threads << Thread.new(u, a) do |linked_url, anchor|
           if(self.include? linked_url)
@@ -50,6 +51,6 @@ class PageCollection
       end
     end
     threads.each {|t| t.join}
-    puts "done crawling!"
+    puts "\ndone crawling!"
   end
 end

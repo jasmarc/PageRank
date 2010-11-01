@@ -33,3 +33,33 @@ File.open("metadata", "w") do |f|
     puts "Title: [#{page.title}]\tAnchor: [#{page.anchors.to_a.join(', ')}]"
   end
 end
+
+def query(collection, q)
+  case q
+  when String:
+    collection.pages.values.find_all do |page|
+      page.include? q
+    end.sort { |a, b| b.rank <=> a.rank}.map do |page|
+      "[#{page.title}]\n\t[#{page.url}]\n\t[#{page.snippet}]"
+    end.join("\n")
+  when Array:
+    collection.pages.values.find_all do |page|
+      page.includes_any? q
+    end.sort { |a, b| b.rank <=> a.rank}.map do |page|
+      "[#{page.title}]\n\t[#{page.url}]\n\t[#{page.snippet}]"
+    end.join("\n")
+  end
+end
+
+puts "Enter a query or type 'ZZZ' to end."
+ARGF.each do |line|
+  words = line.split
+  if(words.size == 1)
+    exit if words[0] == "ZZZ"
+    puts query(collection, words[0])
+  elsif(words.size > 1)
+    puts query(collection, words)
+  else
+    puts "Enter a query or type 'ZZZ' to end."
+  end
+end

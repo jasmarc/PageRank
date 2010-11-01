@@ -24,7 +24,7 @@ class TestLinkCrawler < Test::Unit::TestCase
       id, url = row.split("\t")
       id = id.to_i
       crawler = LinkCrawler.new(url)
-      puts crawler.page_title
+      puts "[#{crawler.page_title}]\t[#{crawler.page_snippet}]"
     end
   end
 end
