@@ -27,7 +27,59 @@ breakatwhitespace=false,        % sets if automatic breaks should only happen at
 \newpage
 \section{Introduction} % (fold)
 \label{sec:introduction}
+The purpose of this assignment was to implement PageRank via the power method. The code crawls a pre-specified subset of the Cornell Information Science website, generates a link matrix, computes PageRank for the pages crawled, and then uses the anchor text to form a very rudimentary search engine.
 % section introduction (end)
+\section{Algorithms and Datastructures} % (fold)
+\label{sec:algorithms_and_datastructures}
+\subsection{Crawling} % (fold)
+\label{sub:crawling}
+At the top-most level, we have a class called \texttt{PageCollection}. A \texttt{PageCollection} has many \texttt{Pages}. A \texttt{Page} has many \texttt{Links}. The \texttt{PageCollection} object has a \texttt{crawl} method on it that instantiates a new \texttt{LinkCrawler} for each page. The \texttt{LinkCrawler} iterates through all of the links, calling the \texttt{Resolver} which converts links into a standardized, absolute URL. The standardized version of the URL as output from the \texttt{Resolver} is checked against the \texttt{PageCollection} (the \texttt{PageCollection} actually uses a hashtable and uses the standardized version of the URL as it's key). If the link is found in the \texttt{PageCollection} then it is added as a new \texttt{Link} in that page's collection of \texttt{Links}. Crawling results are stored in a file \texttt{collection.yaml} in order to not have to crawl every time we want to run the search engine.
+% subsection crawling (end)
+\newpage
+\subsection{Computing PageRank} % (fold)
+\label{sub:computing_pagerank}
+The \texttt{PageCollection} object is coerced into a sparse matrix of the following form:
+\lstset{caption=This example actually corresponds to the link network example from the slides in class.}
+\begin{lstlisting}
+[[1, [3]], 
+ [2, [2, 3]], 
+ [3, [1, 3, 4]], 
+ [4, [4, 5]], 
+ [5, [7]], 
+ [6, [6, 7]], 
+ [7, [4, 5, 7]]]
+\end{lstlisting}
+This sparse matrix is then converted into a probability matrix like so:
+\lstset{caption=Probability matrix corresponding to link network from class slides.}
+\begin{lstlisting}
+[[0.02, 0.02, 0.88, 0.02, 0.02, 0.02, 0.02],
+ [0.02, 0.45, 0.45, 0.02, 0.02, 0.02, 0.02],
+ [0.31, 0.02, 0.31, 0.31, 0.02, 0.02, 0.02],
+ [0.02, 0.02, 0.02, 0.45, 0.45, 0.02, 0.02],
+ [0.02, 0.02, 0.02, 0.02, 0.02, 0.02, 0.88],
+ [0.02, 0.02, 0.02, 0.02, 0.02, 0.45, 0.45],
+ [0.02, 0.02, 0.02, 0.31, 0.31, 0.02, 0.31]]
+\end{lstlisting}
+In this sparse matrix example, $\alpha=0.14$. We then start with an arbitrary non-zero $\vec{r}$ and iteratively perform the PageRank computation via the power method until we reach convergence. For the assignment, however, $\alpha=0.2$, the PageRanks are computed accordingly and then are woven back in the \texttt{PageCollection} data-structure.
+% subsection computing_pagerank (end)
+\subsection{Search Engine} % (fold)
+\label{sub:search_engine}
+For the search engine portion of the assignment, we accept queries from the user and look for occurrences of the terms in the query in the anchor text associated with each page and return the corresponding pages, sorted by PageRank, along with some snippet from the page.
+% subsection search_engine (end)
+% section algorithms_and_datastructures (end)
+\section{Instructions for Running} % (fold)
+\label{sec:instructions_for_running}
+The program may be run by typing \texttt{ruby main.rb} from the root of the project folder. 
+
+Note that this project relies on the following libraries:
+\begin{itemize}
+  \item \textbf{Nokogiri} ``An HTML, XML, SAX, & Reader parser with the ability to search documents via XPath or CSS3 selectors… and much more.'' \url{http://nokogiri.org/tutorials/installing_nokogiri.html}
+  \item \textbf{GSL} ``The GNU Scientific Library (GSL) is a numerical library for C and C++ programmers. It is free software under the GNU General Public License.'' \url{http://www.gnu.org/software/gsl/}
+  \item \textbf{Ruby GSL} - ``RubyGSL is a ruby interface to the GSL (GNU Scientific Library), for numerical computing with Ruby.'' \url{http://rb-gsl.rubyforge.org/}
+\end{itemize}
+All software was tested on \texttt{snoopy.cs.cornell.edu}. A local version of \texttt{ruby 1.8.8dev (2010-10-30) [i686-linux]} was installed at \texttt{/home/jrm425/usr/local/bin/ruby}. A local version of \texttt{rubygems 1.3.7} was installed at \texttt{/home/jrm425/usr/local/bin/gem}. Likewise, appropriate versions of the nokogiri gem, GSL, and the corresponding Ruby GSL wrapper gem were installed appropriately.
+% section instructions_for_running (end)
+\newpage
 \section{References} % (fold)
 \label{sec:references}
 \begin{itemize}
